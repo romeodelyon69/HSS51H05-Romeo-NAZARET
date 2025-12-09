@@ -24,23 +24,16 @@ control.defaults.window_size = (screen_width * 0.9, screen_height * 0.9)
 design.defaults.experiment_background_colour = (255, 255, 255)
 design.defaults.experiment_foreground_colour = (0, 0, 0)
 
-# Temps (en ms)
 TIME_CUE = 2500
 TIME_TIMEOUT = 10000 
 
-# Configuration de la zone
 N_ITEMS = 16
 ITEM_SIZE_APPROX = 100 * scale 
 
-# --- NOUVEAUX PARAMÈTRES DE ZONE ---
-# Taille du carré central (ex: 700x700 px ajusté à l'échelle)
 SQUARE_SIDE = 600 * scale 
 
-# Distance min : un peu réduite pour que tout rentre dans le carré
-# 1.2 x taille objet laisse un petit espace mais les "resserre"
 MIN_DISTANCE = ITEM_SIZE_APPROX * 1.0
 
-# Nombres d'essais
 N_SETS = 7      
 N_REPEATS = 1   
 
@@ -56,19 +49,15 @@ def get_random_positions_in_square(n, min_dist, square_side):
     positions = []
     max_attempts = 5000 
     
-    # Limites pour le centre des objets
-    # On soustrait une demi-taille d'objet pour qu'ils ne dépassent pas du cadre
     limit = (square_side / 2) - (ITEM_SIZE_APPROX / math.sqrt(2))
 
     for _ in range(n):
         placed = False
         attempts = 0
         while not placed and attempts < max_attempts:
-            # 1. Tirer une position au hasard DANS LE CARRÉ
             rx = random.uniform(-limit, limit)
             ry = random.uniform(-limit, limit)
             
-            # 2. Vérifier collision
             collision = False
             for (px, py) in positions:
                 dist = math.sqrt((rx - px)**2 + (ry - py)**2)
@@ -88,7 +77,6 @@ def get_random_positions_in_square(n, min_dist, square_side):
     return positions
 
 def draw_stimulus_rotated(set_id, stimulus_type):
-    # Génération via gen_stimuli
     if set_id == 0: canvas = gen_stimuli.gen_stimulus0(stimulus_type, scale)
     elif set_id == 1: canvas = gen_stimuli.gen_stimulus1(stimulus_type, scale)
     elif set_id == 2: canvas = gen_stimuli.gen_stimulus2(stimulus_type, scale)
@@ -97,7 +85,6 @@ def draw_stimulus_rotated(set_id, stimulus_type):
     elif set_id == 5: canvas = gen_stimuli.gen_stimulus5(stimulus_type, scale)
     elif set_id == 6: canvas = gen_stimuli.gen_stimulus6(stimulus_type, scale)
     
-    # Rotation aléatoire
     angle = random.randint(0, 359)
     canvas.rotate(angle)
     return canvas
@@ -133,7 +120,6 @@ for repeat in range(N_REPEATS):
                     
                     trial = design.Trial()
                     
-                    # --- Logique conditions ---
                     target_type_str = t_cat
                     distractor_type_str = ""
                     
@@ -153,10 +139,7 @@ for repeat in range(N_REPEATS):
                     trial.set_factor("DistractorRelation", d_rel)
                     trial.set_factor("Present", is_present)
                     trial.set_factor("CorrectResp", 'y' if is_present else 'n')
-                    
-                    # --- Préparation Visuelle ---
-                    
-                    # 1. Indice (Cue)
+                                        
                     cue_stim = draw_cue(set_id, target_type_str)
                     cue_container = stimuli.Canvas(size=(200*scale, 200*scale), colour=(255,255,255))
                     cue_text = stimuli.TextLine("Trouvez ceci :", position=(0, 80*scale), text_colour=(0,0,0))
@@ -164,29 +147,24 @@ for repeat in range(N_REPEATS):
                     cue_stim.plot(cue_container)
                     trial.add_stimulus(cue_container) 
                     
-                    # 2. Tableau de recherche
                     search_array = stimuli.Canvas(size=(screen_width, screen_height), colour=(255,255,255))
                     
-                    # A. Dessiner le CADRE (Le carré visible)
                     frame = stimuli.Rectangle(size=(SQUARE_SIDE, SQUARE_SIDE), 
                                               line_width=3, 
-                                              colour=(0,0,0)) # Cadre noir
+                                              colour=(0,0,0)) 
                     frame.plot(search_array)
                     
-                    # B. Générer les positions DANS le carré
                     item_positions = get_random_positions_in_square(N_ITEMS, MIN_DISTANCE, SQUARE_SIDE)
                     
                     n_distractors = N_ITEMS
                     if is_present:
                         n_distractors -= 1
-                        # Cible
                         target_in_array = draw_stimulus_rotated(set_id, target_type_str)
                         if item_positions:
                             t_pos = item_positions.pop() 
                             target_in_array.position = t_pos
                             target_in_array.plot(search_array)
                         
-                    # Distracteurs
                     for i in range(n_distractors):
                         d_stim = draw_stimulus_rotated(set_id, distractor_type_str)
                         if item_positions: 

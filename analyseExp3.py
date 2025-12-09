@@ -3,16 +3,9 @@ import matplotlib.pyplot as plt
 import glob
 import os
 
-# =============================================================================
-# 1. CONFIGURATION
-# =============================================================================
 
 DATA_FOLDER = 'data'
 FILE_PATTERN = os.path.join(DATA_FOLDER, "Experience3*.xpd")
-
-# =============================================================================
-# 2. FONCTIONS DE LECTURE
-# =============================================================================
 
 def parse_custom_xpd(filepath):
     """
@@ -29,10 +22,8 @@ def parse_custom_xpd(filepath):
         with open(filepath, 'r') as f:
             lines = f.readlines()
 
-        # Filtrer commentaires et lignes vides
         content_lines = [line.strip() for line in lines if not line.startswith('#') and line.strip()]
         
-        # Ignorer la première ligne (header subject_id)
         if len(content_lines) > 1:
             data_rows = content_lines[1:]
         else:
@@ -40,7 +31,6 @@ def parse_custom_xpd(filepath):
 
         for row in data_rows:
             parts = row.split(',')
-            # On a besoin d'au moins 10 colonnes
             if len(parts) >= 10:
                 try:
                     
@@ -81,7 +71,6 @@ def parse_custom_xpd(filepath):
 # 3. ANALYSE ET GRAPHIQUE
 # =============================================================================
 
-# Chargement
 all_files = glob.glob(FILE_PATTERN)
 print(f"Fichiers trouvés : {len(all_files)}")
 
@@ -95,13 +84,10 @@ if not df.empty:
     print(f"Total essais : {len(df)}")
     print(f"Formes identifiées : {df['ShapeID'].unique()}")
     
-    # Filtrage RT aberrants
     df = df[df['RT'] <= 10000]
 
-    # Clé de paire non ordonnée (2,3) et (3,2) regroupées ensemble
     df['pair'] = df.apply(lambda r: tuple(sorted([r['nbLeftShape'], r['nbRightShape']])), axis=1)
 
-    # Agrégation : pourcentage de choix du côté complexe
     agg = df.groupby('pair')['choseComplex'].mean().reset_index()
     agg['Pourcentage_Complex'] = agg['choseComplex'] * 100
 
@@ -110,7 +96,6 @@ if not df.empty:
 
     print("df head:", df.head())
 
-    # --- GRAPHIQUE ---
     fig, ax = plt.subplots(figsize=(8, 5))
     x_positions = range(len(agg))
     labels = [f"{a}-{b}" for a, b in agg['pair']]

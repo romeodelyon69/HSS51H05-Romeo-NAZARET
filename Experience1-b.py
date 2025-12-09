@@ -16,30 +16,26 @@ import pyautogui
 # 1. PARAMÈTRES & CONFIGURATION
 # =============================================================================
 
-# Paramètres de l'écran (Fond blanc comme dans la Fig 3a )
 screen_width, screen_height = pyautogui.size()
 scale = min(screen_width / 1024 * 0.9, screen_height / 768 * 0.9)
 
-control.defaults.window_mode = True  # Mettre à False pour le plein écran
-control.defaults.window_size = (screen_width * 0.9, screen_height * 0.9)  # Taille de la fenêtre
+control.defaults.window_mode = True  
+control.defaults.window_size = (screen_width * 0.9, screen_height * 0.9)  
 design.defaults.experiment_background_colour = (255, 255, 255)
-design.defaults.experiment_foreground_colour = (0, 0, 0) # Texte noir
+design.defaults.experiment_foreground_colour = (0, 0, 0) 
 
-# Temps (en ms) [cite: 197, 568]
 TIME_PRIME = 1000
 TIME_ISI = 1000
-TIME_TIMEOUT = 10000  # 10 secondes max
+TIME_TIMEOUT = 10000  
 
-# Configuration des Stimuli
 GRID_POSITIONS = [
-    (-200 * scale, 150 * scale), (0, 150 * scale), (200 * scale, 150 * scale),  # Ligne haut
-    (-200 * scale, -150 * scale), (0, -150 * scale), (200 * scale, -150 * scale) # Ligne bas
+    (-200 * scale, 150 * scale), (0, 150 * scale), (200 * scale, 150 * scale),  
+    (-200 * scale, -150 * scale), (0, -150 * scale), (200 * scale, -150 * scale) 
 ]
-CIRCLE_RADIUS = 90 * scale # Taille des cercles placeholders
+CIRCLE_RADIUS = 90 * scale
 
-# Nombres d'essais [cite: 36]
-N_SETS = 7      # 7 sets d'objets uniques
-N_REPEATS = 2    # Chaque configuration vue 2 fois
+N_SETS = 7
+N_REPEATS = 2    
 
 # =============================================================================
 # 2. GÉNÉRATION DES STIMULI (PROCÉDURALE)
@@ -85,8 +81,6 @@ def get_placeholders():
 
 exp = design.Experiment(name="Exp 1b: Topological Perception")
 control.initialize(exp)
-
-# Création des blocks et essais
 block = design.Block(name="Main Block")
 
 # Types d'essais 
@@ -105,37 +99,30 @@ all_trials = []
 for repeat in range(N_REPEATS):
     for set_id in range(N_SETS):
         for t_def in trial_definitions:
-            # Création de l'objet Trial
             trial = design.Trial()
             
-            # Stockage des variables (Facteurs)
             trial.set_factor("SetID", set_id)
             trial.set_factor("TrialType", t_def['type'])
             trial.set_factor("CorrectResp", t_def['resp'])
             trial.set_factor("Stim2Category", t_def['stim2_type'])
-            
-            # Pré-chargement des stimuli pour cet essai pour performance optimale
-            # Stim 1 est TOUJOURS le 'default' 
+             
             stim1 = draw_stimulus(set_id, 'default')
             stim2 = draw_stimulus(set_id, t_def['stim2_type'])
             
-            # Choix des positions [cite: 204, 206]
-            # Pos 1 aléatoire, Pos 2 aléatoire MAIS différente de Pos 1
             pos_indices = list(range(len(GRID_POSITIONS)))
             idx1 = random.choice(pos_indices)
-            pos_indices.remove(idx1) # Enlever la position utilisée
+            pos_indices.remove(idx1) 
             idx2 = random.choice(pos_indices)
             
             trial.set_factor("Pos1_Idx", idx1)
             trial.set_factor("Pos2_Idx", idx2)
             
-            # Attacher les stimuli (extra) pour y accéder dans la boucle
             trial.add_stimulus(stim1)
             trial.add_stimulus(stim2)
             
             block.add_trial(trial)
 
-block.shuffle_trials() # Randomisation totale [cite: 201]
+block.shuffle_trials() 
 exp.add_block(block)
 
 # =============================================================================
@@ -144,56 +131,41 @@ exp.add_block(block)
 
 control.start(exp)
 
-# Instructions
-instr = stimuli.TextLine("Appuyez sur 's' pour PAREIL, 'd' pour DIFFÉRENT. Appuyez sur ESPACE pour commencer.", 
-                         text_colour=(0,0,0))
+instr = stimuli.TextBox("Des formes vont vous être présentées. Une première va s'afficher puis disparaître, et une seconde va alors apparaître.\n\nAppuyez sur 's' pour SAME, 'd' pour DIFFÉRENT. Appuyez sur ESPACE pour commencer.", 
+                         size = (600, 400),position=(0,0), text_colour=(0,0,0))
 instr.present()
 exp.keyboard.wait(misc.constants.K_SPACE)
 
 placeholders = get_placeholders()
 
-# Boucle principale
 for trial in exp.blocks[0].trials:
-    
-    # 1. Préparation
     stim1 = trial.stimuli[0]
     stim2 = trial.stimuli[1]
     
-    # Positionner les stimuli
     stim1.position = GRID_POSITIONS[trial.get_factor("Pos1_Idx")]
     stim2.position = GRID_POSITIONS[trial.get_factor("Pos2_Idx")]
     
-    # 2. Séquence temporelle de l'essai 
-    
-    # a. Fixation (Optionnel mais recommandé, ici juste les cercles vides)
     placeholders.present()
     exp.clock.wait(500)
     
-    # b. Stimulus 1 (Prime) - 1000ms
     placeholders.present(clear=False)
     stim1.present(clear=False, update=True)
     exp.clock.wait(TIME_PRIME)
     
-    # c. Délai (ISI) - 1000ms (On ré-affiche juste les cercles vides)
     placeholders.present() 
     exp.clock.wait(TIME_ISI)
     
-    # d. Stimulus 2 (Target) - Jusqu'à réponse
     placeholders.present(clear=False)
     stim2.present(clear=False, update=True)
-    
-    # e. Enregistrement réponse [cite: 197, 568]
-    # Touches: s (115) et d (100)
+
     start_time = exp.clock.time
     key, rt = exp.keyboard.wait_char(['s', 'd'], duration=TIME_TIMEOUT)
     
-    # 3. Sauvegarde des données
     if key is None:
         response = "timeout"
         acc = 0
     else:
         response = key
-        # Vérification précision
         acc = 1 if response == trial.get_factor("CorrectResp") else 0
 
     exp.data.add([

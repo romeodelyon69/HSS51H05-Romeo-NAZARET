@@ -12,7 +12,7 @@ import random
 import math
 import pyautogui
 from expyriment import design, control, stimuli, io, misc
-import gen_stimuli  # Import du module de génération
+import gen_stimuli
 
 # =============================================================================
 # 1. CONFIGURATION ET PARAMÈTRES
@@ -23,11 +23,9 @@ import gen_stimuli  # Import du module de génération
 # 'objects' = Exp 3b (Compter les objets totaux)
 TASK_MODE = 'lines' 
 
-# Récupération taille écran
 screen_width, screen_height = pyautogui.size()
 scale = min(screen_width / 1024 * 0.9, screen_height / 768 * 0.9)
 
-# Configuration Expyriment
 control.defaults.window_mode = True 
 control.defaults.window_size = (int(screen_width * 0.9), int(screen_height * 0.9))
 design.defaults.experiment_background_colour = (255, 255, 255) # Blanc
@@ -36,12 +34,10 @@ design.defaults.experiment_foreground_colour = (0, 0, 0)       # Noir
 TIME_STIMULUS = 1000   
 TIME_ISI = 1000        
 
-# Paramètres des objets
 ITEM_SIZE = 60 * scale 
 LINE_WIDTH = 4
 COLOR_BLACK = (0, 0, 0)
 
-# Paramètres des boîtes
 BOX_SIZE = 550 * scale         
 BOX_OFFSET_X = screen_width * 0.22 
 
@@ -140,20 +136,19 @@ def get_random_positions_in_rect(n, rect_w, rect_h, x_offset, min_dist):
 # =============================================================================
 # 4. PRÉPARATION
 # =============================================================================
+instr_text = "Deux lots de formes vont vous être présentés. L'objectif est de déterminer lequel des deux contient le plus de lignes \n\n'd' = DROITE\n'g' = GAUCHE\n\nAppuyez sur ESPACE pour commencer."
+instr = stimuli.TextBox(instr_text, size=(600, 400), position=(0,0), text_colour=(0,0,0))
+instr.present()
+exp.keyboard.wait(misc.constants.K_SPACE)
 
-
-# --- CRÉATION DES BLOCS ---
+# CRÉATION DES BLOCS 
 block = design.Block(name="Main Block")
 
 for repeat in range(N_REPEATS):
     for pair in NUMEROSITY_PAIRS:
         
-        # 1. Choix aléatoire du Set pour cet essai (0, 1 ou 5)
-        # Cela introduit la variété demandée (T, F, H vs L, Ligne, U)
         current_set = random.choice(USED_SETS)
         
-        # 2. Assignation des côtés
-        # 0 = Gauche a la topo COMPLEXE (Default), Droite a la topo SIMPLE (Diff)
         side_assignment = random.choice([0, 1])
         
         trial = design.Trial()
@@ -178,23 +173,22 @@ for repeat in range(N_REPEATS):
         
         scene = stimuli.Canvas(size=(screen_width, screen_height), colour=(255,255,255))
         
-        # Dessiner les boîtes
         draw_box_outline(scene, -BOX_OFFSET_X, 0, BOX_SIZE)
         draw_box_outline(scene, BOX_OFFSET_X, 0, BOX_SIZE)
         
         min_dist = ITEM_SIZE * 1.5 # Distance pour éviter les superpositions
         
-        # --- GÉNÉRATION GAUCHE ---
+
         pos_left = get_random_positions_in_rect(n_left, BOX_SIZE, BOX_SIZE, -BOX_OFFSET_X, min_dist)
         for p in pos_left:
-            # Appel à gen_stimuli via notre fonction helper
+
             s = get_stimulus_from_lib(current_set, type_left)
-            # Rotation aléatoire pour que la topologie prime sur l'orientation
+
             s.rotate(random.randint(0, 359)) 
             s.position = p
             s.plot(scene)
             
-        # --- GÉNÉRATION DROITE ---
+
         pos_right = get_random_positions_in_rect(n_right, BOX_SIZE, BOX_SIZE, BOX_OFFSET_X, min_dist)
         for p in pos_right:
             s = get_stimulus_from_lib(current_set, type_right)
@@ -225,21 +219,18 @@ for trial in exp.blocks[0].trials:
     lbl_right.present(clear=False)
     scene.present(clear=False)
     
-    # --- ATTENTE DE LA RÉPONSE ---
-    # Attendre la réponse sans limite de temps
-    key, rt = exp.keyboard.wait_char(['g', 'd', misc.constants.K_ESCAPE])
-    
-    # Vérifier si l'utilisateur veut quitter
+
+    key, rt = exp.keyboard.wait_char(['g', 'd', misc.constants.K_ESCAPE, 'y', 'n'])
+
     if key == misc.constants.K_ESCAPE:
         break
     
-    # Effacer l'écran après la réponse
     exp.screen.clear()
     exp.screen.update()
     
-    # Données
+
     resp_side = 'left' if key == 'g' else 'right'
-    # "More T Side" signifie ici le côté avec la topologie complexe (Set Default)
+
     chose_complex_topo = 1 if resp_side == trial.get_factor("More_T_Side") else 0
     
     correct_numerosity = 0

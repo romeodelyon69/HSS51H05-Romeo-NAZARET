@@ -3,16 +3,10 @@ import matplotlib.pyplot as plt
 import glob
 import os
 
-# =============================================================================
-# 1. CONFIGURATION
-# =============================================================================
 
 DATA_FOLDER = 'data'
 FILE_PATTERN = os.path.join(DATA_FOLDER, "Experience2*.xpd")
 
-# =============================================================================
-# 2. FONCTIONS DE LECTURE
-# =============================================================================
 
 def parse_custom_xpd(filepath):
     """
@@ -29,10 +23,8 @@ def parse_custom_xpd(filepath):
         with open(filepath, 'r') as f:
             lines = f.readlines()
 
-        # Filtrer commentaires et lignes vides
         content_lines = [line.strip() for line in lines if not line.startswith('#') and line.strip()]
         
-        # Ignorer la première ligne (header subject_id)
         if len(content_lines) > 1:
             data_rows = content_lines[1:]
         else:
@@ -66,12 +58,6 @@ def parse_custom_xpd(filepath):
     return raw_data
 
 
-
-# =============================================================================
-# 3. ANALYSE ET GRAPHIQUE
-# =============================================================================
-
-# Chargement
 all_files = glob.glob(FILE_PATTERN)
 print(f"Fichiers trouvés : {len(all_files)}")
 
@@ -85,37 +71,20 @@ if not df.empty:
     print(f"Total essais : {len(df)}")
     print(f"Formes identifiées : {df['ShapeID'].unique()}")
     
-    # Filtrage RT
     df = df[df['RT'] <= 10000]
-    
-    # Renommage des conditions pour l'affichage
-    # Note: 'default' correspond généralement à la condition 'same' (identique)
-    # ou 'diff_topo' selon comment le fichier est généré.
-    # Dans votre fichier exemple: 
-    # 'default' est utilisé pour l'objet identique (réponse s)
-    # 'diff_topo' pour topologie différente (réponse d)
-    # 'same_topo' pour même topologie (réponse d)
     
     df['Condition_Label'] = df['Condition'].map({
         'diff_topo_rel': 'Topologie\nDifférente',
         'same_topo_rel': 'Même\nTopologie',
-        # On peut ignorer 'default'/'same' car ce n'est pas la comparaison d'intérêt
-        # mais on le laisse au cas où vous voudriez vérifier
     })
 
-    # Sélection des conditions d'intérêt (Comparaison Topologique)
     subset = df[df['Condition'].isin(['diff_topo_rel', 'same_topo_rel'])].copy()
 
-    # --- AGRÉGATION PAR FORME (ITEM ANALYSIS) ---
-    # Au lieu de grouper par 'Subject', on groupe par 'ShapeID'
-    # On calcule la moyenne de précision et de temps de réponse pour chaque forme à travers tous les sujets
     shape_means = subset.groupby(['ShapeID', 'Condition_Label'])[['Accuracy', 'RT']].mean().reset_index()
 
-    # --- GRAPHIQUES RT & ACCURACY CÔTE À CÔTE ---
     order = ['Même\nTopologie', 'Topologie\nDifférente']
     fig, axes = plt.subplots(1, 2, figsize=(14, 6))
 
-    # --- RT (gauche) ---
     ax_rt = axes[0]
     pivot_rt = shape_means.pivot(index='ShapeID', columns='Condition_Label', values='RT')
     print("pivot_rt:", pivot_rt)
@@ -133,7 +102,6 @@ if not df.empty:
     ax_rt.set_ylim(0, shape_means['RT'].max() + 500)
     ax_rt.grid(True, alpha=0.3, axis='y')
 
-    # --- ACCURACY (droite) ---
     ax_acc = axes[1]
     pivot_acc = shape_means.pivot(index='ShapeID', columns='Condition_Label', values='Accuracy')
     if all(col in pivot_acc.columns for col in order):
@@ -154,7 +122,6 @@ if not df.empty:
     fig.tight_layout()
     plt.show()
 
-    # --- STATISTIQUES ---
     print("\n--- RÉSULTATS PAR FORME ---")
     print(pivot_acc)
     print(pivot_rt)
