@@ -1,0 +1,353 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Tue Dec 09 2025 13:07:56
+#sha1: 517e7a
+#modules: gen_stimuli.py (57a8ea)
+#display: size=(1728.0, 1080.0), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='RomeoGYGABYTE', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+12628,design,log,
+#design: #exp: Exp 1b: Topological Perception
+#design: block_cnt,block_id,trial_cnt,trial_id,CorrectResp,Pos1_Idx,Pos2_Idx,SetID,Stim2Category,TrialType
+#design: 0,0,0,10,d,4,2,3,same_topo,same_topo
+#design: 0,0,1,35,d,4,5,4,diff_topo,diff_topo
+#design: 0,0,2,25,d,3,4,1,same_topo,same_topo
+#design: 0,0,3,19,d,2,5,6,same_topo,same_topo
+#design: 0,0,4,38,d,4,5,5,diff_topo,diff_topo
+#design: 0,0,5,3,s,1,5,1,default,same
+#design: 0,0,6,31,d,0,1,3,same_topo,same_topo
+#design: 0,0,7,26,d,3,0,1,diff_topo,diff_topo
+#design: 0,0,8,33,s,3,5,4,default,same
+#design: 0,0,9,24,s,3,0,1,default,same
+#design: 0,0,10,7,d,4,1,2,same_topo,same_topo
+#design: 0,0,11,28,d,5,2,2,same_topo,same_topo
+#design: 0,0,12,34,d,3,2,4,same_topo,same_topo
+#design: 0,0,13,29,d,5,1,2,diff_topo,diff_topo
+#design: 0,0,14,13,d,1,3,4,same_topo,same_topo
+#design: 0,0,15,15,s,4,0,5,default,same
+#design: 0,0,16,9,s,2,5,3,default,same
+#design: 0,0,17,40,d,5,1,6,same_topo,same_topo
+#design: 0,0,18,18,s,0,2,6,default,same
+#design: 0,0,19,17,d,0,5,5,diff_topo,diff_topo
+#design: 0,0,20,12,s,2,5,4,default,same
+#design: 0,0,21,1,d,3,5,0,same_topo,same_topo
+#design: 0,0,22,22,d,1,2,0,same_topo,same_topo
+#design: 0,0,23,5,d,4,5,1,diff_topo,diff_topo
+#design: 0,0,24,36,s,1,4,5,default,same
+#design: 0,0,25,0,s,4,0,0,default,same
+#design: 0,0,26,11,d,1,3,3,diff_topo,diff_topo
+#design: 0,0,27,32,d,0,2,3,diff_topo,diff_topo
+#design: 0,0,28,41,d,5,1,6,diff_topo,diff_topo
+#design: 0,0,29,4,d,2,0,1,same_topo,same_topo
+#design: 0,0,30,16,d,5,0,5,same_topo,same_topo
+#design: 0,0,31,37,d,0,2,5,same_topo,same_topo
+#design: 0,0,32,14,d,3,1,4,diff_topo,diff_topo
+#design: 0,0,33,8,d,0,3,2,diff_topo,diff_topo
+#design: 0,0,34,39,s,0,2,6,default,same
+#design: 0,0,35,20,d,2,4,6,diff_topo,diff_topo
+#design: 0,0,36,2,d,5,1,0,diff_topo,diff_topo
+#design: 0,0,37,6,s,5,0,2,default,same
+#design: 0,0,38,21,s,0,1,0,default,same
+#design: 0,0,39,23,d,1,5,0,diff_topo,diff_topo
+#design: 0,0,40,30,s,3,1,3,default,same
+#design: 0,0,41,27,s,5,0,2,default,same
+12628,design,logged,
+12628,Experiment,started
+12632,Stimulus,presented,660
+13730,Keyboard,received,32,wait
+13747,Stimulus,presented,661
+14259,Stimulus,presented,661
+14266,Stimulus,presented,148
+15278,Stimulus,presented,661
+16288,Stimulus,presented,661
+16296,Stimulus,presented,159
+17283,Keyboard,received,s,wait_char
+17293,Stimulus,presented,661
+17803,Stimulus,presented,661
+17810,Stimulus,presented,558
+18822,Stimulus,presented,661
+19834,Stimulus,presented,661
+19840,Stimulus,presented,567
+20938,Keyboard,received,s,wait_char
+20951,Stimulus,presented,661
+21464,Stimulus,presented,661
+21470,Stimulus,presented,374
+22483,Stimulus,presented,661
+23497,Stimulus,presented,661
+23505,Stimulus,presented,381
+24267,Keyboard,received,s,wait_char
+24278,Stimulus,presented,661
+24791,Stimulus,presented,661
+24796,Stimulus,presented,310
+25808,Stimulus,presented,661
+26823,Stimulus,presented,661
+26831,Stimulus,presented,315
+31699,Keyboard,received,d,wait_char
+31712,Stimulus,presented,661
+32225,Stimulus,presented,661
+32229,Stimulus,presented,612
+33240,Stimulus,presented,661
+34252,Stimulus,presented,661
+34258,Stimulus,presented,621
+35058,Keyboard,received,d,wait_char
+35070,Stimulus,presented,661
+35582,Stimulus,presented,661
+35585,Stimulus,presented,30
+36598,Stimulus,presented,661
+37611,Stimulus,presented,661
+37615,Stimulus,presented,37
+38194,Keyboard,received,s,wait_char
+38206,Stimulus,presented,661
+38718,Stimulus,presented,661
+38724,Stimulus,presented,478
+39735,Stimulus,presented,661
+40750,Stimulus,presented,661
+40759,Stimulus,presented,489
+41371,Keyboard,received,s,wait_char
+41382,Stimulus,presented,661
+41893,Stimulus,presented,661
+41898,Stimulus,presented,388
+42910,Stimulus,presented,661
+43922,Stimulus,presented,661
+43928,Stimulus,presented,395
+44586,Keyboard,received,d,wait_char
+44598,Stimulus,presented,661
+45109,Stimulus,presented,661
+45115,Stimulus,presented,522
+46126,Stimulus,presented,661
+47139,Stimulus,presented,661
+47145,Stimulus,presented,531
+47762,Keyboard,received,s,wait_char
+47774,Stimulus,presented,661
+48285,Stimulus,presented,661
+48290,Stimulus,presented,360
+49301,Stimulus,presented,661
+50312,Stimulus,presented,661
+50319,Stimulus,presented,367
+50706,Keyboard,received,s,wait_char
+50717,Stimulus,presented,661
+51229,Stimulus,presented,661
+51234,Stimulus,presented,90
+52247,Stimulus,presented,661
+53259,Stimulus,presented,661
+53263,Stimulus,presented,99
+53890,Keyboard,received,d,wait_char
+53903,Stimulus,presented,661
+54414,Stimulus,presented,661
+54421,Stimulus,presented,420
+55433,Stimulus,presented,661
+56445,Stimulus,presented,661
+56450,Stimulus,presented,429
+56906,Keyboard,received,d,wait_char
+56918,Stimulus,presented,661
+57429,Stimulus,presented,661
+57438,Stimulus,presented,540
+58450,Stimulus,presented,661
+59461,Stimulus,presented,661
+59467,Stimulus,presented,549
+59866,Keyboard,received,d,wait_char
+59878,Stimulus,presented,661
+60389,Stimulus,presented,661
+60394,Stimulus,presented,438
+61407,Stimulus,presented,661
+62421,Stimulus,presented,661
+62424,Stimulus,presented,447
+63034,Keyboard,received,d,wait_char
+63048,Stimulus,presented,661
+63560,Stimulus,presented,661
+63563,Stimulus,presented,210
+64575,Stimulus,presented,661
+65587,Stimulus,presented,661
+65593,Stimulus,presented,219
+66082,Keyboard,received,d,wait_char
+66094,Stimulus,presented,661
+66606,Stimulus,presented,661
+66611,Stimulus,presented,246
+67623,Stimulus,presented,661
+68635,Stimulus,presented,661
+68640,Stimulus,presented,255
+69210,Keyboard,received,d,wait_char
+69222,Stimulus,presented,661
+69734,Stimulus,presented,661
+69742,Stimulus,presented,126
+70756,Stimulus,presented,661
+71769,Stimulus,presented,661
+71772,Stimulus,presented,137
+72282,Keyboard,received,s,wait_char
+72295,Stimulus,presented,661
+72806,Stimulus,presented,661
+72814,Stimulus,presented,640
+73826,Stimulus,presented,661
+74839,Stimulus,presented,661
+74844,Stimulus,presented,645
+75379,Keyboard,received,d,wait_char
+75391,Stimulus,presented,661
+75902,Stimulus,presented,661
+75910,Stimulus,presented,300
+76922,Stimulus,presented,661
+77934,Stimulus,presented,661
+77939,Stimulus,presented,305
+78459,Keyboard,received,s,wait_char
+78471,Stimulus,presented,661
+78983,Stimulus,presented,661
+78988,Stimulus,presented,282
+79999,Stimulus,presented,661
+81012,Stimulus,presented,661
+81017,Stimulus,presented,291
+81562,Keyboard,received,d,wait_char
+81574,Stimulus,presented,661
+82085,Stimulus,presented,661
+82089,Stimulus,presented,192
+83101,Stimulus,presented,661
+84114,Stimulus,presented,661
+84119,Stimulus,presented,201
+84586,Keyboard,received,s,wait_char
+84599,Stimulus,presented,661
+85111,Stimulus,presented,661
+85119,Stimulus,presented,10
+86131,Stimulus,presented,661
+87143,Stimulus,presented,661
+87148,Stimulus,presented,15
+87874,Keyboard,received,d,wait_char
+87886,Stimulus,presented,661
+88398,Stimulus,presented,661
+88403,Stimulus,presented,340
+89415,Stimulus,presented,661
+90427,Stimulus,presented,661
+90432,Stimulus,presented,345
+91242,Keyboard,received,d,wait_char
+91256,Stimulus,presented,661
+91768,Stimulus,presented,661
+91777,Stimulus,presented,58
+92789,Stimulus,presented,661
+93800,Stimulus,presented,661
+93806,Stimulus,presented,65
+94330,Keyboard,received,d,wait_char
+94342,Stimulus,presented,661
+94853,Stimulus,presented,661
+94861,Stimulus,presented,576
+95872,Stimulus,presented,661
+96883,Stimulus,presented,661
+96890,Stimulus,presented,585
+97394,Keyboard,received,s,wait_char
+97407,Stimulus,presented,661
+97918,Stimulus,presented,661
+97926,Stimulus,presented,0
+98937,Stimulus,presented,661
+99949,Stimulus,presented,661
+99956,Stimulus,presented,5
+100442,Keyboard,received,s,wait_char
+100454,Stimulus,presented,661
+100965,Stimulus,presented,661
+100973,Stimulus,presented,170
+101985,Stimulus,presented,661
+102997,Stimulus,presented,661
+103003,Stimulus,presented,181
+103546,Keyboard,received,d,wait_char
+103558,Stimulus,presented,661
+104070,Stimulus,presented,661
+104075,Stimulus,presented,500
+105087,Stimulus,presented,661
+106099,Stimulus,presented,661
+106105,Stimulus,presented,511
+106698,Keyboard,received,d,wait_char
+106710,Stimulus,presented,661
+107222,Stimulus,presented,661
+107226,Stimulus,presented,650
+108237,Stimulus,presented,661
+109248,Stimulus,presented,661
+109255,Stimulus,presented,655
+109706,Keyboard,received,d,wait_char
+109717,Stimulus,presented,661
+110229,Stimulus,presented,661
+110237,Stimulus,presented,44
+111248,Stimulus,presented,661
+112259,Stimulus,presented,661
+112266,Stimulus,presented,51
+112819,Keyboard,received,d,wait_char
+112831,Stimulus,presented,661
+113342,Stimulus,presented,661
+113351,Stimulus,presented,264
+114362,Stimulus,presented,661
+115373,Stimulus,presented,661
+115380,Stimulus,presented,273
+115794,Keyboard,received,d,wait_char
+115805,Stimulus,presented,661
+116316,Stimulus,presented,661
+116325,Stimulus,presented,594
+117336,Stimulus,presented,661
+118346,Stimulus,presented,661
+118355,Stimulus,presented,603
+118938,Keyboard,received,d,wait_char
+118949,Stimulus,presented,661
+119461,Stimulus,presented,661
+119470,Stimulus,presented,228
+120481,Stimulus,presented,661
+121494,Stimulus,presented,661
+121499,Stimulus,presented,237
+121962,Keyboard,received,d,wait_char
+121974,Stimulus,presented,661
+122485,Stimulus,presented,661
+122493,Stimulus,presented,108
+123504,Stimulus,presented,661
+124516,Stimulus,presented,661
+124522,Stimulus,presented,117
+125066,Keyboard,received,s,wait_char
+125077,Stimulus,presented,661
+125588,Stimulus,presented,661
+125594,Stimulus,presented,630
+126606,Stimulus,presented,661
+127617,Stimulus,presented,661
+127624,Stimulus,presented,635
+128138,Keyboard,received,s,wait_char
+128149,Stimulus,presented,661
+128660,Stimulus,presented,661
+128667,Stimulus,presented,320
+129679,Stimulus,presented,661
+130690,Stimulus,presented,661
+130696,Stimulus,presented,325
+131146,Keyboard,received,d,wait_char
+131157,Stimulus,presented,661
+131668,Stimulus,presented,661
+131678,Stimulus,presented,20
+132689,Stimulus,presented,661
+133700,Stimulus,presented,661
+133707,Stimulus,presented,25
+134810,Keyboard,received,d,wait_char
+134822,Stimulus,presented,661
+135333,Stimulus,presented,661
+135336,Stimulus,presented,72
+136348,Stimulus,presented,661
+137359,Stimulus,presented,661
+137366,Stimulus,presented,81
+137890,Keyboard,received,s,wait_char
+137901,Stimulus,presented,661
+138413,Stimulus,presented,661
+138420,Stimulus,presented,330
+139432,Stimulus,presented,661
+140448,Stimulus,presented,661
+140456,Stimulus,presented,335
+140834,Keyboard,received,s,wait_char
+140846,Stimulus,presented,661
+141357,Stimulus,presented,661
+141365,Stimulus,presented,350
+142376,Stimulus,presented,661
+143388,Stimulus,presented,661
+143394,Stimulus,presented,355
+143954,Keyboard,received,d,wait_char
+143967,Stimulus,presented,661
+144479,Stimulus,presented,661
+144485,Stimulus,presented,456
+145498,Stimulus,presented,661
+146510,Stimulus,presented,661
+146514,Stimulus,presented,467
+147027,Keyboard,received,s,wait_char
+147039,Stimulus,presented,661
+147551,Stimulus,presented,661
+147556,Stimulus,presented,402
+148568,Stimulus,presented,661
+149580,Stimulus,presented,661
+149586,Stimulus,presented,411
+150010,Keyboard,received,s,wait_char
+150010,Experiment,ended
+150021,Data,saved
+150024,Stimulus,presented,668

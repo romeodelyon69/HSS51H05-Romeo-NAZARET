@@ -1,0 +1,145 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Fri Dec 05 2025 19:49:39
+#sha1: e3d8fd
+#modules: 
+#display: size=(1024, 768), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='RomeoGYGABYTE', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+38242,design,log,
+#design: #exp: Exp 1b: Topological Perception
+#design: block_cnt,block_id,trial_cnt,trial_id,CorrectResp,Pos1_Idx,Pos2_Idx,SetID,Stim2Category,TrialType
+#design: 0,0,0,69,s,2,5,3,default,same
+#design: 0,0,1,11,d,2,1,3,diff_topo,diff_topo
+#design: 0,0,2,117,s,2,1,19,default,same
+#design: 0,0,3,100,d,2,0,13,same_topo,same_topo
+#design: 0,0,4,86,d,4,2,8,diff_topo,diff_topo
+#design: 0,0,5,88,d,3,0,9,same_topo,same_topo
+#design: 0,0,6,43,d,5,4,14,same_topo,same_topo
+#design: 0,0,7,111,s,0,4,17,default,same
+#design: 0,0,8,37,d,5,4,12,same_topo,same_topo
+#design: 0,0,9,28,d,5,2,9,same_topo,same_topo
+#design: 0,0,10,84,s,0,2,8,default,same
+#design: 0,0,11,20,d,4,5,6,diff_topo,diff_topo
+#design: 0,0,12,7,d,5,3,2,same_topo,same_topo
+#design: 0,0,13,66,s,5,3,2,default,same
+#design: 0,0,14,2,d,2,4,0,diff_topo,diff_topo
+#design: 0,0,15,77,d,3,0,5,diff_topo,diff_topo
+#design: 0,0,16,12,s,4,3,4,default,same
+#design: 0,0,17,78,s,5,0,6,default,same
+#design: 0,0,18,45,s,2,0,15,default,same
+#design: 0,0,19,94,d,5,3,11,same_topo,same_topo
+#design: 0,0,20,80,d,3,5,6,diff_topo,diff_topo
+#design: 0,0,21,89,d,5,4,9,diff_topo,diff_topo
+#design: 0,0,22,15,s,5,1,5,default,same
+#design: 0,0,23,61,d,1,0,0,same_topo,same_topo
+#design: 0,0,24,58,d,4,5,19,same_topo,same_topo
+#design: 0,0,25,110,d,2,3,16,diff_topo,diff_topo
+#design: 0,0,26,85,d,2,1,8,same_topo,same_topo
+#design: 0,0,27,108,s,4,5,16,default,same
+#design: 0,0,28,55,d,4,2,18,same_topo,same_topo
+#design: 0,0,29,71,d,2,5,3,diff_topo,diff_topo
+#design: 0,0,30,59,d,4,0,19,diff_topo,diff_topo
+#design: 0,0,31,1,d,5,0,0,same_topo,same_topo
+#design: 0,0,32,36,s,5,4,12,default,same
+#design: 0,0,33,24,s,3,4,8,default,same
+#design: 0,0,34,18,s,2,3,6,default,same
+#design: 0,0,35,90,s,2,3,10,default,same
+#design: 0,0,36,98,d,5,0,12,diff_topo,diff_topo
+#design: 0,0,37,46,d,5,3,15,same_topo,same_topo
+#design: 0,0,38,64,d,2,4,1,same_topo,same_topo
+#design: 0,0,39,49,d,5,3,16,same_topo,same_topo
+#design: 0,0,40,26,d,2,5,8,diff_topo,diff_topo
+#design: 0,0,41,52,d,5,3,17,same_topo,same_topo
+#design: 0,0,42,101,d,5,2,13,diff_topo,diff_topo
+#design: 0,0,43,4,d,0,2,1,same_topo,same_topo
+#design: 0,0,44,109,d,3,2,16,same_topo,same_topo
+#design: 0,0,45,114,s,0,3,18,default,same
+#design: 0,0,46,34,d,5,2,11,same_topo,same_topo
+#design: 0,0,47,95,d,3,4,11,diff_topo,diff_topo
+#design: 0,0,48,30,s,5,3,10,default,same
+#design: 0,0,49,79,d,1,2,6,same_topo,same_topo
+#design: 0,0,50,105,s,3,2,15,default,same
+#design: 0,0,51,96,s,1,3,12,default,same
+#design: 0,0,52,63,s,3,4,1,default,same
+#design: 0,0,53,119,d,5,1,19,diff_topo,diff_topo
+#design: 0,0,54,70,d,0,4,3,same_topo,same_topo
+#design: 0,0,55,115,d,2,5,18,same_topo,same_topo
+#design: 0,0,56,103,d,0,3,14,same_topo,same_topo
+#design: 0,0,57,13,d,0,5,4,same_topo,same_topo
+#design: 0,0,58,31,d,1,5,10,same_topo,same_topo
+#design: 0,0,59,35,d,2,1,11,diff_topo,diff_topo
+#design: 0,0,60,27,s,0,4,9,default,same
+#design: 0,0,61,116,d,1,4,18,diff_topo,diff_topo
+#design: 0,0,62,9,s,1,3,3,default,same
+#design: 0,0,63,10,d,5,1,3,same_topo,same_topo
+#design: 0,0,64,56,d,0,2,18,diff_topo,diff_topo
+#design: 0,0,65,16,d,4,3,5,same_topo,same_topo
+#design: 0,0,66,57,s,1,3,19,default,same
+#design: 0,0,67,81,s,5,1,7,default,same
+#design: 0,0,68,102,s,0,1,14,default,same
+#design: 0,0,69,17,d,3,0,5,diff_topo,diff_topo
+#design: 0,0,70,104,d,0,1,14,diff_topo,diff_topo
+#design: 0,0,71,41,d,2,4,13,diff_topo,diff_topo
+#design: 0,0,72,97,d,2,5,12,same_topo,same_topo
+#design: 0,0,73,91,d,4,0,10,same_topo,same_topo
+#design: 0,0,74,75,s,1,5,5,default,same
+#design: 0,0,75,40,d,5,4,13,same_topo,same_topo
+#design: 0,0,76,93,s,0,3,11,default,same
+#design: 0,0,77,87,s,0,4,9,default,same
+#design: 0,0,78,38,d,0,1,12,diff_topo,diff_topo
+#design: 0,0,79,19,d,4,5,6,same_topo,same_topo
+#design: 0,0,80,82,d,1,0,7,same_topo,same_topo
+#design: 0,0,81,50,d,3,4,16,diff_topo,diff_topo
+#design: 0,0,82,42,s,5,0,14,default,same
+#design: 0,0,83,6,s,4,3,2,default,same
+#design: 0,0,84,33,s,5,0,11,default,same
+#design: 0,0,85,39,s,0,3,13,default,same
+#design: 0,0,86,72,s,1,4,4,default,same
+#design: 0,0,87,76,d,1,3,5,same_topo,same_topo
+#design: 0,0,88,3,s,2,0,1,default,same
+#design: 0,0,89,112,d,4,1,17,same_topo,same_topo
+#design: 0,0,90,25,d,2,3,8,same_topo,same_topo
+#design: 0,0,91,29,d,5,1,9,diff_topo,diff_topo
+#design: 0,0,92,92,d,1,2,10,diff_topo,diff_topo
+#design: 0,0,93,67,d,0,4,2,same_topo,same_topo
+#design: 0,0,94,51,s,3,1,17,default,same
+#design: 0,0,95,73,d,3,2,4,same_topo,same_topo
+#design: 0,0,96,23,d,3,5,7,diff_topo,diff_topo
+#design: 0,0,97,14,d,5,2,4,diff_topo,diff_topo
+#design: 0,0,98,99,s,0,2,13,default,same
+#design: 0,0,99,106,d,2,1,15,same_topo,same_topo
+#design: 0,0,100,53,d,0,1,17,diff_topo,diff_topo
+#design: 0,0,101,118,d,3,4,19,same_topo,same_topo
+#design: 0,0,102,8,d,3,2,2,diff_topo,diff_topo
+#design: 0,0,103,60,s,5,2,0,default,same
+#design: 0,0,104,48,s,0,2,16,default,same
+#design: 0,0,105,68,d,1,2,2,diff_topo,diff_topo
+#design: 0,0,106,74,d,5,0,4,diff_topo,diff_topo
+#design: 0,0,107,83,d,1,4,7,diff_topo,diff_topo
+#design: 0,0,108,47,d,0,5,15,diff_topo,diff_topo
+#design: 0,0,109,107,d,1,0,15,diff_topo,diff_topo
+#design: 0,0,110,21,s,2,5,7,default,same
+#design: 0,0,111,5,d,0,5,1,diff_topo,diff_topo
+#design: 0,0,112,54,s,1,3,18,default,same
+#design: 0,0,113,32,d,3,4,10,diff_topo,diff_topo
+#design: 0,0,114,62,d,2,0,0,diff_topo,diff_topo
+#design: 0,0,115,22,d,0,3,7,same_topo,same_topo
+#design: 0,0,116,0,s,1,2,0,default,same
+#design: 0,0,117,44,d,4,2,14,diff_topo,diff_topo
+#design: 0,0,118,65,d,1,4,1,diff_topo,diff_topo
+#design: 0,0,119,113,d,4,3,17,diff_topo,diff_topo
+38242,design,logged,
+38242,Experiment,started
+38249,Stimulus,presented,1200
+43497,Keyboard,received,32,wait
+43505,Stimulus,presented,1201
+44008,Stimulus,presented,1201
+44015,Stimulus,presented,690
+45019,Stimulus,presented,1201
+46022,Stimulus,presented,1201
+46027,Stimulus,presented,695
+53145,Experiment,paused
+53148,Stimulus,presented,1208
+55074,Keyboard,received,y,wait_char
+55074,Experiment,ended
+55088,Stimulus,presented,1208

@@ -1,0 +1,1055 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Tue Dec 09 2025 01:33:24
+#sha1: 30ba20
+#modules: gen_stimuli.py (57a8ea)
+#display: size=(1728, 1080), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='RomeoGYGABYTE', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+2880,Stimulus,rotated,17, degree=313
+2881,Stimulus,rotated,22, degree=314
+2881,Stimulus,rotated,27, degree=167
+2881,Stimulus,rotated,32, degree=320
+2882,Stimulus,rotated,37, degree=309
+2882,Stimulus,rotated,42, degree=130
+2882,Stimulus,rotated,47, degree=11
+2883,Stimulus,rotated,52, degree=135
+2883,Stimulus,rotated,57, degree=39
+2883,Stimulus,rotated,62, degree=85
+2884,Stimulus,rotated,67, degree=326
+2884,Stimulus,rotated,72, degree=128
+2885,Stimulus,rotated,77, degree=102
+2885,Stimulus,rotated,82, degree=66
+2886,Stimulus,rotated,87, degree=86
+2886,Stimulus,rotated,92, degree=94
+2886,Stimulus,rotated,97, degree=355
+2886,Stimulus,rotated,102, degree=159
+2887,Stimulus,rotated,107, degree=315
+2887,Stimulus,rotated,112, degree=151
+2887,Stimulus,rotated,117, degree=284
+2888,Stimulus,rotated,122, degree=328
+2888,Stimulus,rotated,127, degree=212
+2888,Stimulus,rotated,132, degree=11
+2889,Stimulus,rotated,137, degree=331
+2889,Stimulus,rotated,142, degree=42
+2894,Stimulus,rotated,164, degree=270
+2894,Stimulus,rotated,169, degree=138
+2894,Stimulus,rotated,174, degree=319
+2895,Stimulus,rotated,179, degree=82
+2895,Stimulus,rotated,184, degree=89
+2895,Stimulus,rotated,189, degree=187
+2896,Stimulus,rotated,194, degree=354
+2896,Stimulus,rotated,199, degree=104
+2896,Stimulus,rotated,204, degree=35
+2897,Stimulus,rotated,209, degree=254
+2897,Stimulus,rotated,214, degree=337
+2897,Stimulus,rotated,219, degree=49
+2897,Stimulus,rotated,224, degree=166
+2898,Stimulus,rotated,229, degree=155
+2898,Stimulus,rotated,234, degree=339
+2898,Stimulus,rotated,239, degree=39
+2899,Stimulus,rotated,244, degree=187
+2899,Stimulus,rotated,249, degree=322
+2899,Stimulus,rotated,254, degree=331
+2900,Stimulus,rotated,259, degree=4
+2900,Stimulus,rotated,264, degree=272
+2900,Stimulus,rotated,269, degree=283
+2900,Stimulus,rotated,274, degree=174
+2901,Stimulus,rotated,279, degree=91
+2901,Stimulus,rotated,284, degree=160
+2901,Stimulus,rotated,289, degree=128
+2910,Stimulus,rotated,311, degree=234
+2910,Stimulus,rotated,316, degree=102
+2910,Stimulus,rotated,321, degree=41
+2911,Stimulus,rotated,326, degree=246
+2911,Stimulus,rotated,331, degree=303
+2911,Stimulus,rotated,336, degree=296
+2912,Stimulus,rotated,341, degree=213
+2912,Stimulus,rotated,346, degree=67
+2912,Stimulus,rotated,351, degree=39
+2913,Stimulus,rotated,356, degree=300
+2913,Stimulus,rotated,361, degree=204
+2913,Stimulus,rotated,366, degree=31
+2913,Stimulus,rotated,371, degree=260
+2914,Stimulus,rotated,376, degree=68
+2914,Stimulus,rotated,381, degree=323
+2915,Stimulus,rotated,386, degree=55
+2915,Stimulus,rotated,391, degree=195
+2915,Stimulus,rotated,396, degree=237
+2916,Stimulus,rotated,401, degree=56
+2916,Stimulus,rotated,406, degree=333
+2916,Stimulus,rotated,411, degree=292
+2917,Stimulus,rotated,416, degree=339
+2917,Stimulus,rotated,421, degree=264
+2917,Stimulus,rotated,426, degree=324
+2918,Stimulus,rotated,431, degree=101
+2918,Stimulus,rotated,436, degree=76
+2918,Stimulus,rotated,441, degree=216
+2919,Stimulus,rotated,446, degree=162
+2919,Stimulus,rotated,451, degree=355
+2919,Stimulus,rotated,456, degree=286
+2919,Stimulus,rotated,461, degree=80
+2920,Stimulus,rotated,466, degree=270
+2920,Stimulus,rotated,471, degree=183
+2920,Stimulus,rotated,476, degree=13
+2921,Stimulus,rotated,481, degree=17
+2921,Stimulus,rotated,486, degree=288
+2921,Stimulus,rotated,491, degree=43
+2922,Stimulus,rotated,496, degree=287
+2940,Stimulus,rotated,518, degree=216
+2940,Stimulus,rotated,523, degree=265
+2941,Stimulus,rotated,528, degree=98
+2941,Stimulus,rotated,533, degree=94
+2941,Stimulus,rotated,538, degree=307
+2942,Stimulus,rotated,543, degree=186
+2942,Stimulus,rotated,548, degree=196
+2942,Stimulus,rotated,553, degree=170
+2943,Stimulus,rotated,558, degree=290
+2943,Stimulus,rotated,563, degree=85
+2943,Stimulus,rotated,568, degree=12
+2943,Stimulus,rotated,573, degree=336
+2944,Stimulus,rotated,578, degree=307
+2944,Stimulus,rotated,583, degree=178
+2944,Stimulus,rotated,588, degree=147
+2945,Stimulus,rotated,593, degree=58
+2945,Stimulus,rotated,598, degree=105
+2945,Stimulus,rotated,603, degree=255
+2946,Stimulus,rotated,608, degree=239
+2946,Stimulus,rotated,613, degree=73
+2947,Stimulus,rotated,618, degree=113
+2947,Stimulus,rotated,623, degree=329
+2947,Stimulus,rotated,628, degree=186
+2948,Stimulus,rotated,633, degree=155
+2948,Stimulus,rotated,638, degree=85
+2948,Stimulus,rotated,643, degree=83
+2949,Stimulus,rotated,648, degree=281
+2949,Stimulus,rotated,653, degree=230
+2949,Stimulus,rotated,658, degree=228
+2950,Stimulus,rotated,663, degree=207
+2950,Stimulus,rotated,668, degree=324
+2950,Stimulus,rotated,673, degree=4
+2951,Stimulus,rotated,678, degree=8
+2951,Stimulus,rotated,683, degree=296
+2951,Stimulus,rotated,688, degree=204
+2952,Stimulus,rotated,693, degree=1
+2956,Stimulus,rotated,715, degree=84
+2957,Stimulus,rotated,722, degree=327
+2957,Stimulus,rotated,729, degree=194
+2958,Stimulus,rotated,736, degree=114
+2958,Stimulus,rotated,743, degree=286
+2958,Stimulus,rotated,750, degree=262
+2959,Stimulus,rotated,757, degree=64
+2959,Stimulus,rotated,764, degree=209
+2959,Stimulus,rotated,771, degree=134
+2960,Stimulus,rotated,778, degree=115
+2960,Stimulus,rotated,785, degree=133
+2960,Stimulus,rotated,792, degree=47
+2961,Stimulus,rotated,799, degree=33
+2961,Stimulus,rotated,806, degree=29
+2961,Stimulus,rotated,813, degree=26
+2962,Stimulus,rotated,820, degree=318
+2963,Stimulus,rotated,827, degree=12
+2963,Stimulus,rotated,834, degree=174
+2963,Stimulus,rotated,841, degree=359
+2964,Stimulus,rotated,848, degree=329
+2964,Stimulus,rotated,855, degree=69
+2964,Stimulus,rotated,862, degree=221
+2965,Stimulus,rotated,869, degree=206
+2965,Stimulus,rotated,876, degree=117
+2966,Stimulus,rotated,883, degree=334
+2966,Stimulus,rotated,890, degree=239
+2966,Stimulus,rotated,897, degree=208
+2967,Stimulus,rotated,904, degree=326
+2967,Stimulus,rotated,911, degree=69
+2967,Stimulus,rotated,918, degree=212
+2968,Stimulus,rotated,925, degree=85
+2968,Stimulus,rotated,932, degree=202
+2973,Stimulus,rotated,956, degree=33
+2973,Stimulus,rotated,963, degree=26
+2974,Stimulus,rotated,970, degree=318
+2974,Stimulus,rotated,977, degree=132
+2974,Stimulus,rotated,984, degree=9
+2975,Stimulus,rotated,991, degree=113
+2975,Stimulus,rotated,998, degree=178
+2976,Stimulus,rotated,1005, degree=207
+2976,Stimulus,rotated,1012, degree=357
+2976,Stimulus,rotated,1019, degree=93
+2977,Stimulus,rotated,1026, degree=302
+2977,Stimulus,rotated,1033, degree=233
+2978,Stimulus,rotated,1040, degree=114
+2978,Stimulus,rotated,1047, degree=123
+2978,Stimulus,rotated,1054, degree=145
+2979,Stimulus,rotated,1061, degree=354
+2979,Stimulus,rotated,1068, degree=244
+2980,Stimulus,rotated,1075, degree=249
+2980,Stimulus,rotated,1082, degree=270
+2980,Stimulus,rotated,1089, degree=102
+2981,Stimulus,rotated,1096, degree=193
+2981,Stimulus,rotated,1103, degree=172
+2981,Stimulus,rotated,1110, degree=92
+2982,Stimulus,rotated,1117, degree=111
+2982,Stimulus,rotated,1124, degree=160
+2982,Stimulus,rotated,1131, degree=221
+2983,Stimulus,rotated,1138, degree=160
+2983,Stimulus,rotated,1145, degree=85
+2984,Stimulus,rotated,1152, degree=162
+2984,Stimulus,rotated,1159, degree=317
+2984,Stimulus,rotated,1166, degree=207
+2985,Stimulus,rotated,1173, degree=72
+2989,Stimulus,rotated,1197, degree=125
+2990,Stimulus,rotated,1204, degree=238
+2990,Stimulus,rotated,1211, degree=271
+2990,Stimulus,rotated,1218, degree=117
+2991,Stimulus,rotated,1225, degree=311
+2991,Stimulus,rotated,1232, degree=293
+2992,Stimulus,rotated,1239, degree=73
+2992,Stimulus,rotated,1246, degree=275
+2992,Stimulus,rotated,1253, degree=283
+2993,Stimulus,rotated,1260, degree=14
+2993,Stimulus,rotated,1267, degree=100
+2993,Stimulus,rotated,1274, degree=315
+2994,Stimulus,rotated,1281, degree=130
+2994,Stimulus,rotated,1288, degree=268
+2994,Stimulus,rotated,1295, degree=270
+2995,Stimulus,rotated,1302, degree=116
+2995,Stimulus,rotated,1309, degree=260
+2996,Stimulus,rotated,1316, degree=165
+2996,Stimulus,rotated,1323, degree=62
+2996,Stimulus,rotated,1330, degree=269
+2997,Stimulus,rotated,1337, degree=346
+2997,Stimulus,rotated,1344, degree=73
+2997,Stimulus,rotated,1351, degree=157
+2998,Stimulus,rotated,1358, degree=214
+2998,Stimulus,rotated,1365, degree=56
+2998,Stimulus,rotated,1372, degree=154
+2999,Stimulus,rotated,1379, degree=97
+2999,Stimulus,rotated,1386, degree=199
+3000,Stimulus,rotated,1393, degree=133
+3000,Stimulus,rotated,1400, degree=189
+3000,Stimulus,rotated,1407, degree=2
+3001,Stimulus,rotated,1414, degree=196
+3005,Stimulus,rotated,1438, degree=65
+3005,Stimulus,rotated,1443, degree=216
+3006,Stimulus,rotated,1448, degree=298
+3006,Stimulus,rotated,1453, degree=290
+3007,Stimulus,rotated,1458, degree=212
+3007,Stimulus,rotated,1463, degree=85
+3007,Stimulus,rotated,1468, degree=182
+3008,Stimulus,rotated,1473, degree=216
+3008,Stimulus,rotated,1478, degree=112
+3008,Stimulus,rotated,1483, degree=234
+3009,Stimulus,rotated,1488, degree=326
+3009,Stimulus,rotated,1493, degree=174
+3010,Stimulus,rotated,1498, degree=222
+3010,Stimulus,rotated,1503, degree=107
+3010,Stimulus,rotated,1508, degree=268
+3011,Stimulus,rotated,1513, degree=188
+3011,Stimulus,rotated,1518, degree=95
+3011,Stimulus,rotated,1523, degree=80
+3012,Stimulus,rotated,1528, degree=91
+3012,Stimulus,rotated,1533, degree=181
+3012,Stimulus,rotated,1538, degree=269
+3013,Stimulus,rotated,1543, degree=232
+3013,Stimulus,rotated,1548, degree=354
+3013,Stimulus,rotated,1553, degree=51
+3013,Stimulus,rotated,1558, degree=314
+3014,Stimulus,rotated,1563, degree=191
+3018,Stimulus,rotated,1585, degree=218
+3019,Stimulus,rotated,1592, degree=196
+3019,Stimulus,rotated,1599, degree=50
+3020,Stimulus,rotated,1606, degree=313
+3020,Stimulus,rotated,1613, degree=175
+3020,Stimulus,rotated,1620, degree=113
+3021,Stimulus,rotated,1627, degree=134
+3021,Stimulus,rotated,1634, degree=21
+3021,Stimulus,rotated,1641, degree=325
+3022,Stimulus,rotated,1648, degree=161
+3022,Stimulus,rotated,1655, degree=179
+3022,Stimulus,rotated,1662, degree=210
+3023,Stimulus,rotated,1669, degree=351
+3023,Stimulus,rotated,1676, degree=312
+3023,Stimulus,rotated,1683, degree=23
+3024,Stimulus,rotated,1690, degree=219
+3024,Stimulus,rotated,1697, degree=259
+3025,Stimulus,rotated,1704, degree=240
+3025,Stimulus,rotated,1711, degree=178
+3025,Stimulus,rotated,1718, degree=181
+3026,Stimulus,rotated,1725, degree=209
+3026,Stimulus,rotated,1732, degree=47
+3026,Stimulus,rotated,1739, degree=249
+3027,Stimulus,rotated,1746, degree=283
+3027,Stimulus,rotated,1753, degree=76
+3027,Stimulus,rotated,1760, degree=281
+3033,Stimulus,rotated,1784, degree=155
+3033,Stimulus,rotated,1789, degree=99
+3034,Stimulus,rotated,1794, degree=145
+3034,Stimulus,rotated,1799, degree=163
+3034,Stimulus,rotated,1804, degree=48
+3035,Stimulus,rotated,1809, degree=298
+3035,Stimulus,rotated,1814, degree=26
+3035,Stimulus,rotated,1819, degree=339
+3036,Stimulus,rotated,1824, degree=187
+3036,Stimulus,rotated,1829, degree=28
+3036,Stimulus,rotated,1834, degree=98
+3036,Stimulus,rotated,1839, degree=69
+3037,Stimulus,rotated,1844, degree=214
+3037,Stimulus,rotated,1849, degree=181
+3037,Stimulus,rotated,1854, degree=281
+3038,Stimulus,rotated,1859, degree=18
+3038,Stimulus,rotated,1864, degree=291
+3038,Stimulus,rotated,1869, degree=216
+3039,Stimulus,rotated,1874, degree=129
+3039,Stimulus,rotated,1879, degree=31
+3039,Stimulus,rotated,1884, degree=101
+3040,Stimulus,rotated,1889, degree=43
+3040,Stimulus,rotated,1894, degree=321
+3040,Stimulus,rotated,1899, degree=158
+3041,Stimulus,rotated,1904, degree=60
+3041,Stimulus,rotated,1909, degree=150
+3041,Stimulus,rotated,1914, degree=222
+3042,Stimulus,rotated,1919, degree=253
+3042,Stimulus,rotated,1924, degree=28
+3042,Stimulus,rotated,1929, degree=228
+3043,Stimulus,rotated,1934, degree=51
+3043,Stimulus,rotated,1939, degree=316
+3043,Stimulus,rotated,1944, degree=85
+3044,Stimulus,rotated,1949, degree=155
+3044,Stimulus,rotated,1954, degree=120
+3044,Stimulus,rotated,1959, degree=351
+3045,Stimulus,rotated,1964, degree=244
+3045,Stimulus,rotated,1969, degree=119
+3053,Stimulus,rotated,1991, degree=354
+3053,Stimulus,rotated,1998, degree=235
+3054,Stimulus,rotated,2005, degree=339
+3054,Stimulus,rotated,2012, degree=144
+3055,Stimulus,rotated,2019, degree=176
+3055,Stimulus,rotated,2026, degree=211
+3056,Stimulus,rotated,2033, degree=225
+3056,Stimulus,rotated,2040, degree=66
+3056,Stimulus,rotated,2047, degree=330
+3057,Stimulus,rotated,2054, degree=55
+3057,Stimulus,rotated,2061, degree=30
+3057,Stimulus,rotated,2068, degree=3
+3058,Stimulus,rotated,2075, degree=126
+3058,Stimulus,rotated,2082, degree=67
+3058,Stimulus,rotated,2089, degree=140
+3059,Stimulus,rotated,2096, degree=277
+3059,Stimulus,rotated,2103, degree=104
+3060,Stimulus,rotated,2110, degree=101
+3060,Stimulus,rotated,2117, degree=136
+3060,Stimulus,rotated,2124, degree=303
+3061,Stimulus,rotated,2131, degree=283
+3061,Stimulus,rotated,2138, degree=324
+3062,Stimulus,rotated,2145, degree=237
+3062,Stimulus,rotated,2152, degree=55
+3062,Stimulus,rotated,2159, degree=295
+3063,Stimulus,rotated,2166, degree=241
+3063,Stimulus,rotated,2173, degree=326
+3064,Stimulus,rotated,2180, degree=235
+3064,Stimulus,rotated,2187, degree=41
+3064,Stimulus,rotated,2194, degree=44
+3065,Stimulus,rotated,2201, degree=1
+3065,Stimulus,rotated,2208, degree=117
+3065,Stimulus,rotated,2215, degree=151
+3066,Stimulus,rotated,2222, degree=208
+3066,Stimulus,rotated,2229, degree=110
+3067,Stimulus,rotated,2236, degree=57
+3067,Stimulus,rotated,2243, degree=256
+3067,Stimulus,rotated,2250, degree=354
+3072,Stimulus,rotated,2274, degree=242
+3073,Stimulus,rotated,2279, degree=213
+3073,Stimulus,rotated,2284, degree=96
+3073,Stimulus,rotated,2289, degree=191
+3074,Stimulus,rotated,2294, degree=128
+3074,Stimulus,rotated,2299, degree=72
+3074,Stimulus,rotated,2304, degree=39
+3075,Stimulus,rotated,2309, degree=148
+3075,Stimulus,rotated,2314, degree=292
+3075,Stimulus,rotated,2319, degree=294
+3076,Stimulus,rotated,2324, degree=322
+3076,Stimulus,rotated,2329, degree=32
+3076,Stimulus,rotated,2334, degree=252
+3077,Stimulus,rotated,2339, degree=170
+3077,Stimulus,rotated,2344, degree=164
+3077,Stimulus,rotated,2349, degree=230
+3078,Stimulus,rotated,2354, degree=315
+3078,Stimulus,rotated,2359, degree=178
+3078,Stimulus,rotated,2364, degree=295
+3079,Stimulus,rotated,2369, degree=293
+3079,Stimulus,rotated,2374, degree=235
+3079,Stimulus,rotated,2379, degree=169
+3080,Stimulus,rotated,2384, degree=223
+3080,Stimulus,rotated,2389, degree=143
+3080,Stimulus,rotated,2394, degree=270
+3080,Stimulus,rotated,2399, degree=319
+3081,Stimulus,rotated,2404, degree=68
+3081,Stimulus,rotated,2409, degree=338
+3081,Stimulus,rotated,2414, degree=112
+3082,Stimulus,rotated,2419, degree=339
+3082,Stimulus,rotated,2424, degree=14
+3082,Stimulus,rotated,2429, degree=230
+3087,Stimulus,rotated,2451, degree=18
+3088,Stimulus,rotated,2460, degree=69
+3088,Stimulus,rotated,2469, degree=165
+3089,Stimulus,rotated,2478, degree=350
+3089,Stimulus,rotated,2487, degree=188
+3089,Stimulus,rotated,2496, degree=168
+3090,Stimulus,rotated,2505, degree=192
+3090,Stimulus,rotated,2514, degree=152
+3091,Stimulus,rotated,2523, degree=359
+3091,Stimulus,rotated,2532, degree=204
+3092,Stimulus,rotated,2541, degree=240
+3092,Stimulus,rotated,2550, degree=78
+3092,Stimulus,rotated,2559, degree=103
+3093,Stimulus,rotated,2568, degree=156
+3093,Stimulus,rotated,2577, degree=211
+3094,Stimulus,rotated,2586, degree=108
+3094,Stimulus,rotated,2595, degree=255
+3094,Stimulus,rotated,2604, degree=335
+3095,Stimulus,rotated,2613, degree=14
+3095,Stimulus,rotated,2622, degree=20
+3096,Stimulus,rotated,2631, degree=3
+3096,Stimulus,rotated,2640, degree=81
+3096,Stimulus,rotated,2649, degree=329
+3097,Stimulus,rotated,2658, degree=274
+3097,Stimulus,rotated,2667, degree=304
+3098,Stimulus,rotated,2676, degree=348
+3098,Stimulus,rotated,2685, degree=6
+3098,Stimulus,rotated,2694, degree=99
+3099,Stimulus,rotated,2703, degree=190
+3099,Stimulus,rotated,2712, degree=153
+3100,Stimulus,rotated,2721, degree=235
+3100,Stimulus,rotated,2730, degree=339
+3105,Stimulus,rotated,2756, degree=208
+3105,Stimulus,rotated,2765, degree=4
+3106,Stimulus,rotated,2774, degree=302
+3106,Stimulus,rotated,2783, degree=140
+3107,Stimulus,rotated,2792, degree=299
+3107,Stimulus,rotated,2801, degree=147
+3108,Stimulus,rotated,2810, degree=131
+3108,Stimulus,rotated,2819, degree=283
+3108,Stimulus,rotated,2828, degree=42
+3109,Stimulus,rotated,2837, degree=245
+3109,Stimulus,rotated,2846, degree=268
+3110,Stimulus,rotated,2855, degree=258
+3110,Stimulus,rotated,2864, degree=235
+3110,Stimulus,rotated,2873, degree=305
+3111,Stimulus,rotated,2882, degree=339
+3111,Stimulus,rotated,2891, degree=3
+3112,Stimulus,rotated,2900, degree=79
+3112,Stimulus,rotated,2909, degree=300
+3112,Stimulus,rotated,2918, degree=281
+3113,Stimulus,rotated,2927, degree=102
+3113,Stimulus,rotated,2936, degree=120
+3114,Stimulus,rotated,2945, degree=357
+3114,Stimulus,rotated,2954, degree=314
+3114,Stimulus,rotated,2963, degree=179
+3115,Stimulus,rotated,2972, degree=229
+3115,Stimulus,rotated,2981, degree=298
+3116,Stimulus,rotated,2990, degree=48
+3116,Stimulus,rotated,2999, degree=132
+3116,Stimulus,rotated,3008, degree=139
+3117,Stimulus,rotated,3017, degree=199
+3117,Stimulus,rotated,3026, degree=274
+3118,Stimulus,rotated,3035, degree=190
+3122,Stimulus,rotated,3061, degree=307
+3123,Stimulus,rotated,3070, degree=59
+3123,Stimulus,rotated,3079, degree=43
+3124,Stimulus,rotated,3088, degree=92
+3124,Stimulus,rotated,3097, degree=93
+3125,Stimulus,rotated,3106, degree=8
+3125,Stimulus,rotated,3115, degree=302
+3125,Stimulus,rotated,3124, degree=159
+3126,Stimulus,rotated,3133, degree=299
+3126,Stimulus,rotated,3142, degree=140
+3127,Stimulus,rotated,3151, degree=224
+3127,Stimulus,rotated,3160, degree=306
+3128,Stimulus,rotated,3169, degree=207
+3128,Stimulus,rotated,3178, degree=355
+3128,Stimulus,rotated,3187, degree=294
+3129,Stimulus,rotated,3196, degree=105
+3129,Stimulus,rotated,3205, degree=249
+3130,Stimulus,rotated,3214, degree=180
+3130,Stimulus,rotated,3223, degree=43
+3131,Stimulus,rotated,3232, degree=119
+3131,Stimulus,rotated,3241, degree=245
+3131,Stimulus,rotated,3250, degree=172
+3132,Stimulus,rotated,3259, degree=307
+3132,Stimulus,rotated,3268, degree=172
+3133,Stimulus,rotated,3277, degree=250
+3133,Stimulus,rotated,3286, degree=12
+3138,Stimulus,rotated,3312, degree=280
+3138,Stimulus,rotated,3321, degree=88
+3139,Stimulus,rotated,3330, degree=229
+3139,Stimulus,rotated,3339, degree=240
+3140,Stimulus,rotated,3348, degree=46
+3140,Stimulus,rotated,3357, degree=89
+3140,Stimulus,rotated,3366, degree=224
+3141,Stimulus,rotated,3375, degree=266
+3141,Stimulus,rotated,3384, degree=64
+3142,Stimulus,rotated,3393, degree=345
+3142,Stimulus,rotated,3402, degree=13
+3143,Stimulus,rotated,3411, degree=158
+3143,Stimulus,rotated,3420, degree=92
+3143,Stimulus,rotated,3429, degree=104
+3144,Stimulus,rotated,3438, degree=227
+3144,Stimulus,rotated,3447, degree=331
+3145,Stimulus,rotated,3456, degree=187
+3145,Stimulus,rotated,3465, degree=61
+3146,Stimulus,rotated,3474, degree=134
+3146,Stimulus,rotated,3483, degree=109
+3147,Stimulus,rotated,3492, degree=283
+3147,Stimulus,rotated,3501, degree=263
+3147,Stimulus,rotated,3510, degree=254
+3148,Stimulus,rotated,3519, degree=62
+3148,Stimulus,rotated,3528, degree=27
+3149,Stimulus,rotated,3537, degree=2
+3160,Stimulus,rotated,3563, degree=72
+3160,Stimulus,rotated,3570, degree=355
+3161,Stimulus,rotated,3577, degree=341
+3161,Stimulus,rotated,3584, degree=354
+3161,Stimulus,rotated,3591, degree=228
+3162,Stimulus,rotated,3598, degree=347
+3162,Stimulus,rotated,3605, degree=59
+3162,Stimulus,rotated,3612, degree=282
+3163,Stimulus,rotated,3619, degree=327
+3163,Stimulus,rotated,3626, degree=43
+3164,Stimulus,rotated,3633, degree=213
+3164,Stimulus,rotated,3640, degree=39
+3164,Stimulus,rotated,3647, degree=158
+3165,Stimulus,rotated,3654, degree=4
+3165,Stimulus,rotated,3661, degree=303
+3166,Stimulus,rotated,3668, degree=77
+3166,Stimulus,rotated,3675, degree=333
+3166,Stimulus,rotated,3682, degree=345
+3167,Stimulus,rotated,3689, degree=239
+3167,Stimulus,rotated,3696, degree=312
+3168,Stimulus,rotated,3703, degree=239
+3168,Stimulus,rotated,3710, degree=178
+3168,Stimulus,rotated,3717, degree=156
+3169,Stimulus,rotated,3724, degree=256
+3169,Stimulus,rotated,3731, degree=257
+3170,Stimulus,rotated,3738, degree=355
+3170,Stimulus,rotated,3745, degree=252
+3170,Stimulus,rotated,3752, degree=36
+3171,Stimulus,rotated,3759, degree=184
+3171,Stimulus,rotated,3766, degree=312
+3171,Stimulus,rotated,3773, degree=300
+3172,Stimulus,rotated,3780, degree=229
+3172,Stimulus,rotated,3787, degree=331
+3173,Stimulus,rotated,3794, degree=291
+3173,Stimulus,rotated,3801, degree=326
+3173,Stimulus,rotated,3808, degree=110
+3174,Stimulus,rotated,3815, degree=24
+3188,Stimulus,rotated,3839, degree=310
+3188,Stimulus,rotated,3848, degree=132
+3189,Stimulus,rotated,3857, degree=227
+3189,Stimulus,rotated,3866, degree=65
+3190,Stimulus,rotated,3875, degree=185
+3190,Stimulus,rotated,3884, degree=256
+3190,Stimulus,rotated,3893, degree=356
+3191,Stimulus,rotated,3902, degree=271
+3191,Stimulus,rotated,3911, degree=246
+3191,Stimulus,rotated,3920, degree=17
+3192,Stimulus,rotated,3929, degree=287
+3192,Stimulus,rotated,3938, degree=35
+3193,Stimulus,rotated,3947, degree=263
+3193,Stimulus,rotated,3956, degree=216
+3193,Stimulus,rotated,3965, degree=105
+3194,Stimulus,rotated,3974, degree=79
+3194,Stimulus,rotated,3983, degree=43
+3195,Stimulus,rotated,3992, degree=280
+3195,Stimulus,rotated,4001, degree=138
+3196,Stimulus,rotated,4010, degree=149
+3196,Stimulus,rotated,4019, degree=280
+3196,Stimulus,rotated,4028, degree=221
+3197,Stimulus,rotated,4037, degree=311
+3197,Stimulus,rotated,4046, degree=261
+3198,Stimulus,rotated,4055, degree=357
+3198,Stimulus,rotated,4064, degree=333
+3198,Stimulus,rotated,4073, degree=283
+3199,Stimulus,rotated,4082, degree=241
+3199,Stimulus,rotated,4091, degree=93
+3200,Stimulus,rotated,4100, degree=264
+3200,Stimulus,rotated,4109, degree=10
+3201,Stimulus,rotated,4118, degree=344
+3201,Stimulus,rotated,4127, degree=98
+3201,Stimulus,rotated,4136, degree=285
+3202,Stimulus,rotated,4145, degree=256
+3202,Stimulus,rotated,4154, degree=245
+3203,Stimulus,rotated,4163, degree=185
+3208,Stimulus,rotated,4189, degree=129
+3208,Stimulus,rotated,4196, degree=64
+3208,Stimulus,rotated,4203, degree=20
+3209,Stimulus,rotated,4210, degree=42
+3209,Stimulus,rotated,4217, degree=147
+3209,Stimulus,rotated,4224, degree=271
+3210,Stimulus,rotated,4231, degree=123
+3210,Stimulus,rotated,4238, degree=83
+3211,Stimulus,rotated,4245, degree=198
+3211,Stimulus,rotated,4252, degree=272
+3211,Stimulus,rotated,4259, degree=11
+3212,Stimulus,rotated,4266, degree=217
+3212,Stimulus,rotated,4273, degree=114
+3212,Stimulus,rotated,4280, degree=78
+3213,Stimulus,rotated,4287, degree=78
+3213,Stimulus,rotated,4294, degree=233
+3214,Stimulus,rotated,4301, degree=307
+3214,Stimulus,rotated,4308, degree=192
+3215,Stimulus,rotated,4315, degree=78
+3215,Stimulus,rotated,4322, degree=128
+3215,Stimulus,rotated,4329, degree=296
+3216,Stimulus,rotated,4336, degree=22
+3216,Stimulus,rotated,4343, degree=60
+3216,Stimulus,rotated,4350, degree=117
+3217,Stimulus,rotated,4357, degree=252
+3217,Stimulus,rotated,4364, degree=103
+3218,Stimulus,rotated,4371, degree=105
+3218,Stimulus,rotated,4378, degree=3
+3219,Stimulus,rotated,4385, degree=49
+3219,Stimulus,rotated,4392, degree=222
+3219,Stimulus,rotated,4399, degree=163
+3220,Stimulus,rotated,4406, degree=15
+3224,Stimulus,rotated,4430, degree=240
+3225,Stimulus,rotated,4435, degree=288
+3225,Stimulus,rotated,4440, degree=333
+3226,Stimulus,rotated,4445, degree=158
+3226,Stimulus,rotated,4450, degree=310
+3226,Stimulus,rotated,4455, degree=143
+3226,Stimulus,rotated,4460, degree=87
+3227,Stimulus,rotated,4465, degree=298
+3227,Stimulus,rotated,4470, degree=25
+3227,Stimulus,rotated,4475, degree=91
+3228,Stimulus,rotated,4480, degree=195
+3228,Stimulus,rotated,4485, degree=68
+3228,Stimulus,rotated,4490, degree=45
+3229,Stimulus,rotated,4495, degree=220
+3229,Stimulus,rotated,4500, degree=357
+3229,Stimulus,rotated,4505, degree=14
+3230,Stimulus,rotated,4510, degree=340
+3230,Stimulus,rotated,4515, degree=48
+3230,Stimulus,rotated,4520, degree=120
+3231,Stimulus,rotated,4525, degree=127
+3231,Stimulus,rotated,4530, degree=60
+3231,Stimulus,rotated,4535, degree=342
+3232,Stimulus,rotated,4540, degree=135
+3232,Stimulus,rotated,4545, degree=113
+3232,Stimulus,rotated,4550, degree=337
+3233,Stimulus,rotated,4555, degree=65
+3233,Stimulus,rotated,4560, degree=50
+3233,Stimulus,rotated,4565, degree=89
+3234,Stimulus,rotated,4570, degree=128
+3234,Stimulus,rotated,4575, degree=148
+3234,Stimulus,rotated,4580, degree=317
+3235,Stimulus,rotated,4585, degree=209
+3240,Stimulus,rotated,4607, degree=110
+3240,Stimulus,rotated,4612, degree=161
+3240,Stimulus,rotated,4617, degree=289
+3241,Stimulus,rotated,4622, degree=220
+3241,Stimulus,rotated,4627, degree=293
+3241,Stimulus,rotated,4632, degree=334
+3242,Stimulus,rotated,4637, degree=131
+3242,Stimulus,rotated,4642, degree=107
+3242,Stimulus,rotated,4647, degree=99
+3243,Stimulus,rotated,4652, degree=336
+3243,Stimulus,rotated,4657, degree=83
+3243,Stimulus,rotated,4662, degree=275
+3244,Stimulus,rotated,4667, degree=287
+3244,Stimulus,rotated,4672, degree=228
+3244,Stimulus,rotated,4677, degree=215
+3245,Stimulus,rotated,4682, degree=213
+3245,Stimulus,rotated,4687, degree=277
+3245,Stimulus,rotated,4692, degree=329
+3246,Stimulus,rotated,4697, degree=263
+3246,Stimulus,rotated,4702, degree=193
+3246,Stimulus,rotated,4707, degree=74
+3247,Stimulus,rotated,4712, degree=325
+3247,Stimulus,rotated,4717, degree=228
+3247,Stimulus,rotated,4722, degree=287
+3248,Stimulus,rotated,4727, degree=197
+3248,Stimulus,rotated,4732, degree=347
+3248,Stimulus,rotated,4737, degree=238
+3249,Stimulus,rotated,4742, degree=137
+3249,Stimulus,rotated,4747, degree=318
+3249,Stimulus,rotated,4752, degree=174
+3250,Stimulus,rotated,4757, degree=317
+3250,Stimulus,rotated,4762, degree=310
+3255,Stimulus,rotated,4784, degree=205
+3256,Stimulus,rotated,4793, degree=235
+3256,Stimulus,rotated,4802, degree=77
+3256,Stimulus,rotated,4811, degree=164
+3257,Stimulus,rotated,4820, degree=47
+3257,Stimulus,rotated,4829, degree=282
+3258,Stimulus,rotated,4838, degree=325
+3258,Stimulus,rotated,4847, degree=55
+3258,Stimulus,rotated,4856, degree=263
+3259,Stimulus,rotated,4865, degree=120
+3259,Stimulus,rotated,4874, degree=45
+3260,Stimulus,rotated,4883, degree=294
+3260,Stimulus,rotated,4892, degree=237
+3261,Stimulus,rotated,4901, degree=31
+3261,Stimulus,rotated,4910, degree=356
+3262,Stimulus,rotated,4919, degree=58
+3262,Stimulus,rotated,4928, degree=162
+3263,Stimulus,rotated,4937, degree=189
+3263,Stimulus,rotated,4946, degree=185
+3263,Stimulus,rotated,4955, degree=353
+3264,Stimulus,rotated,4964, degree=173
+3264,Stimulus,rotated,4973, degree=92
+3264,Stimulus,rotated,4982, degree=357
+3265,Stimulus,rotated,4991, degree=139
+3265,Stimulus,rotated,5000, degree=192
+3266,Stimulus,rotated,5009, degree=348
+3270,Stimulus,rotated,5035, degree=138
+3271,Stimulus,rotated,5040, degree=130
+3271,Stimulus,rotated,5045, degree=45
+3271,Stimulus,rotated,5050, degree=97
+3272,Stimulus,rotated,5055, degree=172
+3272,Stimulus,rotated,5060, degree=144
+3272,Stimulus,rotated,5065, degree=282
+3273,Stimulus,rotated,5070, degree=20
+3273,Stimulus,rotated,5075, degree=90
+3273,Stimulus,rotated,5080, degree=327
+3274,Stimulus,rotated,5085, degree=176
+3274,Stimulus,rotated,5090, degree=247
+3274,Stimulus,rotated,5095, degree=9
+3275,Stimulus,rotated,5100, degree=99
+3275,Stimulus,rotated,5105, degree=267
+3275,Stimulus,rotated,5110, degree=278
+3275,Stimulus,rotated,5115, degree=146
+3276,Stimulus,rotated,5120, degree=289
+3276,Stimulus,rotated,5125, degree=239
+3276,Stimulus,rotated,5130, degree=31
+3277,Stimulus,rotated,5135, degree=120
+3277,Stimulus,rotated,5140, degree=30
+3277,Stimulus,rotated,5145, degree=136
+3278,Stimulus,rotated,5150, degree=139
+3278,Stimulus,rotated,5155, degree=224
+3279,Stimulus,rotated,5160, degree=358
+3284,Stimulus,rotated,5182, degree=46
+3284,Stimulus,rotated,5191, degree=115
+3284,Stimulus,rotated,5200, degree=339
+3285,Stimulus,rotated,5209, degree=326
+3285,Stimulus,rotated,5218, degree=251
+3286,Stimulus,rotated,5227, degree=83
+3286,Stimulus,rotated,5236, degree=212
+3286,Stimulus,rotated,5245, degree=103
+3287,Stimulus,rotated,5254, degree=112
+3287,Stimulus,rotated,5263, degree=132
+3288,Stimulus,rotated,5272, degree=326
+3288,Stimulus,rotated,5281, degree=232
+3289,Stimulus,rotated,5290, degree=33
+3289,Stimulus,rotated,5299, degree=257
+3289,Stimulus,rotated,5308, degree=136
+3290,Stimulus,rotated,5317, degree=170
+3292,Stimulus,rotated,5326, degree=116
+3292,Stimulus,rotated,5335, degree=86
+3293,Stimulus,rotated,5344, degree=170
+3293,Stimulus,rotated,5353, degree=166
+3293,Stimulus,rotated,5362, degree=346
+3294,Stimulus,rotated,5371, degree=297
+3294,Stimulus,rotated,5380, degree=135
+3294,Stimulus,rotated,5389, degree=2
+3295,Stimulus,rotated,5398, degree=11
+3295,Stimulus,rotated,5407, degree=247
+3296,Stimulus,rotated,5416, degree=240
+3296,Stimulus,rotated,5425, degree=247
+3297,Stimulus,rotated,5434, degree=258
+3297,Stimulus,rotated,5443, degree=184
+3297,Stimulus,rotated,5452, degree=262
+3298,Stimulus,rotated,5461, degree=283
+3298,Stimulus,rotated,5470, degree=357
+3299,Stimulus,rotated,5479, degree=41
+3299,Stimulus,rotated,5488, degree=144
+3300,Stimulus,rotated,5497, degree=88
+3300,Stimulus,rotated,5506, degree=351
+3300,Stimulus,rotated,5515, degree=122
+3307,Stimulus,rotated,5541, degree=181
+3307,Stimulus,rotated,5546, degree=158
+3308,Stimulus,rotated,5551, degree=33
+3308,Stimulus,rotated,5556, degree=151
+3308,Stimulus,rotated,5561, degree=33
+3309,Stimulus,rotated,5566, degree=28
+3309,Stimulus,rotated,5571, degree=338
+3309,Stimulus,rotated,5576, degree=263
+3310,Stimulus,rotated,5581, degree=105
+3310,Stimulus,rotated,5586, degree=152
+3310,Stimulus,rotated,5591, degree=46
+3311,Stimulus,rotated,5596, degree=68
+3311,Stimulus,rotated,5601, degree=58
+3311,Stimulus,rotated,5606, degree=356
+3312,Stimulus,rotated,5611, degree=318
+3312,Stimulus,rotated,5616, degree=182
+3312,Stimulus,rotated,5621, degree=319
+3313,Stimulus,rotated,5626, degree=36
+3313,Stimulus,rotated,5631, degree=225
+3313,Stimulus,rotated,5636, degree=132
+3314,Stimulus,rotated,5641, degree=182
+3314,Stimulus,rotated,5646, degree=245
+3314,Stimulus,rotated,5651, degree=291
+3315,Stimulus,rotated,5656, degree=242
+3315,Stimulus,rotated,5661, degree=177
+3315,Stimulus,rotated,5666, degree=325
+3316,Stimulus,rotated,5671, degree=272
+3316,Stimulus,rotated,5676, degree=5
+3316,Stimulus,rotated,5681, degree=251
+3316,Stimulus,rotated,5686, degree=156
+3317,Stimulus,rotated,5691, degree=80
+3317,Stimulus,rotated,5696, degree=261
+3317,Stimulus,rotated,5701, degree=54
+3318,Stimulus,rotated,5706, degree=289
+3318,Stimulus,rotated,5711, degree=187
+3318,Stimulus,rotated,5716, degree=57
+3319,Stimulus,rotated,5721, degree=84
+3319,Stimulus,rotated,5726, degree=17
+3324,Stimulus,rotated,5748, degree=220
+3324,Stimulus,rotated,5755, degree=8
+3325,Stimulus,rotated,5762, degree=34
+3325,Stimulus,rotated,5769, degree=330
+3325,Stimulus,rotated,5776, degree=324
+3326,Stimulus,rotated,5783, degree=197
+3326,Stimulus,rotated,5790, degree=24
+3326,Stimulus,rotated,5797, degree=87
+3327,Stimulus,rotated,5804, degree=156
+3327,Stimulus,rotated,5811, degree=76
+3327,Stimulus,rotated,5818, degree=226
+3328,Stimulus,rotated,5825, degree=204
+3328,Stimulus,rotated,5832, degree=110
+3329,Stimulus,rotated,5839, degree=203
+3329,Stimulus,rotated,5846, degree=155
+3329,Stimulus,rotated,5853, degree=58
+3330,Stimulus,rotated,5860, degree=0
+3330,Stimulus,rotated,5867, degree=168
+3330,Stimulus,rotated,5874, degree=26
+3331,Stimulus,rotated,5881, degree=216
+3331,Stimulus,rotated,5888, degree=232
+3331,Stimulus,rotated,5895, degree=340
+3332,Stimulus,rotated,5902, degree=34
+3332,Stimulus,rotated,5909, degree=25
+3333,Stimulus,rotated,5916, degree=354
+3333,Stimulus,rotated,5923, degree=307
+3333,Stimulus,rotated,5930, degree=317
+3334,Stimulus,rotated,5937, degree=313
+3334,Stimulus,rotated,5944, degree=359
+3334,Stimulus,rotated,5951, degree=332
+3335,Stimulus,rotated,5958, degree=265
+3335,Stimulus,rotated,5965, degree=235
+3340,Stimulus,rotated,5989, degree=272
+3340,Stimulus,rotated,5998, degree=323
+3341,Stimulus,rotated,6007, degree=175
+3341,Stimulus,rotated,6016, degree=61
+3342,Stimulus,rotated,6025, degree=216
+3342,Stimulus,rotated,6034, degree=30
+3342,Stimulus,rotated,6043, degree=43
+3343,Stimulus,rotated,6052, degree=200
+3343,Stimulus,rotated,6061, degree=56
+3344,Stimulus,rotated,6070, degree=140
+3344,Stimulus,rotated,6079, degree=191
+3344,Stimulus,rotated,6088, degree=83
+3345,Stimulus,rotated,6097, degree=23
+3345,Stimulus,rotated,6106, degree=207
+3346,Stimulus,rotated,6115, degree=269
+3346,Stimulus,rotated,6124, degree=22
+3347,Stimulus,rotated,6133, degree=348
+3347,Stimulus,rotated,6142, degree=332
+3347,Stimulus,rotated,6151, degree=171
+3348,Stimulus,rotated,6160, degree=316
+3348,Stimulus,rotated,6169, degree=343
+3349,Stimulus,rotated,6178, degree=225
+3349,Stimulus,rotated,6187, degree=168
+3349,Stimulus,rotated,6196, degree=143
+3350,Stimulus,rotated,6205, degree=267
+3350,Stimulus,rotated,6214, degree=166
+3351,Stimulus,rotated,6223, degree=295
+3351,Stimulus,rotated,6232, degree=196
+3351,Stimulus,rotated,6241, degree=26
+3352,Stimulus,rotated,6250, degree=329
+3352,Stimulus,rotated,6259, degree=322
+3353,Stimulus,rotated,6268, degree=147
+3357,Stimulus,rotated,6294, degree=237
+3358,Stimulus,rotated,6303, degree=289
+3358,Stimulus,rotated,6312, degree=56
+3359,Stimulus,rotated,6321, degree=38
+3359,Stimulus,rotated,6330, degree=95
+3359,Stimulus,rotated,6339, degree=109
+3360,Stimulus,rotated,6348, degree=355
+3360,Stimulus,rotated,6357, degree=297
+3361,Stimulus,rotated,6366, degree=342
+3361,Stimulus,rotated,6375, degree=131
+3361,Stimulus,rotated,6384, degree=308
+3362,Stimulus,rotated,6393, degree=215
+3362,Stimulus,rotated,6402, degree=217
+3363,Stimulus,rotated,6411, degree=46
+3363,Stimulus,rotated,6420, degree=78
+3363,Stimulus,rotated,6429, degree=354
+3364,Stimulus,rotated,6438, degree=175
+3364,Stimulus,rotated,6447, degree=4
+3365,Stimulus,rotated,6456, degree=2
+3365,Stimulus,rotated,6465, degree=179
+3365,Stimulus,rotated,6474, degree=25
+3366,Stimulus,rotated,6483, degree=110
+3366,Stimulus,rotated,6492, degree=53
+3367,Stimulus,rotated,6501, degree=217
+3367,Stimulus,rotated,6510, degree=309
+3368,Stimulus,rotated,6519, degree=327
+3368,Stimulus,rotated,6528, degree=285
+3368,Stimulus,rotated,6537, degree=282
+3369,Stimulus,rotated,6546, degree=296
+3369,Stimulus,rotated,6555, degree=344
+3370,Stimulus,rotated,6564, degree=292
+3370,Stimulus,rotated,6573, degree=168
+34823,design,log,
+#design: #exp: Exp 3: Number Comparison (lines)
+#design: block_cnt,block_id,trial_cnt,trial_id,More_T_Side,N_Left,N_Right,SetID,Type_Left,Type_Right
+#design: 0,0,0,24,right,22,16,0,diff_topo,default
+#design: 0,0,1,3,right,22,16,0,diff_topo,default
+#design: 0,0,2,22,left,16,10,0,default,diff_topo
+#design: 0,0,3,15,right,10,16,5,diff_topo,default
+#design: 0,0,4,27,right,16,16,5,diff_topo,default
+#design: 0,0,5,18,right,16,16,1,diff_topo,default
+#design: 0,0,6,9,left,22,16,0,default,diff_topo
+#design: 0,0,7,4,right,16,16,1,diff_topo,default
+#design: 0,0,8,21,left,10,16,5,default,diff_topo
+#design: 0,0,9,7,left,10,16,0,default,diff_topo
+#design: 0,0,10,1,left,16,10,0,default,diff_topo
+#design: 0,0,11,17,right,22,16,5,diff_topo,default
+#design: 0,0,12,14,right,16,10,5,diff_topo,default
+#design: 0,0,13,0,left,10,16,0,default,diff_topo
+#design: 0,0,14,16,left,22,16,1,default,diff_topo
+#design: 0,0,15,12,right,16,16,5,diff_topo,default
+#design: 0,0,16,10,right,22,16,1,diff_topo,default
+#design: 0,0,17,19,right,16,16,0,diff_topo,default
+#design: 0,0,18,5,left,16,16,1,default,diff_topo
+#design: 0,0,19,20,left,16,16,0,default,diff_topo
+#design: 0,0,20,2,left,22,16,0,default,diff_topo
+#design: 0,0,21,13,right,16,16,5,diff_topo,default
+#design: 0,0,22,23,right,16,22,5,diff_topo,default
+#design: 0,0,23,25,left,16,16,1,default,diff_topo
+#design: 0,0,24,6,left,16,16,1,default,diff_topo
+#design: 0,0,25,26,left,16,16,5,default,diff_topo
+#design: 0,0,26,11,right,16,16,0,diff_topo,default
+#design: 0,0,27,8,left,16,10,1,default,diff_topo
+34823,design,logged,
+34823,Experiment,started
+34827,Stimulus,presented,6601
+34833,Stimulus,presented,6582
+35406,Keyboard,received,32,wait
+35413,Stimulus,presented,6618
+35421,Stimulus,presented,6602
+35847,Keyboard,received,32,wait
+35851,Stimulus,presented,6619
+36846,Keyboard,received,32,wait
+36850,Stimulus,presented,6620
+36857,Stimulus,presented,6621
+36867,Stimulus,presented,5524
+39878,Keyboard,received,g,wait_char
+40883,Stimulus,presented,6620
+40891,Stimulus,presented,6621
+40900,Stimulus,presented,501
+43038,Keyboard,received,d,wait_char
+44042,Stimulus,presented,6620
+44048,Stimulus,presented,6621
+44057,Stimulus,presented,5018
+45342,Keyboard,received,g,wait_char
+46346,Stimulus,presented,6620
+46350,Stimulus,presented,6621
+46359,Stimulus,presented,3295
+47470,Keyboard,received,d,wait_char
+48474,Stimulus,presented,6620
+48482,Stimulus,presented,6621
+48492,Stimulus,presented,6277
+49894,Keyboard,received,d,wait_char
+50898,Stimulus,presented,6620
+50905,Stimulus,presented,6621
+50915,Stimulus,presented,4172
+52918,Keyboard,received,d,wait_char
+53922,Stimulus,presented,6620
+53929,Stimulus,presented,6621
+53938,Stimulus,presented,1767
+56263,Keyboard,received,g,wait_char
+57266,Stimulus,presented,6620
+57273,Stimulus,presented,6621
+57282,Stimulus,presented,698
+59470,Keyboard,received,d,wait_char
+60474,Stimulus,presented,6620
+60478,Stimulus,presented,6621
+60487,Stimulus,presented,4767
+62199,Keyboard,received,d,wait_char
+63202,Stimulus,presented,6620
+63210,Stimulus,presented,6621
+63220,Stimulus,presented,1421
+64614,Keyboard,received,d,wait_char
+65618,Stimulus,presented,6620
+65622,Stimulus,presented,6621
+65631,Stimulus,presented,147
+66574,Keyboard,received,g,wait_char
+67578,Stimulus,presented,6620
+67584,Stimulus,presented,6621
+67595,Stimulus,presented,3822
+69055,Keyboard,received,d,wait_char
+70059,Stimulus,presented,6620
+70062,Stimulus,presented,6621
+70072,Stimulus,presented,3044
+71238,Keyboard,received,g,wait_char
+72242,Stimulus,presented,6620
+72249,Stimulus,presented,6621
+72258,Stimulus,presented,0
+73006,Keyboard,received,d,wait_char
+74010,Stimulus,presented,6620
+74019,Stimulus,presented,6621
+74028,Stimulus,presented,3546
+75022,Keyboard,received,g,wait_char
+76027,Stimulus,presented,6620
+76030,Stimulus,presented,6621
+76040,Stimulus,presented,2434
+77798,Keyboard,received,d,wait_char
+78801,Stimulus,presented,6620
+78804,Stimulus,presented,6621
+78814,Stimulus,presented,1974
+80342,Keyboard,received,g,wait_char
+81345,Stimulus,presented,6620
+81349,Stimulus,presented,6621
+81359,Stimulus,presented,4413
+82495,Keyboard,received,d,wait_char
+83499,Stimulus,presented,6620
+83506,Stimulus,presented,6621
+83516,Stimulus,presented,939
+85174,Keyboard,received,g,wait_char
+86178,Stimulus,presented,6620
+86184,Stimulus,presented,6621
+86193,Stimulus,presented,4590
+88566,Keyboard,received,g,wait_char
+89570,Stimulus,presented,6620
+89576,Stimulus,presented,6621
+89585,Stimulus,presented,294
+90471,Keyboard,received,g,wait_char
+91477,Stimulus,presented,6620
+91480,Stimulus,presented,6621
+91490,Stimulus,presented,2739
+92407,Keyboard,received,d,wait_char
+93411,Stimulus,presented,6620
+93417,Stimulus,presented,6621
+93427,Stimulus,presented,5165
+94126,Keyboard,received,d,wait_char
+95130,Stimulus,presented,6620
+95138,Stimulus,presented,6621
+95147,Stimulus,presented,5731
+96399,Keyboard,received,g,wait_char
+97402,Stimulus,presented,6620
+97410,Stimulus,presented,6621
+97419,Stimulus,presented,1180
+101254,Keyboard,received,g,wait_char
+102259,Stimulus,presented,6620
+102262,Stimulus,presented,6621
+102272,Stimulus,presented,5972
+105470,Keyboard,received,g,wait_char
+106474,Stimulus,presented,6620
+106479,Stimulus,presented,6621
+106488,Stimulus,presented,2257
+107342,Keyboard,received,d,wait_char
+108346,Stimulus,presented,6620
+108351,Stimulus,presented,6621
+108360,Stimulus,presented,1568
+109222,Keyboard,received,g,wait_char
+110224,Experiment,ended
+110233,Data,saved
+110236,Stimulus,presented,6622

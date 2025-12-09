@@ -1,0 +1,7 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Mon Dec 08 2025 23:33:32
+#sha1: 79626c
+#modules: gen_stimuli.py (e1cffe)
+#display: size=(1536.0, 1382.4), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='RomeoGYGABYTE', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2

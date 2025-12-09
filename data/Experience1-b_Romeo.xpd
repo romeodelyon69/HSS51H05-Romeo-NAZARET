@@ -1,0 +1,63 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Mon Dec 08 2025 23:40:48
+#--EXPERIMENT INFO
+#e mainfile: Experience1-b.py
+#e sha1: 86554d
+#e modules: gen_stimuli.py (fa5fb2)
+#e Experiment: Exp 1b: Topological Perception
+#e no between subject factors
+#e Block 0: Main Block
+#e     block factors: 
+#e     n trials: 42
+#e     trial factors: SetID = [0, 1, 2, 3, 4, 5, 6]
+#e                    TrialType = [diff_topo, same, same_topo]
+#e                    CorrectResp = [d, s]
+#e                    Stim2Category = [default, diff_topo, same_topo]
+#e                    Pos1_Idx = [0, 1, 2, 3, 4, 5]
+#e                    Pos2_Idx = [0, 1, 2, 3, 4, 5]
+#e                    
+#--SUBJECT INFO
+#s id: 22
+subject_id,
+22,1,same,default,5,2,s,s,847,1
+22,1,diff_topo,diff_topo,2,3,d,d,714,1
+22,5,same_topo,same_topo,5,1,d,d,677,1
+22,0,same_topo,same_topo,2,1,d,d,585,1
+22,0,diff_topo,diff_topo,1,5,d,d,841,1
+22,4,same,default,0,5,s,s,1987,1
+22,4,same,default,5,4,s,s,739,1
+22,4,diff_topo,diff_topo,5,1,d,d,667,1
+22,5,same,default,4,0,s,s,670,1
+22,5,diff_topo,diff_topo,4,2,d,d,545,1
+22,3,diff_topo,diff_topo,2,3,d,d,763,1
+22,2,diff_topo,diff_topo,1,2,d,d,587,1
+22,2,same,default,5,0,s,s,675,1
+22,2,same_topo,same_topo,3,1,d,d,808,1
+22,1,diff_topo,diff_topo,2,4,d,d,1319,1
+22,6,same,default,0,3,s,s,609,1
+22,1,same,default,3,5,s,s,593,1
+22,3,same_topo,same_topo,4,3,d,d,659,1
+22,5,same_topo,same_topo,1,2,d,d,1162,1
+22,0,same,default,2,1,s,s,596,1
+22,6,same_topo,same_topo,1,0,d,d,590,1
+22,0,same,default,3,5,s,s,671,1
+22,0,diff_topo,diff_topo,5,3,d,d,586,1
+22,5,same,default,4,5,s,s,826,1
+22,4,diff_topo,diff_topo,4,1,d,d,688,1
+22,2,same,default,0,3,s,s,1185,1
+22,2,diff_topo,diff_topo,4,1,d,d,496,1
+22,1,same_topo,same_topo,4,5,d,d,1570,1
+22,3,same,default,1,2,s,s,1431,1
+22,4,same_topo,same_topo,3,4,d,d,1846,1
+22,1,same_topo,same_topo,2,4,d,d,810,1
+22,3,same_topo,same_topo,1,3,d,d,1057,1
+22,3,same,default,4,5,s,s,904,1
+22,3,diff_topo,diff_topo,5,1,d,d,487,1
+22,0,same_topo,same_topo,5,0,d,d,832,1
+22,6,same,default,5,0,s,s,711,1
+22,5,diff_topo,diff_topo,0,5,d,d,736,1
+22,6,diff_topo,diff_topo,4,1,d,d,536,1
+22,6,same_topo,same_topo,0,3,d,d,800,1
+22,4,same_topo,same_topo,3,2,d,d,1220,1
+22,6,diff_topo,diff_topo,3,1,d,d,503,1
+22,2,same_topo,same_topo,0,2,d,d,1397,1

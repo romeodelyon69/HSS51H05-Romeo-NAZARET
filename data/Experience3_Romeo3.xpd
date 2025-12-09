@@ -1,0 +1,49 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Tue Dec 09 2025 01:33:24
+#--EXPERIMENT INFO
+#e mainfile: Experience3a&b.py
+#e sha1: 30ba20
+#e modules: gen_stimuli.py (57a8ea)
+#e Experiment: Exp 3: Number Comparison (lines)
+#e no between subject factors
+#e Block 0: Main Block
+#e     block factors: 
+#e     n trials: 28
+#e     trial factors: SetID = [0, 1, 5]
+#e                    N_Left = [10, 16, 22]
+#e                    N_Right = [10, 16, 22]
+#e                    Type_Left = [default, diff_topo]
+#e                    Type_Right = [default, diff_topo]
+#e                    More_T_Side = [left, right]
+#e                    
+#--SUBJECT INFO
+#s id: 20
+subject_id,
+20,lines,0,22,16,diff_topo,default,g,3011,0,1
+20,lines,0,22,16,diff_topo,default,d,2138,1,0
+20,lines,0,16,10,default,diff_topo,g,1285,1,1
+20,lines,5,10,16,diff_topo,default,d,1111,1,1
+20,lines,5,16,16,diff_topo,default,d,1402,1,-1
+20,lines,1,16,16,diff_topo,default,d,2003,1,-1
+20,lines,0,22,16,default,diff_topo,g,2324,1,1
+20,lines,1,16,16,diff_topo,default,d,2187,1,-1
+20,lines,5,10,16,default,diff_topo,d,1711,0,1
+20,lines,0,10,16,default,diff_topo,d,1394,0,1
+20,lines,0,16,10,default,diff_topo,g,943,1,1
+20,lines,5,22,16,diff_topo,default,d,1459,1,0
+20,lines,5,16,10,diff_topo,default,g,1166,0,1
+20,lines,0,10,16,default,diff_topo,d,748,0,1
+20,lines,1,22,16,default,diff_topo,g,993,1,1
+20,lines,5,16,16,diff_topo,default,d,1758,1,-1
+20,lines,1,22,16,diff_topo,default,g,1528,0,1
+20,lines,0,16,16,diff_topo,default,d,1136,1,-1
+20,lines,1,16,16,default,diff_topo,g,1658,1,-1
+20,lines,0,16,16,default,diff_topo,g,2373,1,-1
+20,lines,0,22,16,default,diff_topo,g,885,1,1
+20,lines,5,16,16,diff_topo,default,d,916,1,-1
+20,lines,5,16,22,diff_topo,default,d,699,1,1
+20,lines,1,16,16,default,diff_topo,g,1251,1,-1
+20,lines,1,16,16,default,diff_topo,g,3835,1,-1
+20,lines,5,16,16,default,diff_topo,g,3197,1,-1
+20,lines,0,16,16,diff_topo,default,d,853,1,-1
+20,lines,1,16,10,default,diff_topo,g,862,1,1

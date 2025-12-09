@@ -1,0 +1,2758 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Tue Dec 09 2025 00:13:59
+#sha1: 2e295d
+#modules: gen_stimuli.py (fa5fb2)
+#display: size=(1728.0, 1080.0), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='RomeoGYGABYTE', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+3150,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3159,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3163,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3169,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3174,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3179,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3179,Stimulus,rotated,9, degree=334
+3180,Stimulus,rotated,14, degree=20
+3180,Stimulus,rotated,19, degree=87
+3181,Stimulus,rotated,24, degree=330
+3181,Stimulus,rotated,29, degree=50
+3181,Stimulus,rotated,34, degree=96
+3181,Stimulus,rotated,39, degree=129
+3182,Stimulus,rotated,44, degree=287
+3182,Stimulus,rotated,49, degree=292
+3183,Stimulus,rotated,54, degree=30
+3183,Stimulus,rotated,59, degree=190
+3184,Stimulus,rotated,64, degree=195
+3184,Stimulus,rotated,69, degree=310
+3184,Stimulus,rotated,74, degree=93
+3185,Stimulus,rotated,79, degree=156
+3185,Stimulus,rotated,84, degree=204
+3203,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3207,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3211,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3216,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3220,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3224,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3229,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3234,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3238,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3239,Stimulus,rotated,98, degree=255
+3239,Stimulus,rotated,103, degree=245
+3239,Stimulus,rotated,108, degree=340
+3240,Stimulus,rotated,113, degree=251
+3240,Stimulus,rotated,118, degree=327
+3240,Stimulus,rotated,123, degree=67
+3241,Stimulus,rotated,128, degree=289
+3241,Stimulus,rotated,133, degree=199
+3241,Stimulus,rotated,138, degree=347
+3241,Stimulus,rotated,143, degree=265
+3242,Stimulus,rotated,148, degree=215
+3242,Stimulus,rotated,153, degree=334
+3242,Stimulus,rotated,158, degree=232
+3242,Stimulus,rotated,163, degree=12
+3243,Stimulus,rotated,168, degree=214
+3243,Stimulus,rotated,173, degree=156
+3259,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3264,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3269,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3274,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3279,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3283,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3289,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3290,Stimulus,rotated,187, degree=33
+3290,Stimulus,rotated,192, degree=314
+3290,Stimulus,rotated,197, degree=83
+3291,Stimulus,rotated,202, degree=347
+3291,Stimulus,rotated,207, degree=227
+3292,Stimulus,rotated,212, degree=187
+3292,Stimulus,rotated,217, degree=52
+3292,Stimulus,rotated,222, degree=18
+3293,Stimulus,rotated,227, degree=344
+3293,Stimulus,rotated,232, degree=291
+3293,Stimulus,rotated,237, degree=184
+3293,Stimulus,rotated,242, degree=305
+3294,Stimulus,rotated,247, degree=106
+3294,Stimulus,rotated,252, degree=339
+3294,Stimulus,rotated,257, degree=77
+3294,Stimulus,rotated,262, degree=79
+3312,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3316,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3320,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3324,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3328,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3332,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3333,Stimulus,rotated,276, degree=198
+3333,Stimulus,rotated,281, degree=282
+3334,Stimulus,rotated,286, degree=277
+3334,Stimulus,rotated,291, degree=244
+3335,Stimulus,rotated,296, degree=40
+3335,Stimulus,rotated,301, degree=271
+3335,Stimulus,rotated,306, degree=342
+3336,Stimulus,rotated,311, degree=33
+3336,Stimulus,rotated,316, degree=214
+3336,Stimulus,rotated,321, degree=88
+3336,Stimulus,rotated,326, degree=323
+3337,Stimulus,rotated,331, degree=251
+3337,Stimulus,rotated,336, degree=263
+3337,Stimulus,rotated,341, degree=214
+3337,Stimulus,rotated,346, degree=61
+3338,Stimulus,rotated,351, degree=106
+3355,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3360,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3364,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3369,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3373,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3377,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3381,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3382,Stimulus,rotated,365, degree=194
+3382,Stimulus,rotated,370, degree=102
+3383,Stimulus,rotated,375, degree=208
+3383,Stimulus,rotated,380, degree=184
+3384,Stimulus,rotated,385, degree=18
+3384,Stimulus,rotated,390, degree=120
+3384,Stimulus,rotated,395, degree=112
+3385,Stimulus,rotated,400, degree=76
+3385,Stimulus,rotated,405, degree=180
+3385,Stimulus,rotated,410, degree=117
+3386,Stimulus,rotated,415, degree=189
+3386,Stimulus,rotated,420, degree=270
+3386,Stimulus,rotated,425, degree=135
+3386,Stimulus,rotated,430, degree=359
+3386,Stimulus,rotated,435, degree=334
+3387,Stimulus,rotated,440, degree=84
+3401,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3405,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3410,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3414,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3419,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3423,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3427,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3432,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3436,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3436,Stimulus,rotated,454, degree=24
+3437,Stimulus,rotated,459, degree=335
+3437,Stimulus,rotated,464, degree=146
+3437,Stimulus,rotated,469, degree=266
+3438,Stimulus,rotated,474, degree=121
+3438,Stimulus,rotated,479, degree=51
+3439,Stimulus,rotated,484, degree=262
+3439,Stimulus,rotated,489, degree=260
+3439,Stimulus,rotated,494, degree=203
+3439,Stimulus,rotated,499, degree=113
+3439,Stimulus,rotated,504, degree=164
+3440,Stimulus,rotated,509, degree=293
+3440,Stimulus,rotated,514, degree=22
+3440,Stimulus,rotated,519, degree=102
+3440,Stimulus,rotated,524, degree=288
+3441,Stimulus,rotated,529, degree=37
+3455,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3459,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3464,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3469,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3472,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3477,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3481,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3485,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3486,Stimulus,rotated,543, degree=193
+3487,Stimulus,rotated,548, degree=343
+3487,Stimulus,rotated,553, degree=32
+3487,Stimulus,rotated,558, degree=187
+3488,Stimulus,rotated,563, degree=152
+3488,Stimulus,rotated,568, degree=71
+3488,Stimulus,rotated,573, degree=165
+3489,Stimulus,rotated,578, degree=318
+3489,Stimulus,rotated,583, degree=261
+3489,Stimulus,rotated,588, degree=219
+3489,Stimulus,rotated,593, degree=169
+3490,Stimulus,rotated,598, degree=138
+3490,Stimulus,rotated,603, degree=97
+3490,Stimulus,rotated,608, degree=190
+3490,Stimulus,rotated,613, degree=128
+3490,Stimulus,rotated,618, degree=271
+3506,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3510,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3514,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3518,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3523,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3527,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3531,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3531,Stimulus,rotated,632, degree=85
+3532,Stimulus,rotated,637, degree=112
+3532,Stimulus,rotated,642, degree=131
+3532,Stimulus,rotated,647, degree=310
+3532,Stimulus,rotated,652, degree=212
+3533,Stimulus,rotated,657, degree=167
+3533,Stimulus,rotated,662, degree=78
+3534,Stimulus,rotated,667, degree=334
+3534,Stimulus,rotated,672, degree=187
+3534,Stimulus,rotated,677, degree=20
+3535,Stimulus,rotated,682, degree=166
+3535,Stimulus,rotated,687, degree=338
+3535,Stimulus,rotated,692, degree=62
+3535,Stimulus,rotated,697, degree=74
+3536,Stimulus,rotated,702, degree=298
+3536,Stimulus,rotated,707, degree=133
+3550,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3554,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3559,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3562,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3566,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3570,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3574,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3575,Stimulus,rotated,723, degree=218
+3575,Stimulus,rotated,730, degree=73
+3575,Stimulus,rotated,737, degree=62
+3576,Stimulus,rotated,744, degree=60
+3576,Stimulus,rotated,751, degree=199
+3576,Stimulus,rotated,758, degree=245
+3577,Stimulus,rotated,765, degree=274
+3577,Stimulus,rotated,772, degree=89
+3578,Stimulus,rotated,779, degree=339
+3578,Stimulus,rotated,786, degree=193
+3578,Stimulus,rotated,793, degree=10
+3579,Stimulus,rotated,800, degree=331
+3579,Stimulus,rotated,807, degree=29
+3579,Stimulus,rotated,814, degree=330
+3579,Stimulus,rotated,821, degree=316
+3580,Stimulus,rotated,828, degree=93
+3593,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3597,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3602,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3606,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3610,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3615,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3618,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3622,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3626,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3627,Stimulus,rotated,846, degree=264
+3627,Stimulus,rotated,853, degree=243
+3627,Stimulus,rotated,860, degree=97
+3628,Stimulus,rotated,867, degree=288
+3628,Stimulus,rotated,874, degree=0
+3628,Stimulus,rotated,881, degree=200
+3629,Stimulus,rotated,888, degree=172
+3629,Stimulus,rotated,895, degree=9
+3629,Stimulus,rotated,902, degree=338
+3630,Stimulus,rotated,909, degree=303
+3630,Stimulus,rotated,916, degree=172
+3630,Stimulus,rotated,923, degree=47
+3630,Stimulus,rotated,930, degree=352
+3631,Stimulus,rotated,937, degree=165
+3631,Stimulus,rotated,944, degree=280
+3632,Stimulus,rotated,951, degree=226
+3645,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3649,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3653,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3658,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3662,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3666,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3670,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3674,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3675,Stimulus,rotated,969, degree=227
+3675,Stimulus,rotated,976, degree=149
+3675,Stimulus,rotated,983, degree=292
+3676,Stimulus,rotated,990, degree=290
+3676,Stimulus,rotated,997, degree=150
+3677,Stimulus,rotated,1004, degree=96
+3678,Stimulus,rotated,1011, degree=290
+3678,Stimulus,rotated,1018, degree=135
+3679,Stimulus,rotated,1025, degree=260
+3679,Stimulus,rotated,1032, degree=19
+3679,Stimulus,rotated,1039, degree=260
+3680,Stimulus,rotated,1046, degree=238
+3680,Stimulus,rotated,1053, degree=118
+3681,Stimulus,rotated,1060, degree=255
+3681,Stimulus,rotated,1067, degree=304
+3681,Stimulus,rotated,1074, degree=84
+3701,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3706,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3711,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3715,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3719,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3720,Stimulus,rotated,1092, degree=267
+3720,Stimulus,rotated,1099, degree=69
+3721,Stimulus,rotated,1106, degree=48
+3721,Stimulus,rotated,1113, degree=55
+3722,Stimulus,rotated,1120, degree=118
+3722,Stimulus,rotated,1127, degree=261
+3722,Stimulus,rotated,1134, degree=8
+3723,Stimulus,rotated,1141, degree=107
+3723,Stimulus,rotated,1148, degree=358
+3723,Stimulus,rotated,1155, degree=292
+3724,Stimulus,rotated,1162, degree=80
+3724,Stimulus,rotated,1169, degree=345
+3724,Stimulus,rotated,1176, degree=333
+3725,Stimulus,rotated,1183, degree=356
+3725,Stimulus,rotated,1190, degree=185
+3725,Stimulus,rotated,1197, degree=55
+3741,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3745,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3749,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3754,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3758,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3762,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3762,Stimulus,rotated,1215, degree=318
+3763,Stimulus,rotated,1222, degree=15
+3763,Stimulus,rotated,1229, degree=23
+3763,Stimulus,rotated,1236, degree=315
+3764,Stimulus,rotated,1243, degree=119
+3764,Stimulus,rotated,1250, degree=326
+3764,Stimulus,rotated,1257, degree=59
+3765,Stimulus,rotated,1264, degree=280
+3765,Stimulus,rotated,1271, degree=280
+3766,Stimulus,rotated,1278, degree=258
+3766,Stimulus,rotated,1285, degree=84
+3766,Stimulus,rotated,1292, degree=64
+3767,Stimulus,rotated,1299, degree=271
+3767,Stimulus,rotated,1306, degree=286
+3767,Stimulus,rotated,1313, degree=112
+3767,Stimulus,rotated,1320, degree=105
+3782,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3786,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3791,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3795,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3799,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3804,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3808,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3812,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3813,Stimulus,rotated,1338, degree=51
+3813,Stimulus,rotated,1345, degree=154
+3814,Stimulus,rotated,1352, degree=144
+3814,Stimulus,rotated,1359, degree=1
+3814,Stimulus,rotated,1366, degree=212
+3815,Stimulus,rotated,1373, degree=275
+3815,Stimulus,rotated,1380, degree=183
+3815,Stimulus,rotated,1387, degree=153
+3816,Stimulus,rotated,1394, degree=96
+3816,Stimulus,rotated,1401, degree=355
+3816,Stimulus,rotated,1408, degree=3
+3816,Stimulus,rotated,1415, degree=5
+3817,Stimulus,rotated,1422, degree=306
+3817,Stimulus,rotated,1429, degree=168
+3817,Stimulus,rotated,1436, degree=316
+3818,Stimulus,rotated,1443, degree=106
+3833,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3837,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3841,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3846,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3850,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3854,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3859,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3859,Stimulus,rotated,1461, degree=290
+3860,Stimulus,rotated,1468, degree=344
+3860,Stimulus,rotated,1475, degree=337
+3860,Stimulus,rotated,1482, degree=204
+3861,Stimulus,rotated,1489, degree=35
+3862,Stimulus,rotated,1496, degree=266
+3862,Stimulus,rotated,1503, degree=245
+3863,Stimulus,rotated,1510, degree=31
+3863,Stimulus,rotated,1517, degree=328
+3863,Stimulus,rotated,1524, degree=100
+3863,Stimulus,rotated,1531, degree=280
+3864,Stimulus,rotated,1538, degree=347
+3864,Stimulus,rotated,1545, degree=64
+3864,Stimulus,rotated,1552, degree=96
+3865,Stimulus,rotated,1559, degree=137
+3865,Stimulus,rotated,1566, degree=340
+3882,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3886,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3890,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3895,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3899,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3903,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3907,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3908,Stimulus,rotated,1584, degree=1
+3908,Stimulus,rotated,1591, degree=331
+3908,Stimulus,rotated,1598, degree=256
+3908,Stimulus,rotated,1605, degree=191
+3909,Stimulus,rotated,1612, degree=8
+3910,Stimulus,rotated,1619, degree=121
+3910,Stimulus,rotated,1626, degree=18
+3911,Stimulus,rotated,1633, degree=354
+3911,Stimulus,rotated,1640, degree=46
+3911,Stimulus,rotated,1647, degree=131
+3912,Stimulus,rotated,1654, degree=197
+3912,Stimulus,rotated,1661, degree=251
+3912,Stimulus,rotated,1668, degree=108
+3912,Stimulus,rotated,1675, degree=226
+3913,Stimulus,rotated,1682, degree=168
+3913,Stimulus,rotated,1689, degree=235
+3933,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3937,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3942,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3946,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3951,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3955,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3960,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3960,Stimulus,rotated,1709, degree=240
+3961,Stimulus,rotated,1718, degree=223
+3961,Stimulus,rotated,1727, degree=142
+3962,Stimulus,rotated,1736, degree=172
+3962,Stimulus,rotated,1745, degree=149
+3962,Stimulus,rotated,1754, degree=238
+3963,Stimulus,rotated,1763, degree=191
+3963,Stimulus,rotated,1772, degree=33
+3964,Stimulus,rotated,1781, degree=358
+3964,Stimulus,rotated,1790, degree=86
+3964,Stimulus,rotated,1799, degree=41
+3965,Stimulus,rotated,1808, degree=268
+3965,Stimulus,rotated,1817, degree=207
+3965,Stimulus,rotated,1826, degree=70
+3966,Stimulus,rotated,1835, degree=108
+3966,Stimulus,rotated,1844, degree=176
+3981,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3986,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3993,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+3997,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4002,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4007,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4012,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4012,Stimulus,rotated,1866, degree=278
+4013,Stimulus,rotated,1875, degree=202
+4013,Stimulus,rotated,1884, degree=292
+4014,Stimulus,rotated,1893, degree=280
+4014,Stimulus,rotated,1902, degree=24
+4015,Stimulus,rotated,1911, degree=305
+4015,Stimulus,rotated,1920, degree=226
+4016,Stimulus,rotated,1929, degree=56
+4016,Stimulus,rotated,1938, degree=290
+4016,Stimulus,rotated,1947, degree=190
+4017,Stimulus,rotated,1956, degree=96
+4017,Stimulus,rotated,1965, degree=173
+4017,Stimulus,rotated,1974, degree=197
+4018,Stimulus,rotated,1983, degree=311
+4018,Stimulus,rotated,1992, degree=15
+4019,Stimulus,rotated,2001, degree=359
+4033,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4037,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4041,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4046,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4050,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4053,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4058,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4062,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4063,Stimulus,rotated,2023, degree=273
+4063,Stimulus,rotated,2032, degree=255
+4064,Stimulus,rotated,2041, degree=233
+4064,Stimulus,rotated,2050, degree=303
+4064,Stimulus,rotated,2059, degree=308
+4065,Stimulus,rotated,2068, degree=358
+4065,Stimulus,rotated,2077, degree=348
+4066,Stimulus,rotated,2086, degree=12
+4066,Stimulus,rotated,2095, degree=303
+4067,Stimulus,rotated,2104, degree=33
+4067,Stimulus,rotated,2113, degree=305
+4067,Stimulus,rotated,2122, degree=156
+4068,Stimulus,rotated,2131, degree=227
+4068,Stimulus,rotated,2140, degree=296
+4069,Stimulus,rotated,2149, degree=146
+4069,Stimulus,rotated,2158, degree=85
+4084,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4088,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4092,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4096,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4101,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4106,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4110,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4114,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4115,Stimulus,rotated,2180, degree=66
+4116,Stimulus,rotated,2189, degree=260
+4116,Stimulus,rotated,2198, degree=88
+4117,Stimulus,rotated,2207, degree=201
+4117,Stimulus,rotated,2216, degree=248
+4118,Stimulus,rotated,2225, degree=90
+4118,Stimulus,rotated,2234, degree=327
+4119,Stimulus,rotated,2243, degree=314
+4119,Stimulus,rotated,2252, degree=325
+4119,Stimulus,rotated,2261, degree=209
+4120,Stimulus,rotated,2270, degree=63
+4120,Stimulus,rotated,2279, degree=122
+4120,Stimulus,rotated,2288, degree=158
+4121,Stimulus,rotated,2297, degree=236
+4121,Stimulus,rotated,2306, degree=278
+4122,Stimulus,rotated,2315, degree=299
+4138,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4142,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4147,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4151,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4155,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4160,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4164,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4164,Stimulus,rotated,2337, degree=98
+4165,Stimulus,rotated,2346, degree=251
+4165,Stimulus,rotated,2355, degree=198
+4166,Stimulus,rotated,2364, degree=208
+4166,Stimulus,rotated,2373, degree=46
+4167,Stimulus,rotated,2382, degree=40
+4167,Stimulus,rotated,2391, degree=289
+4168,Stimulus,rotated,2400, degree=94
+4168,Stimulus,rotated,2409, degree=26
+4168,Stimulus,rotated,2418, degree=58
+4169,Stimulus,rotated,2427, degree=225
+4169,Stimulus,rotated,2436, degree=10
+4169,Stimulus,rotated,2445, degree=289
+4170,Stimulus,rotated,2454, degree=313
+4170,Stimulus,rotated,2463, degree=15
+4171,Stimulus,rotated,2472, degree=142
+4186,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4191,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4196,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4201,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4205,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4210,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4215,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4219,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4224,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4224,Stimulus,rotated,2494, degree=21
+4225,Stimulus,rotated,2503, degree=56
+4225,Stimulus,rotated,2512, degree=112
+4226,Stimulus,rotated,2521, degree=83
+4226,Stimulus,rotated,2530, degree=335
+4227,Stimulus,rotated,2539, degree=261
+4227,Stimulus,rotated,2548, degree=37
+4228,Stimulus,rotated,2557, degree=321
+4228,Stimulus,rotated,2566, degree=197
+4228,Stimulus,rotated,2575, degree=206
+4229,Stimulus,rotated,2584, degree=204
+4229,Stimulus,rotated,2593, degree=228
+4229,Stimulus,rotated,2602, degree=261
+4230,Stimulus,rotated,2611, degree=49
+4230,Stimulus,rotated,2620, degree=167
+4231,Stimulus,rotated,2629, degree=245
+4245,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4249,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4254,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4259,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4263,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4268,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4271,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4272,Stimulus,rotated,2651, degree=56
+4272,Stimulus,rotated,2660, degree=265
+4273,Stimulus,rotated,2669, degree=23
+4274,Stimulus,rotated,2678, degree=157
+4274,Stimulus,rotated,2687, degree=230
+4275,Stimulus,rotated,2696, degree=92
+4275,Stimulus,rotated,2705, degree=155
+4276,Stimulus,rotated,2714, degree=86
+4276,Stimulus,rotated,2723, degree=209
+4277,Stimulus,rotated,2732, degree=328
+4278,Stimulus,rotated,2741, degree=145
+4278,Stimulus,rotated,2750, degree=338
+4278,Stimulus,rotated,2759, degree=269
+4279,Stimulus,rotated,2768, degree=78
+4279,Stimulus,rotated,2777, degree=150
+4280,Stimulus,rotated,2786, degree=217
+4294,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4298,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4302,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4306,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4311,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4315,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4319,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4320,Stimulus,rotated,2808, degree=273
+4321,Stimulus,rotated,2817, degree=2
+4321,Stimulus,rotated,2826, degree=170
+4322,Stimulus,rotated,2835, degree=167
+4322,Stimulus,rotated,2844, degree=25
+4323,Stimulus,rotated,2853, degree=72
+4323,Stimulus,rotated,2862, degree=74
+4324,Stimulus,rotated,2871, degree=342
+4324,Stimulus,rotated,2880, degree=128
+4324,Stimulus,rotated,2889, degree=244
+4325,Stimulus,rotated,2898, degree=137
+4325,Stimulus,rotated,2907, degree=279
+4325,Stimulus,rotated,2916, degree=124
+4326,Stimulus,rotated,2925, degree=288
+4326,Stimulus,rotated,2934, degree=133
+4326,Stimulus,rotated,2943, degree=232
+4342,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4346,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4350,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4354,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4358,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4362,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4367,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4368,Stimulus,rotated,2967, degree=340
+4368,Stimulus,rotated,2978, degree=122
+4369,Stimulus,rotated,2989, degree=242
+4369,Stimulus,rotated,3000, degree=71
+4370,Stimulus,rotated,3011, degree=258
+4371,Stimulus,rotated,3022, degree=224
+4371,Stimulus,rotated,3033, degree=350
+4372,Stimulus,rotated,3044, degree=188
+4372,Stimulus,rotated,3055, degree=57
+4372,Stimulus,rotated,3066, degree=66
+4373,Stimulus,rotated,3077, degree=313
+4373,Stimulus,rotated,3088, degree=130
+4374,Stimulus,rotated,3099, degree=304
+4374,Stimulus,rotated,3110, degree=66
+4374,Stimulus,rotated,3121, degree=144
+4375,Stimulus,rotated,3132, degree=153
+4390,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4394,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4398,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4403,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4408,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4413,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4417,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4422,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4423,Stimulus,rotated,3158, degree=207
+4423,Stimulus,rotated,3169, degree=7
+4424,Stimulus,rotated,3180, degree=260
+4424,Stimulus,rotated,3191, degree=227
+4425,Stimulus,rotated,3202, degree=47
+4426,Stimulus,rotated,3213, degree=158
+4426,Stimulus,rotated,3224, degree=114
+4427,Stimulus,rotated,3235, degree=93
+4427,Stimulus,rotated,3246, degree=294
+4428,Stimulus,rotated,3257, degree=344
+4428,Stimulus,rotated,3268, degree=296
+4428,Stimulus,rotated,3279, degree=245
+4429,Stimulus,rotated,3290, degree=182
+4429,Stimulus,rotated,3301, degree=142
+4429,Stimulus,rotated,3312, degree=150
+4430,Stimulus,rotated,3323, degree=273
+4447,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4451,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4456,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4461,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4465,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4470,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4474,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4478,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4479,Stimulus,rotated,3349, degree=341
+4479,Stimulus,rotated,3360, degree=282
+4480,Stimulus,rotated,3371, degree=79
+4480,Stimulus,rotated,3382, degree=218
+4481,Stimulus,rotated,3393, degree=133
+4481,Stimulus,rotated,3404, degree=234
+4482,Stimulus,rotated,3415, degree=79
+4482,Stimulus,rotated,3426, degree=68
+4483,Stimulus,rotated,3437, degree=312
+4483,Stimulus,rotated,3448, degree=84
+4483,Stimulus,rotated,3459, degree=70
+4484,Stimulus,rotated,3470, degree=43
+4484,Stimulus,rotated,3481, degree=93
+4485,Stimulus,rotated,3492, degree=316
+4486,Stimulus,rotated,3503, degree=333
+4486,Stimulus,rotated,3514, degree=150
+4502,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4507,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4511,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4515,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4519,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4523,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4528,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4532,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4533,Stimulus,rotated,3540, degree=78
+4533,Stimulus,rotated,3551, degree=315
+4534,Stimulus,rotated,3562, degree=235
+4535,Stimulus,rotated,3573, degree=82
+4535,Stimulus,rotated,3584, degree=289
+4536,Stimulus,rotated,3595, degree=179
+4536,Stimulus,rotated,3606, degree=90
+4536,Stimulus,rotated,3617, degree=243
+4537,Stimulus,rotated,3628, degree=233
+4537,Stimulus,rotated,3639, degree=226
+4538,Stimulus,rotated,3650, degree=335
+4538,Stimulus,rotated,3661, degree=131
+4538,Stimulus,rotated,3672, degree=19
+4539,Stimulus,rotated,3683, degree=235
+4539,Stimulus,rotated,3694, degree=261
+4540,Stimulus,rotated,3705, degree=261
+4554,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4558,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4562,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4566,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4570,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4574,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4578,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4583,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4583,Stimulus,rotated,3731, degree=305
+4584,Stimulus,rotated,3742, degree=203
+4584,Stimulus,rotated,3753, degree=139
+4585,Stimulus,rotated,3764, degree=225
+4585,Stimulus,rotated,3775, degree=67
+4585,Stimulus,rotated,3786, degree=176
+4586,Stimulus,rotated,3797, degree=15
+4586,Stimulus,rotated,3808, degree=205
+4587,Stimulus,rotated,3819, degree=154
+4587,Stimulus,rotated,3830, degree=183
+4588,Stimulus,rotated,3841, degree=43
+4588,Stimulus,rotated,3852, degree=65
+4589,Stimulus,rotated,3863, degree=234
+4589,Stimulus,rotated,3874, degree=164
+4590,Stimulus,rotated,3885, degree=325
+4590,Stimulus,rotated,3896, degree=113
+4605,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4610,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4614,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4619,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4623,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4628,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4632,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4636,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4637,Stimulus,rotated,3922, degree=190
+4637,Stimulus,rotated,3933, degree=274
+4638,Stimulus,rotated,3944, degree=265
+4638,Stimulus,rotated,3955, degree=14
+4639,Stimulus,rotated,3966, degree=218
+4639,Stimulus,rotated,3977, degree=236
+4640,Stimulus,rotated,3988, degree=180
+4640,Stimulus,rotated,3999, degree=59
+4640,Stimulus,rotated,4010, degree=22
+4641,Stimulus,rotated,4021, degree=112
+4641,Stimulus,rotated,4032, degree=213
+4642,Stimulus,rotated,4043, degree=307
+4642,Stimulus,rotated,4054, degree=197
+4643,Stimulus,rotated,4065, degree=40
+4643,Stimulus,rotated,4076, degree=344
+4643,Stimulus,rotated,4087, degree=134
+4661,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4665,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4669,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4674,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4678,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4682,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4687,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4692,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4692,Stimulus,rotated,4113, degree=47
+4693,Stimulus,rotated,4124, degree=298
+4693,Stimulus,rotated,4135, degree=337
+4694,Stimulus,rotated,4146, degree=110
+4694,Stimulus,rotated,4157, degree=120
+4695,Stimulus,rotated,4168, degree=315
+4695,Stimulus,rotated,4179, degree=258
+4696,Stimulus,rotated,4190, degree=337
+4696,Stimulus,rotated,4201, degree=343
+4697,Stimulus,rotated,4212, degree=327
+4698,Stimulus,rotated,4223, degree=298
+4698,Stimulus,rotated,4234, degree=313
+4699,Stimulus,rotated,4245, degree=289
+4699,Stimulus,rotated,4256, degree=307
+4700,Stimulus,rotated,4267, degree=139
+4700,Stimulus,rotated,4278, degree=223
+4715,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4719,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4724,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4729,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4733,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4738,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4742,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4747,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4751,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4752,Stimulus,rotated,4304, degree=116
+4752,Stimulus,rotated,4315, degree=41
+4753,Stimulus,rotated,4326, degree=181
+4753,Stimulus,rotated,4337, degree=164
+4754,Stimulus,rotated,4348, degree=291
+4754,Stimulus,rotated,4359, degree=259
+4754,Stimulus,rotated,4370, degree=318
+4755,Stimulus,rotated,4381, degree=126
+4755,Stimulus,rotated,4392, degree=273
+4756,Stimulus,rotated,4403, degree=233
+4756,Stimulus,rotated,4414, degree=90
+4756,Stimulus,rotated,4425, degree=46
+4757,Stimulus,rotated,4436, degree=91
+4757,Stimulus,rotated,4447, degree=151
+4758,Stimulus,rotated,4458, degree=354
+4758,Stimulus,rotated,4469, degree=310
+4773,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4782,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4789,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4796,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4802,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4807,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4812,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4812,Stimulus,rotated,4493, degree=324
+4813,Stimulus,rotated,4502, degree=327
+4814,Stimulus,rotated,4511, degree=31
+4814,Stimulus,rotated,4520, degree=235
+4815,Stimulus,rotated,4529, degree=10
+4815,Stimulus,rotated,4538, degree=144
+4816,Stimulus,rotated,4547, degree=327
+4816,Stimulus,rotated,4556, degree=16
+4816,Stimulus,rotated,4565, degree=30
+4817,Stimulus,rotated,4574, degree=89
+4817,Stimulus,rotated,4583, degree=256
+4817,Stimulus,rotated,4592, degree=278
+4818,Stimulus,rotated,4601, degree=256
+4818,Stimulus,rotated,4610, degree=158
+4818,Stimulus,rotated,4619, degree=273
+4819,Stimulus,rotated,4628, degree=10
+4833,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4837,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4841,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4845,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4849,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4853,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4857,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4861,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4862,Stimulus,rotated,4650, degree=18
+4862,Stimulus,rotated,4659, degree=165
+4863,Stimulus,rotated,4668, degree=19
+4863,Stimulus,rotated,4677, degree=89
+4863,Stimulus,rotated,4686, degree=38
+4864,Stimulus,rotated,4695, degree=276
+4864,Stimulus,rotated,4704, degree=246
+4864,Stimulus,rotated,4713, degree=294
+4865,Stimulus,rotated,4722, degree=243
+4865,Stimulus,rotated,4731, degree=24
+4865,Stimulus,rotated,4740, degree=67
+4866,Stimulus,rotated,4749, degree=326
+4866,Stimulus,rotated,4758, degree=82
+4867,Stimulus,rotated,4767, degree=62
+4867,Stimulus,rotated,4776, degree=108
+4867,Stimulus,rotated,4785, degree=136
+4883,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4887,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4891,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4894,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4898,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4902,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4906,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4906,Stimulus,rotated,4807, degree=212
+4907,Stimulus,rotated,4816, degree=236
+4907,Stimulus,rotated,4825, degree=194
+4907,Stimulus,rotated,4834, degree=192
+4908,Stimulus,rotated,4843, degree=235
+4908,Stimulus,rotated,4852, degree=139
+4909,Stimulus,rotated,4861, degree=96
+4909,Stimulus,rotated,4870, degree=351
+4910,Stimulus,rotated,4879, degree=50
+4910,Stimulus,rotated,4888, degree=18
+4911,Stimulus,rotated,4897, degree=69
+4911,Stimulus,rotated,4906, degree=194
+4912,Stimulus,rotated,4915, degree=175
+4912,Stimulus,rotated,4924, degree=33
+4912,Stimulus,rotated,4933, degree=305
+4913,Stimulus,rotated,4942, degree=212
+4927,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4931,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4935,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4940,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4944,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4948,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4952,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4956,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4957,Stimulus,rotated,4964, degree=79
+4958,Stimulus,rotated,4973, degree=216
+4958,Stimulus,rotated,4982, degree=227
+4959,Stimulus,rotated,4991, degree=132
+4959,Stimulus,rotated,5000, degree=97
+4960,Stimulus,rotated,5009, degree=234
+4960,Stimulus,rotated,5018, degree=215
+4960,Stimulus,rotated,5027, degree=185
+4961,Stimulus,rotated,5036, degree=205
+4961,Stimulus,rotated,5045, degree=282
+4961,Stimulus,rotated,5054, degree=342
+4962,Stimulus,rotated,5063, degree=177
+4962,Stimulus,rotated,5072, degree=219
+4962,Stimulus,rotated,5081, degree=90
+4963,Stimulus,rotated,5090, degree=355
+4963,Stimulus,rotated,5099, degree=330
+4978,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4981,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4985,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4989,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4993,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+4997,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5001,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5002,Stimulus,rotated,5121, degree=84
+5002,Stimulus,rotated,5130, degree=316
+5003,Stimulus,rotated,5139, degree=356
+5003,Stimulus,rotated,5148, degree=36
+5003,Stimulus,rotated,5157, degree=204
+5004,Stimulus,rotated,5166, degree=318
+5004,Stimulus,rotated,5175, degree=168
+5005,Stimulus,rotated,5184, degree=119
+5005,Stimulus,rotated,5193, degree=53
+5006,Stimulus,rotated,5202, degree=198
+5006,Stimulus,rotated,5211, degree=81
+5006,Stimulus,rotated,5220, degree=185
+5007,Stimulus,rotated,5229, degree=313
+5007,Stimulus,rotated,5238, degree=240
+5008,Stimulus,rotated,5247, degree=297
+5008,Stimulus,rotated,5256, degree=11
+5023,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5027,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5032,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5036,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5043,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5047,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5052,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5052,Stimulus,rotated,5278, degree=185
+5053,Stimulus,rotated,5287, degree=353
+5053,Stimulus,rotated,5296, degree=114
+5053,Stimulus,rotated,5305, degree=192
+5054,Stimulus,rotated,5314, degree=73
+5055,Stimulus,rotated,5323, degree=131
+5055,Stimulus,rotated,5332, degree=244
+5056,Stimulus,rotated,5341, degree=276
+5056,Stimulus,rotated,5350, degree=255
+5056,Stimulus,rotated,5359, degree=203
+5057,Stimulus,rotated,5368, degree=343
+5057,Stimulus,rotated,5377, degree=191
+5057,Stimulus,rotated,5386, degree=148
+5058,Stimulus,rotated,5395, degree=202
+5058,Stimulus,rotated,5404, degree=228
+5058,Stimulus,rotated,5413, degree=304
+5074,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5079,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5084,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5089,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5095,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5101,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5106,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5107,Stimulus,rotated,5435, degree=231
+5107,Stimulus,rotated,5444, degree=260
+5108,Stimulus,rotated,5453, degree=279
+5108,Stimulus,rotated,5462, degree=93
+5109,Stimulus,rotated,5471, degree=195
+5109,Stimulus,rotated,5480, degree=179
+5110,Stimulus,rotated,5489, degree=42
+5110,Stimulus,rotated,5498, degree=325
+5111,Stimulus,rotated,5507, degree=327
+5111,Stimulus,rotated,5516, degree=294
+5112,Stimulus,rotated,5525, degree=343
+5112,Stimulus,rotated,5534, degree=332
+5112,Stimulus,rotated,5543, degree=25
+5112,Stimulus,rotated,5552, degree=54
+5113,Stimulus,rotated,5561, degree=331
+5113,Stimulus,rotated,5570, degree=206
+5129,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5132,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5136,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5141,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5144,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5149,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5149,Stimulus,rotated,5592, degree=114
+5150,Stimulus,rotated,5601, degree=262
+5150,Stimulus,rotated,5610, degree=15
+5150,Stimulus,rotated,5619, degree=219
+5151,Stimulus,rotated,5628, degree=17
+5152,Stimulus,rotated,5637, degree=257
+5152,Stimulus,rotated,5646, degree=178
+5152,Stimulus,rotated,5655, degree=42
+5153,Stimulus,rotated,5664, degree=181
+5153,Stimulus,rotated,5673, degree=9
+5154,Stimulus,rotated,5682, degree=234
+5154,Stimulus,rotated,5691, degree=349
+5154,Stimulus,rotated,5700, degree=58
+5155,Stimulus,rotated,5709, degree=108
+5155,Stimulus,rotated,5718, degree=330
+5155,Stimulus,rotated,5727, degree=251
+5173,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5177,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5181,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5186,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5191,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5197,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5201,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5201,Stimulus,rotated,5749, degree=237
+5202,Stimulus,rotated,5758, degree=223
+5203,Stimulus,rotated,5767, degree=61
+5203,Stimulus,rotated,5776, degree=62
+5203,Stimulus,rotated,5785, degree=201
+5204,Stimulus,rotated,5794, degree=258
+5204,Stimulus,rotated,5803, degree=335
+5205,Stimulus,rotated,5812, degree=182
+5205,Stimulus,rotated,5821, degree=185
+5205,Stimulus,rotated,5830, degree=151
+5206,Stimulus,rotated,5839, degree=316
+5206,Stimulus,rotated,5848, degree=203
+5207,Stimulus,rotated,5857, degree=201
+5207,Stimulus,rotated,5866, degree=353
+5208,Stimulus,rotated,5875, degree=81
+5208,Stimulus,rotated,5884, degree=148
+5224,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5228,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5233,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5237,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5241,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5244,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5248,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5249,Stimulus,rotated,5906, degree=248
+5250,Stimulus,rotated,5915, degree=194
+5250,Stimulus,rotated,5924, degree=128
+5251,Stimulus,rotated,5933, degree=167
+5251,Stimulus,rotated,5942, degree=3
+5252,Stimulus,rotated,5951, degree=96
+5252,Stimulus,rotated,5960, degree=97
+5252,Stimulus,rotated,5969, degree=84
+5253,Stimulus,rotated,5978, degree=5
+5253,Stimulus,rotated,5987, degree=190
+5253,Stimulus,rotated,5996, degree=217
+5254,Stimulus,rotated,6005, degree=119
+5254,Stimulus,rotated,6014, degree=16
+5254,Stimulus,rotated,6023, degree=340
+5255,Stimulus,rotated,6032, degree=176
+5255,Stimulus,rotated,6041, degree=269
+5269,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5278,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5282,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5287,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5291,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5295,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5303,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5307,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5308,Stimulus,rotated,6063, degree=102
+5308,Stimulus,rotated,6072, degree=173
+5309,Stimulus,rotated,6081, degree=10
+5309,Stimulus,rotated,6090, degree=148
+5310,Stimulus,rotated,6099, degree=279
+5311,Stimulus,rotated,6108, degree=147
+5311,Stimulus,rotated,6117, degree=259
+5311,Stimulus,rotated,6126, degree=291
+5312,Stimulus,rotated,6135, degree=86
+5312,Stimulus,rotated,6144, degree=336
+5312,Stimulus,rotated,6153, degree=2
+5313,Stimulus,rotated,6162, degree=262
+5313,Stimulus,rotated,6171, degree=151
+5313,Stimulus,rotated,6180, degree=244
+5314,Stimulus,rotated,6189, degree=38
+5314,Stimulus,rotated,6198, degree=170
+5329,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5333,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5337,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5341,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5345,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5349,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5353,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5357,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5361,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5362,Stimulus,rotated,6220, degree=156
+5362,Stimulus,rotated,6229, degree=10
+5362,Stimulus,rotated,6238, degree=351
+5363,Stimulus,rotated,6247, degree=200
+5363,Stimulus,rotated,6256, degree=83
+5364,Stimulus,rotated,6265, degree=268
+5365,Stimulus,rotated,6274, degree=142
+5365,Stimulus,rotated,6283, degree=297
+5365,Stimulus,rotated,6292, degree=87
+5366,Stimulus,rotated,6301, degree=165
+5366,Stimulus,rotated,6310, degree=144
+5366,Stimulus,rotated,6319, degree=315
+5367,Stimulus,rotated,6328, degree=179
+5367,Stimulus,rotated,6337, degree=140
+5367,Stimulus,rotated,6346, degree=99
+5368,Stimulus,rotated,6355, degree=255
+5383,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5386,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5391,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5395,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5399,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5403,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5408,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5408,Stimulus,rotated,6377, degree=17
+5409,Stimulus,rotated,6386, degree=252
+5409,Stimulus,rotated,6395, degree=89
+5409,Stimulus,rotated,6404, degree=5
+5410,Stimulus,rotated,6413, degree=140
+5410,Stimulus,rotated,6422, degree=90
+5411,Stimulus,rotated,6431, degree=340
+5411,Stimulus,rotated,6440, degree=343
+5411,Stimulus,rotated,6449, degree=322
+5412,Stimulus,rotated,6458, degree=134
+5413,Stimulus,rotated,6467, degree=37
+5413,Stimulus,rotated,6476, degree=343
+5413,Stimulus,rotated,6485, degree=240
+5414,Stimulus,rotated,6494, degree=159
+5414,Stimulus,rotated,6503, degree=196
+5415,Stimulus,rotated,6512, degree=293
+5429,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5434,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5439,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5443,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5448,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5453,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5458,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5459,Stimulus,rotated,6534, degree=58
+5459,Stimulus,rotated,6543, degree=154
+5459,Stimulus,rotated,6552, degree=338
+5460,Stimulus,rotated,6561, degree=198
+5460,Stimulus,rotated,6570, degree=168
+5461,Stimulus,rotated,6579, degree=72
+5461,Stimulus,rotated,6588, degree=32
+5462,Stimulus,rotated,6597, degree=94
+5462,Stimulus,rotated,6606, degree=184
+5463,Stimulus,rotated,6615, degree=147
+5463,Stimulus,rotated,6624, degree=53
+5463,Stimulus,rotated,6633, degree=324
+5464,Stimulus,rotated,6642, degree=13
+5464,Stimulus,rotated,6651, degree=78
+5464,Stimulus,rotated,6660, degree=147
+5465,Stimulus,rotated,6669, degree=133
+5481,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5485,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5489,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5493,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5497,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5502,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5507,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5508,Stimulus,rotated,6691, degree=347
+5508,Stimulus,rotated,6700, degree=206
+5509,Stimulus,rotated,6709, degree=44
+5509,Stimulus,rotated,6718, degree=69
+5510,Stimulus,rotated,6727, degree=147
+5510,Stimulus,rotated,6736, degree=30
+5510,Stimulus,rotated,6745, degree=304
+5511,Stimulus,rotated,6754, degree=321
+5511,Stimulus,rotated,6763, degree=233
+5512,Stimulus,rotated,6772, degree=346
+5512,Stimulus,rotated,6781, degree=320
+5512,Stimulus,rotated,6790, degree=296
+5513,Stimulus,rotated,6799, degree=92
+5513,Stimulus,rotated,6808, degree=56
+5513,Stimulus,rotated,6817, degree=22
+5514,Stimulus,rotated,6826, degree=132
+5530,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5535,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5540,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5544,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5549,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5554,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5559,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5563,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5564,Stimulus,rotated,6848, degree=45
+5564,Stimulus,rotated,6857, degree=261
+5565,Stimulus,rotated,6866, degree=313
+5565,Stimulus,rotated,6875, degree=293
+5566,Stimulus,rotated,6884, degree=210
+5566,Stimulus,rotated,6893, degree=1
+5567,Stimulus,rotated,6902, degree=247
+5567,Stimulus,rotated,6911, degree=208
+5567,Stimulus,rotated,6920, degree=359
+5568,Stimulus,rotated,6929, degree=48
+5568,Stimulus,rotated,6938, degree=208
+5568,Stimulus,rotated,6947, degree=339
+5569,Stimulus,rotated,6956, degree=94
+5569,Stimulus,rotated,6965, degree=219
+5570,Stimulus,rotated,6974, degree=299
+5570,Stimulus,rotated,6983, degree=135
+5589,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5592,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5597,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5603,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5608,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5612,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5616,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5616,Stimulus,rotated,7001, degree=297
+5617,Stimulus,rotated,7006, degree=85
+5617,Stimulus,rotated,7011, degree=102
+5618,Stimulus,rotated,7016, degree=347
+5618,Stimulus,rotated,7021, degree=2
+5619,Stimulus,rotated,7026, degree=43
+5620,Stimulus,rotated,7031, degree=138
+5620,Stimulus,rotated,7036, degree=251
+5620,Stimulus,rotated,7041, degree=124
+5621,Stimulus,rotated,7046, degree=296
+5621,Stimulus,rotated,7051, degree=41
+5621,Stimulus,rotated,7056, degree=158
+5622,Stimulus,rotated,7061, degree=257
+5622,Stimulus,rotated,7066, degree=269
+5622,Stimulus,rotated,7071, degree=301
+5623,Stimulus,rotated,7076, degree=320
+5638,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5646,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5652,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5657,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5663,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5667,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5668,Stimulus,rotated,7090, degree=339
+5669,Stimulus,rotated,7095, degree=225
+5669,Stimulus,rotated,7100, degree=263
+5670,Stimulus,rotated,7105, degree=37
+5670,Stimulus,rotated,7110, degree=247
+5670,Stimulus,rotated,7115, degree=247
+5671,Stimulus,rotated,7120, degree=87
+5671,Stimulus,rotated,7125, degree=183
+5672,Stimulus,rotated,7130, degree=193
+5672,Stimulus,rotated,7135, degree=279
+5673,Stimulus,rotated,7140, degree=325
+5673,Stimulus,rotated,7145, degree=95
+5674,Stimulus,rotated,7150, degree=101
+5674,Stimulus,rotated,7155, degree=131
+5674,Stimulus,rotated,7160, degree=147
+5675,Stimulus,rotated,7165, degree=134
+5689,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5696,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5701,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5705,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5709,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5713,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5718,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5723,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5723,Stimulus,rotated,7179, degree=0
+5723,Stimulus,rotated,7184, degree=146
+5724,Stimulus,rotated,7189, degree=209
+5724,Stimulus,rotated,7194, degree=320
+5725,Stimulus,rotated,7199, degree=195
+5725,Stimulus,rotated,7204, degree=270
+5725,Stimulus,rotated,7209, degree=194
+5726,Stimulus,rotated,7214, degree=315
+5726,Stimulus,rotated,7219, degree=268
+5727,Stimulus,rotated,7224, degree=251
+5727,Stimulus,rotated,7229, degree=118
+5727,Stimulus,rotated,7234, degree=13
+5728,Stimulus,rotated,7239, degree=344
+5728,Stimulus,rotated,7244, degree=323
+5729,Stimulus,rotated,7249, degree=118
+5729,Stimulus,rotated,7254, degree=354
+5744,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5755,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5760,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5765,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5769,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5774,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5780,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5780,Stimulus,rotated,7268, degree=213
+5781,Stimulus,rotated,7273, degree=118
+5782,Stimulus,rotated,7278, degree=291
+5782,Stimulus,rotated,7283, degree=284
+5783,Stimulus,rotated,7288, degree=322
+5784,Stimulus,rotated,7293, degree=77
+5784,Stimulus,rotated,7298, degree=268
+5784,Stimulus,rotated,7303, degree=39
+5785,Stimulus,rotated,7308, degree=217
+5785,Stimulus,rotated,7313, degree=172
+5786,Stimulus,rotated,7318, degree=241
+5786,Stimulus,rotated,7323, degree=145
+5786,Stimulus,rotated,7328, degree=243
+5786,Stimulus,rotated,7333, degree=297
+5787,Stimulus,rotated,7338, degree=277
+5787,Stimulus,rotated,7343, degree=79
+5805,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5809,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5814,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5818,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5822,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5827,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5831,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5831,Stimulus,rotated,7357, degree=334
+5832,Stimulus,rotated,7362, degree=312
+5832,Stimulus,rotated,7367, degree=168
+5833,Stimulus,rotated,7372, degree=43
+5833,Stimulus,rotated,7377, degree=73
+5834,Stimulus,rotated,7382, degree=40
+5834,Stimulus,rotated,7387, degree=212
+5834,Stimulus,rotated,7392, degree=283
+5835,Stimulus,rotated,7397, degree=155
+5835,Stimulus,rotated,7402, degree=305
+5836,Stimulus,rotated,7407, degree=97
+5836,Stimulus,rotated,7412, degree=65
+5837,Stimulus,rotated,7417, degree=201
+5837,Stimulus,rotated,7422, degree=111
+5838,Stimulus,rotated,7427, degree=157
+5838,Stimulus,rotated,7432, degree=150
+5853,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5857,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5861,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5865,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5869,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5874,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5877,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5878,Stimulus,rotated,7446, degree=264
+5879,Stimulus,rotated,7451, degree=59
+5879,Stimulus,rotated,7456, degree=213
+5880,Stimulus,rotated,7461, degree=140
+5880,Stimulus,rotated,7466, degree=6
+5881,Stimulus,rotated,7471, degree=182
+5881,Stimulus,rotated,7476, degree=200
+5882,Stimulus,rotated,7481, degree=281
+5882,Stimulus,rotated,7486, degree=155
+5882,Stimulus,rotated,7491, degree=55
+5883,Stimulus,rotated,7496, degree=141
+5883,Stimulus,rotated,7501, degree=268
+5883,Stimulus,rotated,7506, degree=216
+5884,Stimulus,rotated,7511, degree=305
+5884,Stimulus,rotated,7516, degree=3
+5885,Stimulus,rotated,7521, degree=236
+5904,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5908,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5912,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5916,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5920,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5924,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5925,Stimulus,rotated,7535, degree=208
+5925,Stimulus,rotated,7540, degree=339
+5926,Stimulus,rotated,7545, degree=288
+5926,Stimulus,rotated,7550, degree=309
+5927,Stimulus,rotated,7555, degree=265
+5927,Stimulus,rotated,7560, degree=257
+5928,Stimulus,rotated,7565, degree=68
+5928,Stimulus,rotated,7570, degree=320
+5929,Stimulus,rotated,7575, degree=264
+5929,Stimulus,rotated,7580, degree=80
+5930,Stimulus,rotated,7585, degree=135
+5930,Stimulus,rotated,7590, degree=107
+5930,Stimulus,rotated,7595, degree=59
+5931,Stimulus,rotated,7600, degree=294
+5931,Stimulus,rotated,7605, degree=96
+5932,Stimulus,rotated,7610, degree=312
+5946,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5951,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5955,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5960,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5964,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5969,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5974,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5978,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+5979,Stimulus,rotated,7624, degree=139
+5979,Stimulus,rotated,7629, degree=305
+5980,Stimulus,rotated,7634, degree=9
+5980,Stimulus,rotated,7639, degree=345
+5981,Stimulus,rotated,7644, degree=350
+5981,Stimulus,rotated,7649, degree=329
+5982,Stimulus,rotated,7654, degree=71
+5983,Stimulus,rotated,7659, degree=197
+5983,Stimulus,rotated,7664, degree=281
+5984,Stimulus,rotated,7669, degree=54
+5984,Stimulus,rotated,7674, degree=163
+5984,Stimulus,rotated,7679, degree=20
+5985,Stimulus,rotated,7684, degree=129
+5985,Stimulus,rotated,7689, degree=266
+5985,Stimulus,rotated,7694, degree=63
+5986,Stimulus,rotated,7699, degree=224
+6002,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6006,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6010,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6014,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6018,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6022,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6027,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6027,Stimulus,rotated,7713, degree=252
+6028,Stimulus,rotated,7718, degree=60
+6028,Stimulus,rotated,7723, degree=46
+6028,Stimulus,rotated,7728, degree=159
+6029,Stimulus,rotated,7733, degree=25
+6029,Stimulus,rotated,7738, degree=217
+6029,Stimulus,rotated,7743, degree=285
+6030,Stimulus,rotated,7748, degree=118
+6030,Stimulus,rotated,7753, degree=130
+6030,Stimulus,rotated,7758, degree=15
+6031,Stimulus,rotated,7763, degree=244
+6031,Stimulus,rotated,7768, degree=308
+6031,Stimulus,rotated,7773, degree=320
+6031,Stimulus,rotated,7778, degree=286
+6032,Stimulus,rotated,7783, degree=60
+6032,Stimulus,rotated,7788, degree=61
+6046,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6051,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6057,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6063,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6070,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6076,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6082,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6087,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6093,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6093,Stimulus,rotated,7802, degree=143
+6094,Stimulus,rotated,7807, degree=272
+6094,Stimulus,rotated,7812, degree=347
+6094,Stimulus,rotated,7817, degree=46
+6095,Stimulus,rotated,7822, degree=243
+6095,Stimulus,rotated,7827, degree=106
+6095,Stimulus,rotated,7832, degree=37
+6096,Stimulus,rotated,7837, degree=173
+6096,Stimulus,rotated,7842, degree=24
+6096,Stimulus,rotated,7847, degree=177
+6097,Stimulus,rotated,7852, degree=56
+6097,Stimulus,rotated,7857, degree=12
+6097,Stimulus,rotated,7862, degree=94
+6098,Stimulus,rotated,7867, degree=248
+6098,Stimulus,rotated,7872, degree=259
+6098,Stimulus,rotated,7877, degree=200
+6112,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6118,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6122,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6126,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6131,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6135,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6140,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6144,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6144,Stimulus,rotated,7891, degree=218
+6145,Stimulus,rotated,7896, degree=316
+6145,Stimulus,rotated,7901, degree=173
+6146,Stimulus,rotated,7906, degree=352
+6146,Stimulus,rotated,7911, degree=21
+6147,Stimulus,rotated,7916, degree=127
+6147,Stimulus,rotated,7921, degree=278
+6148,Stimulus,rotated,7926, degree=295
+6148,Stimulus,rotated,7931, degree=288
+6148,Stimulus,rotated,7936, degree=113
+6149,Stimulus,rotated,7941, degree=57
+6149,Stimulus,rotated,7946, degree=125
+6149,Stimulus,rotated,7951, degree=252
+6149,Stimulus,rotated,7956, degree=304
+6149,Stimulus,rotated,7961, degree=285
+6150,Stimulus,rotated,7966, degree=98
+6165,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6169,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6173,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6177,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6181,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6185,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6189,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6190,Stimulus,rotated,7980, degree=129
+6190,Stimulus,rotated,7985, degree=123
+6191,Stimulus,rotated,7990, degree=46
+6191,Stimulus,rotated,7995, degree=357
+6191,Stimulus,rotated,8000, degree=24
+6192,Stimulus,rotated,8005, degree=210
+6192,Stimulus,rotated,8010, degree=140
+6192,Stimulus,rotated,8015, degree=260
+6193,Stimulus,rotated,8020, degree=278
+6193,Stimulus,rotated,8025, degree=312
+6194,Stimulus,rotated,8030, degree=134
+6194,Stimulus,rotated,8035, degree=130
+6194,Stimulus,rotated,8040, degree=338
+6195,Stimulus,rotated,8045, degree=235
+6195,Stimulus,rotated,8050, degree=154
+6196,Stimulus,rotated,8055, degree=237
+6211,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6215,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6220,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6225,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6229,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6234,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6238,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6243,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6243,Stimulus,rotated,8069, degree=56
+6244,Stimulus,rotated,8074, degree=174
+6244,Stimulus,rotated,8079, degree=340
+6244,Stimulus,rotated,8084, degree=232
+6245,Stimulus,rotated,8089, degree=256
+6245,Stimulus,rotated,8094, degree=104
+6245,Stimulus,rotated,8099, degree=195
+6246,Stimulus,rotated,8104, degree=274
+6246,Stimulus,rotated,8109, degree=151
+6246,Stimulus,rotated,8114, degree=234
+6246,Stimulus,rotated,8119, degree=254
+6247,Stimulus,rotated,8124, degree=255
+6247,Stimulus,rotated,8129, degree=255
+6247,Stimulus,rotated,8134, degree=173
+6247,Stimulus,rotated,8139, degree=33
+6248,Stimulus,rotated,8144, degree=131
+6268,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6272,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6276,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6281,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6285,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6289,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6294,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6294,Stimulus,rotated,8158, degree=254
+6295,Stimulus,rotated,8163, degree=318
+6295,Stimulus,rotated,8168, degree=215
+6295,Stimulus,rotated,8173, degree=100
+6295,Stimulus,rotated,8178, degree=18
+6296,Stimulus,rotated,8183, degree=270
+6296,Stimulus,rotated,8188, degree=354
+6296,Stimulus,rotated,8193, degree=186
+6297,Stimulus,rotated,8198, degree=69
+6297,Stimulus,rotated,8203, degree=64
+6298,Stimulus,rotated,8208, degree=241
+6298,Stimulus,rotated,8213, degree=96
+6298,Stimulus,rotated,8218, degree=158
+6298,Stimulus,rotated,8223, degree=64
+6299,Stimulus,rotated,8228, degree=15
+6299,Stimulus,rotated,8233, degree=268
+6314,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6319,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6324,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6328,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6333,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6337,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6342,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6347,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6347,Stimulus,rotated,8247, degree=329
+6348,Stimulus,rotated,8252, degree=210
+6348,Stimulus,rotated,8257, degree=301
+6348,Stimulus,rotated,8262, degree=14
+6349,Stimulus,rotated,8267, degree=192
+6349,Stimulus,rotated,8272, degree=358
+6349,Stimulus,rotated,8277, degree=170
+6349,Stimulus,rotated,8282, degree=82
+6350,Stimulus,rotated,8287, degree=161
+6350,Stimulus,rotated,8292, degree=224
+6350,Stimulus,rotated,8297, degree=203
+6350,Stimulus,rotated,8302, degree=314
+6351,Stimulus,rotated,8307, degree=169
+6351,Stimulus,rotated,8312, degree=82
+6352,Stimulus,rotated,8317, degree=195
+6352,Stimulus,rotated,8322, degree=305
+6366,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6371,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6375,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6379,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6383,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6388,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6392,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6396,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6396,Stimulus,rotated,8336, degree=240
+6397,Stimulus,rotated,8341, degree=151
+6397,Stimulus,rotated,8346, degree=131
+6397,Stimulus,rotated,8351, degree=313
+6398,Stimulus,rotated,8356, degree=218
+6398,Stimulus,rotated,8361, degree=208
+6398,Stimulus,rotated,8366, degree=77
+6399,Stimulus,rotated,8371, degree=230
+6399,Stimulus,rotated,8376, degree=1
+6399,Stimulus,rotated,8381, degree=228
+6400,Stimulus,rotated,8386, degree=55
+6400,Stimulus,rotated,8391, degree=14
+6400,Stimulus,rotated,8396, degree=43
+6401,Stimulus,rotated,8401, degree=331
+6401,Stimulus,rotated,8406, degree=19
+6401,Stimulus,rotated,8411, degree=224
+6416,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6420,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6424,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6428,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6432,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6438,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6443,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6443,Stimulus,rotated,8427, degree=66
+6444,Stimulus,rotated,8434, degree=81
+6444,Stimulus,rotated,8441, degree=263
+6445,Stimulus,rotated,8448, degree=159
+6445,Stimulus,rotated,8455, degree=83
+6446,Stimulus,rotated,8462, degree=141
+6446,Stimulus,rotated,8469, degree=225
+6447,Stimulus,rotated,8476, degree=170
+6447,Stimulus,rotated,8483, degree=192
+6448,Stimulus,rotated,8490, degree=287
+6448,Stimulus,rotated,8497, degree=346
+6448,Stimulus,rotated,8504, degree=92
+6449,Stimulus,rotated,8511, degree=273
+6449,Stimulus,rotated,8518, degree=299
+6450,Stimulus,rotated,8525, degree=3
+6450,Stimulus,rotated,8532, degree=157
+6464,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6468,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6472,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6476,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6481,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6484,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6488,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6489,Stimulus,rotated,8550, degree=259
+6489,Stimulus,rotated,8557, degree=181
+6489,Stimulus,rotated,8564, degree=269
+6490,Stimulus,rotated,8571, degree=241
+6490,Stimulus,rotated,8578, degree=134
+6491,Stimulus,rotated,8585, degree=28
+6491,Stimulus,rotated,8592, degree=226
+6491,Stimulus,rotated,8599, degree=194
+6492,Stimulus,rotated,8606, degree=239
+6492,Stimulus,rotated,8613, degree=283
+6492,Stimulus,rotated,8620, degree=225
+6493,Stimulus,rotated,8627, degree=298
+6493,Stimulus,rotated,8634, degree=282
+6493,Stimulus,rotated,8641, degree=235
+6494,Stimulus,rotated,8648, degree=155
+6494,Stimulus,rotated,8655, degree=347
+6508,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6513,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6517,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6521,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6525,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6529,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6533,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6533,Stimulus,rotated,8673, degree=195
+6534,Stimulus,rotated,8680, degree=303
+6534,Stimulus,rotated,8687, degree=243
+6535,Stimulus,rotated,8694, degree=346
+6535,Stimulus,rotated,8701, degree=157
+6535,Stimulus,rotated,8708, degree=49
+6536,Stimulus,rotated,8715, degree=230
+6536,Stimulus,rotated,8722, degree=280
+6536,Stimulus,rotated,8729, degree=83
+6537,Stimulus,rotated,8736, degree=209
+6537,Stimulus,rotated,8743, degree=239
+6537,Stimulus,rotated,8750, degree=89
+6537,Stimulus,rotated,8757, degree=59
+6538,Stimulus,rotated,8764, degree=205
+6538,Stimulus,rotated,8771, degree=100
+6538,Stimulus,rotated,8778, degree=327
+6557,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6561,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6566,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6570,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6575,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6580,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6580,Stimulus,rotated,8796, degree=310
+6581,Stimulus,rotated,8803, degree=359
+6581,Stimulus,rotated,8810, degree=51
+6582,Stimulus,rotated,8817, degree=300
+6582,Stimulus,rotated,8824, degree=240
+6583,Stimulus,rotated,8831, degree=199
+6583,Stimulus,rotated,8838, degree=96
+6583,Stimulus,rotated,8845, degree=28
+6584,Stimulus,rotated,8852, degree=143
+6584,Stimulus,rotated,8859, degree=16
+6584,Stimulus,rotated,8866, degree=207
+6585,Stimulus,rotated,8873, degree=294
+6585,Stimulus,rotated,8880, degree=160
+6585,Stimulus,rotated,8887, degree=261
+6585,Stimulus,rotated,8894, degree=251
+6586,Stimulus,rotated,8901, degree=289
+6601,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6605,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6609,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6613,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6616,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6621,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6625,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6629,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6629,Stimulus,rotated,8919, degree=260
+6630,Stimulus,rotated,8926, degree=45
+6630,Stimulus,rotated,8933, degree=88
+6631,Stimulus,rotated,8940, degree=308
+6631,Stimulus,rotated,8947, degree=20
+6631,Stimulus,rotated,8954, degree=93
+6632,Stimulus,rotated,8961, degree=256
+6632,Stimulus,rotated,8968, degree=99
+6632,Stimulus,rotated,8975, degree=293
+6633,Stimulus,rotated,8982, degree=55
+6633,Stimulus,rotated,8989, degree=190
+6633,Stimulus,rotated,8996, degree=347
+6633,Stimulus,rotated,9003, degree=26
+6634,Stimulus,rotated,9010, degree=160
+6634,Stimulus,rotated,9017, degree=281
+6634,Stimulus,rotated,9024, degree=210
+6648,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6652,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6656,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6660,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6664,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6668,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6672,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6673,Stimulus,rotated,9042, degree=285
+6673,Stimulus,rotated,9049, degree=138
+6673,Stimulus,rotated,9056, degree=59
+6674,Stimulus,rotated,9063, degree=299
+6674,Stimulus,rotated,9070, degree=98
+6675,Stimulus,rotated,9077, degree=153
+6675,Stimulus,rotated,9084, degree=3
+6675,Stimulus,rotated,9091, degree=149
+6676,Stimulus,rotated,9098, degree=242
+6676,Stimulus,rotated,9105, degree=193
+6676,Stimulus,rotated,9112, degree=155
+6677,Stimulus,rotated,9119, degree=49
+6677,Stimulus,rotated,9126, degree=232
+6677,Stimulus,rotated,9133, degree=93
+6678,Stimulus,rotated,9140, degree=47
+6678,Stimulus,rotated,9147, degree=72
+6694,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6699,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6705,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6710,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6714,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6719,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6724,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6728,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6733,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6734,Stimulus,rotated,9165, degree=103
+6734,Stimulus,rotated,9172, degree=267
+6735,Stimulus,rotated,9179, degree=169
+6735,Stimulus,rotated,9186, degree=173
+6735,Stimulus,rotated,9193, degree=92
+6736,Stimulus,rotated,9200, degree=320
+6736,Stimulus,rotated,9207, degree=274
+6736,Stimulus,rotated,9214, degree=95
+6737,Stimulus,rotated,9221, degree=217
+6737,Stimulus,rotated,9228, degree=172
+6737,Stimulus,rotated,9235, degree=268
+6737,Stimulus,rotated,9242, degree=264
+6738,Stimulus,rotated,9249, degree=208
+6738,Stimulus,rotated,9256, degree=215
+6738,Stimulus,rotated,9263, degree=282
+6739,Stimulus,rotated,9270, degree=357
+6753,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6758,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6762,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6767,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6773,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6779,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6786,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6792,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6793,Stimulus,rotated,9288, degree=138
+6793,Stimulus,rotated,9295, degree=341
+6794,Stimulus,rotated,9302, degree=18
+6795,Stimulus,rotated,9309, degree=299
+6795,Stimulus,rotated,9316, degree=197
+6796,Stimulus,rotated,9323, degree=130
+6796,Stimulus,rotated,9330, degree=325
+6796,Stimulus,rotated,9337, degree=122
+6797,Stimulus,rotated,9344, degree=319
+6797,Stimulus,rotated,9351, degree=167
+6797,Stimulus,rotated,9358, degree=172
+6798,Stimulus,rotated,9365, degree=59
+6798,Stimulus,rotated,9372, degree=50
+6798,Stimulus,rotated,9379, degree=212
+6798,Stimulus,rotated,9386, degree=282
+6799,Stimulus,rotated,9393, degree=296
+6816,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6821,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6825,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6829,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6833,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6838,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6842,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6842,Stimulus,rotated,9413, degree=87
+6843,Stimulus,rotated,9422, degree=4
+6843,Stimulus,rotated,9431, degree=110
+6843,Stimulus,rotated,9440, degree=119
+6844,Stimulus,rotated,9449, degree=124
+6844,Stimulus,rotated,9458, degree=293
+6845,Stimulus,rotated,9467, degree=60
+6845,Stimulus,rotated,9476, degree=227
+6845,Stimulus,rotated,9485, degree=242
+6846,Stimulus,rotated,9494, degree=167
+6846,Stimulus,rotated,9503, degree=118
+6846,Stimulus,rotated,9512, degree=309
+6847,Stimulus,rotated,9521, degree=220
+6847,Stimulus,rotated,9530, degree=357
+6847,Stimulus,rotated,9539, degree=141
+6848,Stimulus,rotated,9548, degree=220
+6862,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6866,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6870,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6874,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6877,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6882,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6886,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6891,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6894,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6895,Stimulus,rotated,9570, degree=272
+6895,Stimulus,rotated,9579, degree=221
+6896,Stimulus,rotated,9588, degree=196
+6896,Stimulus,rotated,9597, degree=323
+6897,Stimulus,rotated,9606, degree=18
+6897,Stimulus,rotated,9615, degree=57
+6898,Stimulus,rotated,9624, degree=43
+6898,Stimulus,rotated,9633, degree=260
+6899,Stimulus,rotated,9642, degree=208
+6899,Stimulus,rotated,9651, degree=38
+6899,Stimulus,rotated,9660, degree=354
+6899,Stimulus,rotated,9669, degree=187
+6900,Stimulus,rotated,9678, degree=343
+6900,Stimulus,rotated,9687, degree=290
+6900,Stimulus,rotated,9696, degree=258
+6901,Stimulus,rotated,9705, degree=57
+6916,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6921,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6925,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6930,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6934,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6938,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6943,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6948,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6948,Stimulus,rotated,9727, degree=148
+6949,Stimulus,rotated,9736, degree=223
+6949,Stimulus,rotated,9745, degree=216
+6950,Stimulus,rotated,9754, degree=3
+6950,Stimulus,rotated,9763, degree=205
+6951,Stimulus,rotated,9772, degree=286
+6951,Stimulus,rotated,9781, degree=13
+6952,Stimulus,rotated,9790, degree=240
+6952,Stimulus,rotated,9799, degree=72
+6953,Stimulus,rotated,9808, degree=31
+6953,Stimulus,rotated,9817, degree=240
+6953,Stimulus,rotated,9826, degree=199
+6954,Stimulus,rotated,9835, degree=354
+6954,Stimulus,rotated,9844, degree=174
+6954,Stimulus,rotated,9853, degree=351
+6954,Stimulus,rotated,9862, degree=223
+6970,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6974,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6978,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6982,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6985,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6989,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+6990,Stimulus,rotated,9884, degree=126
+6990,Stimulus,rotated,9893, degree=92
+6991,Stimulus,rotated,9902, degree=26
+6991,Stimulus,rotated,9911, degree=333
+6991,Stimulus,rotated,9920, degree=23
+6992,Stimulus,rotated,9929, degree=21
+6992,Stimulus,rotated,9938, degree=194
+6993,Stimulus,rotated,9947, degree=138
+6993,Stimulus,rotated,9956, degree=235
+6994,Stimulus,rotated,9965, degree=108
+6994,Stimulus,rotated,9974, degree=228
+6995,Stimulus,rotated,9983, degree=205
+6995,Stimulus,rotated,9992, degree=52
+6995,Stimulus,rotated,10001, degree=198
+6996,Stimulus,rotated,10010, degree=54
+6996,Stimulus,rotated,10019, degree=247
+7010,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7015,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7020,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7024,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7028,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7032,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7037,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7041,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7042,Stimulus,rotated,10041, degree=32
+7043,Stimulus,rotated,10050, degree=143
+7043,Stimulus,rotated,10059, degree=35
+7043,Stimulus,rotated,10068, degree=192
+7044,Stimulus,rotated,10077, degree=270
+7044,Stimulus,rotated,10086, degree=86
+7045,Stimulus,rotated,10095, degree=353
+7045,Stimulus,rotated,10104, degree=352
+7045,Stimulus,rotated,10113, degree=11
+7046,Stimulus,rotated,10122, degree=77
+7046,Stimulus,rotated,10131, degree=299
+7046,Stimulus,rotated,10140, degree=1
+7047,Stimulus,rotated,10149, degree=56
+7047,Stimulus,rotated,10158, degree=94
+7047,Stimulus,rotated,10167, degree=286
+7048,Stimulus,rotated,10176, degree=164
+7063,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7069,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7073,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7078,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7083,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7087,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7093,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7098,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7098,Stimulus,rotated,10198, degree=295
+7099,Stimulus,rotated,10207, degree=106
+7099,Stimulus,rotated,10216, degree=161
+7099,Stimulus,rotated,10225, degree=28
+7100,Stimulus,rotated,10234, degree=43
+7100,Stimulus,rotated,10243, degree=219
+7100,Stimulus,rotated,10252, degree=223
+7101,Stimulus,rotated,10261, degree=224
+7101,Stimulus,rotated,10270, degree=79
+7102,Stimulus,rotated,10279, degree=134
+7102,Stimulus,rotated,10288, degree=165
+7102,Stimulus,rotated,10297, degree=2
+7103,Stimulus,rotated,10306, degree=12
+7103,Stimulus,rotated,10315, degree=294
+7103,Stimulus,rotated,10324, degree=297
+7104,Stimulus,rotated,10333, degree=121
+7118,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7123,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7127,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7131,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7135,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7139,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7143,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7144,Stimulus,rotated,10355, degree=338
+7145,Stimulus,rotated,10364, degree=28
+7145,Stimulus,rotated,10373, degree=273
+7146,Stimulus,rotated,10382, degree=338
+7146,Stimulus,rotated,10391, degree=317
+7147,Stimulus,rotated,10400, degree=109
+7147,Stimulus,rotated,10409, degree=325
+7148,Stimulus,rotated,10418, degree=124
+7148,Stimulus,rotated,10427, degree=112
+7148,Stimulus,rotated,10436, degree=273
+7149,Stimulus,rotated,10445, degree=117
+7149,Stimulus,rotated,10454, degree=279
+7149,Stimulus,rotated,10463, degree=28
+7150,Stimulus,rotated,10472, degree=199
+7150,Stimulus,rotated,10481, degree=161
+7151,Stimulus,rotated,10490, degree=150
+7165,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7170,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7174,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7178,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7183,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7188,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7192,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7197,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7202,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7203,Stimulus,rotated,10512, degree=55
+7203,Stimulus,rotated,10521, degree=138
+7203,Stimulus,rotated,10530, degree=321
+7204,Stimulus,rotated,10539, degree=357
+7204,Stimulus,rotated,10548, degree=275
+7204,Stimulus,rotated,10557, degree=210
+7205,Stimulus,rotated,10566, degree=149
+7206,Stimulus,rotated,10575, degree=248
+7207,Stimulus,rotated,10584, degree=118
+7207,Stimulus,rotated,10593, degree=228
+7207,Stimulus,rotated,10602, degree=321
+7208,Stimulus,rotated,10611, degree=289
+7208,Stimulus,rotated,10620, degree=141
+7208,Stimulus,rotated,10629, degree=358
+7209,Stimulus,rotated,10638, degree=28
+7209,Stimulus,rotated,10647, degree=262
+7225,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7229,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7235,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7239,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7244,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7248,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7252,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7252,Stimulus,rotated,10671, degree=153
+7253,Stimulus,rotated,10682, degree=317
+7254,Stimulus,rotated,10693, degree=236
+7254,Stimulus,rotated,10704, degree=17
+7255,Stimulus,rotated,10715, degree=69
+7255,Stimulus,rotated,10726, degree=9
+7256,Stimulus,rotated,10737, degree=66
+7256,Stimulus,rotated,10748, degree=276
+7257,Stimulus,rotated,10759, degree=92
+7257,Stimulus,rotated,10770, degree=348
+7257,Stimulus,rotated,10781, degree=0
+7258,Stimulus,rotated,10792, degree=97
+7258,Stimulus,rotated,10803, degree=132
+7259,Stimulus,rotated,10814, degree=22
+7259,Stimulus,rotated,10825, degree=191
+7260,Stimulus,rotated,10836, degree=289
+7278,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7282,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7286,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7291,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7295,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7299,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7304,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7304,Stimulus,rotated,10862, degree=296
+7305,Stimulus,rotated,10873, degree=271
+7306,Stimulus,rotated,10884, degree=81
+7306,Stimulus,rotated,10895, degree=129
+7307,Stimulus,rotated,10906, degree=54
+7307,Stimulus,rotated,10917, degree=67
+7308,Stimulus,rotated,10928, degree=233
+7309,Stimulus,rotated,10939, degree=297
+7309,Stimulus,rotated,10950, degree=288
+7310,Stimulus,rotated,10961, degree=198
+7310,Stimulus,rotated,10972, degree=80
+7311,Stimulus,rotated,10983, degree=171
+7311,Stimulus,rotated,10994, degree=71
+7311,Stimulus,rotated,11005, degree=195
+7312,Stimulus,rotated,11016, degree=215
+7312,Stimulus,rotated,11027, degree=120
+7328,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7331,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7335,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7340,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7344,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7348,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7349,Stimulus,rotated,11053, degree=266
+7349,Stimulus,rotated,11064, degree=154
+7350,Stimulus,rotated,11075, degree=311
+7350,Stimulus,rotated,11086, degree=219
+7351,Stimulus,rotated,11097, degree=262
+7351,Stimulus,rotated,11108, degree=354
+7352,Stimulus,rotated,11119, degree=323
+7352,Stimulus,rotated,11130, degree=237
+7353,Stimulus,rotated,11141, degree=240
+7353,Stimulus,rotated,11152, degree=46
+7354,Stimulus,rotated,11163, degree=273
+7354,Stimulus,rotated,11174, degree=44
+7354,Stimulus,rotated,11185, degree=331
+7355,Stimulus,rotated,11196, degree=23
+7355,Stimulus,rotated,11207, degree=277
+7356,Stimulus,rotated,11218, degree=325
+7370,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7375,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7379,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7384,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7389,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7393,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7398,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7399,Stimulus,rotated,11244, degree=332
+7399,Stimulus,rotated,11255, degree=187
+7400,Stimulus,rotated,11266, degree=181
+7401,Stimulus,rotated,11277, degree=123
+7401,Stimulus,rotated,11288, degree=90
+7401,Stimulus,rotated,11299, degree=95
+7402,Stimulus,rotated,11310, degree=302
+7402,Stimulus,rotated,11321, degree=46
+7403,Stimulus,rotated,11332, degree=258
+7403,Stimulus,rotated,11343, degree=111
+7403,Stimulus,rotated,11354, degree=55
+7404,Stimulus,rotated,11365, degree=337
+7404,Stimulus,rotated,11376, degree=321
+7405,Stimulus,rotated,11387, degree=88
+7405,Stimulus,rotated,11398, degree=130
+7406,Stimulus,rotated,11409, degree=308
+7423,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7427,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7432,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7437,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7441,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7445,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7450,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7454,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7455,Stimulus,rotated,11435, degree=110
+7455,Stimulus,rotated,11446, degree=228
+7456,Stimulus,rotated,11457, degree=307
+7456,Stimulus,rotated,11468, degree=228
+7457,Stimulus,rotated,11479, degree=155
+7457,Stimulus,rotated,11490, degree=146
+7458,Stimulus,rotated,11501, degree=109
+7458,Stimulus,rotated,11512, degree=11
+7458,Stimulus,rotated,11523, degree=164
+7459,Stimulus,rotated,11534, degree=206
+7459,Stimulus,rotated,11545, degree=120
+7460,Stimulus,rotated,11556, degree=359
+7460,Stimulus,rotated,11567, degree=187
+7461,Stimulus,rotated,11578, degree=296
+7461,Stimulus,rotated,11589, degree=212
+7462,Stimulus,rotated,11600, degree=109
+7477,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7481,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7485,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7489,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7493,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7497,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7501,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7502,Stimulus,rotated,11626, degree=93
+7502,Stimulus,rotated,11637, degree=133
+7503,Stimulus,rotated,11648, degree=270
+7503,Stimulus,rotated,11659, degree=81
+7504,Stimulus,rotated,11670, degree=259
+7504,Stimulus,rotated,11681, degree=73
+7505,Stimulus,rotated,11692, degree=169
+7505,Stimulus,rotated,11703, degree=23
+7506,Stimulus,rotated,11714, degree=304
+7506,Stimulus,rotated,11725, degree=45
+7506,Stimulus,rotated,11736, degree=189
+7507,Stimulus,rotated,11747, degree=119
+7508,Stimulus,rotated,11758, degree=126
+7508,Stimulus,rotated,11769, degree=205
+7508,Stimulus,rotated,11780, degree=208
+7509,Stimulus,rotated,11791, degree=280
+7524,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7529,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7532,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7536,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7541,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7546,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7546,Stimulus,rotated,11817, degree=277
+7547,Stimulus,rotated,11828, degree=351
+7547,Stimulus,rotated,11839, degree=283
+7548,Stimulus,rotated,11850, degree=58
+7548,Stimulus,rotated,11861, degree=5
+7548,Stimulus,rotated,11872, degree=11
+7549,Stimulus,rotated,11883, degree=54
+7549,Stimulus,rotated,11894, degree=186
+7550,Stimulus,rotated,11905, degree=340
+7550,Stimulus,rotated,11916, degree=272
+7551,Stimulus,rotated,11927, degree=260
+7551,Stimulus,rotated,11938, degree=124
+7552,Stimulus,rotated,11949, degree=302
+7552,Stimulus,rotated,11960, degree=330
+7553,Stimulus,rotated,11971, degree=66
+7553,Stimulus,rotated,11982, degree=74
+7567,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7571,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7575,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7579,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7584,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7588,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7592,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7593,Stimulus,rotated,12008, degree=260
+7593,Stimulus,rotated,12019, degree=168
+7594,Stimulus,rotated,12030, degree=163
+7594,Stimulus,rotated,12041, degree=9
+7595,Stimulus,rotated,12052, degree=26
+7595,Stimulus,rotated,12063, degree=19
+7596,Stimulus,rotated,12074, degree=60
+7596,Stimulus,rotated,12085, degree=157
+7596,Stimulus,rotated,12096, degree=231
+7597,Stimulus,rotated,12107, degree=346
+7597,Stimulus,rotated,12118, degree=144
+7598,Stimulus,rotated,12129, degree=328
+7598,Stimulus,rotated,12140, degree=352
+7598,Stimulus,rotated,12151, degree=332
+7599,Stimulus,rotated,12162, degree=57
+7599,Stimulus,rotated,12173, degree=267
+7618,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7622,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7626,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7630,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7634,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7638,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7639,Stimulus,rotated,12197, degree=145
+7639,Stimulus,rotated,12206, degree=119
+7639,Stimulus,rotated,12215, degree=19
+7640,Stimulus,rotated,12224, degree=151
+7640,Stimulus,rotated,12233, degree=329
+7641,Stimulus,rotated,12242, degree=319
+7641,Stimulus,rotated,12251, degree=61
+7642,Stimulus,rotated,12260, degree=47
+7642,Stimulus,rotated,12269, degree=83
+7643,Stimulus,rotated,12278, degree=348
+7643,Stimulus,rotated,12287, degree=223
+7643,Stimulus,rotated,12296, degree=241
+7644,Stimulus,rotated,12305, degree=116
+7644,Stimulus,rotated,12314, degree=179
+7644,Stimulus,rotated,12323, degree=264
+7645,Stimulus,rotated,12332, degree=216
+7659,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7663,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7668,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7673,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7677,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7681,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7686,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7690,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7690,Stimulus,rotated,12354, degree=224
+7691,Stimulus,rotated,12363, degree=305
+7692,Stimulus,rotated,12372, degree=312
+7692,Stimulus,rotated,12381, degree=20
+7692,Stimulus,rotated,12390, degree=5
+7693,Stimulus,rotated,12399, degree=248
+7693,Stimulus,rotated,12408, degree=263
+7694,Stimulus,rotated,12417, degree=235
+7694,Stimulus,rotated,12426, degree=322
+7694,Stimulus,rotated,12435, degree=304
+7695,Stimulus,rotated,12444, degree=119
+7695,Stimulus,rotated,12453, degree=129
+7695,Stimulus,rotated,12462, degree=325
+7696,Stimulus,rotated,12471, degree=270
+7696,Stimulus,rotated,12480, degree=270
+7697,Stimulus,rotated,12489, degree=185
+7712,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7716,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7720,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7724,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7728,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7732,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7736,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7741,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7741,Stimulus,rotated,12511, degree=115
+7742,Stimulus,rotated,12520, degree=209
+7742,Stimulus,rotated,12529, degree=139
+7742,Stimulus,rotated,12538, degree=108
+7743,Stimulus,rotated,12547, degree=308
+7743,Stimulus,rotated,12556, degree=68
+7743,Stimulus,rotated,12565, degree=71
+7744,Stimulus,rotated,12574, degree=162
+7744,Stimulus,rotated,12583, degree=189
+7745,Stimulus,rotated,12592, degree=199
+7745,Stimulus,rotated,12601, degree=116
+7746,Stimulus,rotated,12610, degree=1
+7746,Stimulus,rotated,12619, degree=287
+7746,Stimulus,rotated,12628, degree=42
+7747,Stimulus,rotated,12637, degree=45
+7747,Stimulus,rotated,12646, degree=80
+7762,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7766,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7770,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7774,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7778,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7782,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7786,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7787,Stimulus,rotated,12668, degree=343
+7787,Stimulus,rotated,12677, degree=59
+7788,Stimulus,rotated,12686, degree=125
+7788,Stimulus,rotated,12695, degree=3
+7789,Stimulus,rotated,12704, degree=47
+7789,Stimulus,rotated,12713, degree=34
+7789,Stimulus,rotated,12722, degree=308
+7790,Stimulus,rotated,12731, degree=126
+7790,Stimulus,rotated,12740, degree=125
+7791,Stimulus,rotated,12749, degree=213
+7791,Stimulus,rotated,12758, degree=167
+7791,Stimulus,rotated,12767, degree=216
+7792,Stimulus,rotated,12776, degree=83
+7792,Stimulus,rotated,12785, degree=292
+7793,Stimulus,rotated,12794, degree=63
+7793,Stimulus,rotated,12803, degree=75
+7808,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7813,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7816,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7820,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7824,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7828,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7832,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7836,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7837,Stimulus,rotated,12825, degree=20
+7838,Stimulus,rotated,12834, degree=349
+7838,Stimulus,rotated,12843, degree=93
+7839,Stimulus,rotated,12852, degree=167
+7840,Stimulus,rotated,12861, degree=336
+7840,Stimulus,rotated,12870, degree=281
+7841,Stimulus,rotated,12879, degree=342
+7841,Stimulus,rotated,12888, degree=200
+7842,Stimulus,rotated,12897, degree=290
+7842,Stimulus,rotated,12906, degree=236
+7843,Stimulus,rotated,12915, degree=171
+7843,Stimulus,rotated,12924, degree=245
+7843,Stimulus,rotated,12933, degree=209
+7844,Stimulus,rotated,12942, degree=231
+7844,Stimulus,rotated,12951, degree=311
+7844,Stimulus,rotated,12960, degree=285
+7859,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7863,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7867,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7872,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7876,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7880,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7884,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7884,Stimulus,rotated,12982, degree=329
+7885,Stimulus,rotated,12991, degree=65
+7885,Stimulus,rotated,13000, degree=77
+7886,Stimulus,rotated,13009, degree=348
+7886,Stimulus,rotated,13018, degree=116
+7887,Stimulus,rotated,13027, degree=279
+7887,Stimulus,rotated,13036, degree=140
+7888,Stimulus,rotated,13045, degree=134
+7888,Stimulus,rotated,13054, degree=285
+7888,Stimulus,rotated,13063, degree=37
+7889,Stimulus,rotated,13072, degree=185
+7889,Stimulus,rotated,13081, degree=7
+7889,Stimulus,rotated,13090, degree=235
+7890,Stimulus,rotated,13099, degree=27
+7890,Stimulus,rotated,13108, degree=16
+7890,Stimulus,rotated,13117, degree=348
+7904,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7909,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7913,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7917,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7922,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7926,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7930,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7934,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7938,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7939,Stimulus,rotated,13139, degree=237
+7939,Stimulus,rotated,13148, degree=40
+7940,Stimulus,rotated,13157, degree=196
+7940,Stimulus,rotated,13166, degree=340
+7941,Stimulus,rotated,13175, degree=96
+7941,Stimulus,rotated,13184, degree=167
+7942,Stimulus,rotated,13193, degree=340
+7942,Stimulus,rotated,13202, degree=88
+7942,Stimulus,rotated,13211, degree=136
+7943,Stimulus,rotated,13220, degree=142
+7943,Stimulus,rotated,13229, degree=82
+7943,Stimulus,rotated,13238, degree=161
+7944,Stimulus,rotated,13247, degree=86
+7944,Stimulus,rotated,13256, degree=286
+7945,Stimulus,rotated,13265, degree=3
+7945,Stimulus,rotated,13274, degree=62
+7961,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7965,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7968,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7972,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7976,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7980,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+7980,Stimulus,rotated,13296, degree=300
+7981,Stimulus,rotated,13305, degree=68
+7982,Stimulus,rotated,13314, degree=74
+7982,Stimulus,rotated,13323, degree=197
+7982,Stimulus,rotated,13332, degree=156
+7983,Stimulus,rotated,13341, degree=22
+7983,Stimulus,rotated,13350, degree=243
+7984,Stimulus,rotated,13359, degree=60
+7984,Stimulus,rotated,13368, degree=339
+7984,Stimulus,rotated,13377, degree=168
+7985,Stimulus,rotated,13386, degree=154
+7985,Stimulus,rotated,13395, degree=131
+7985,Stimulus,rotated,13404, degree=244
+7986,Stimulus,rotated,13413, degree=330
+7986,Stimulus,rotated,13422, degree=159
+7987,Stimulus,rotated,13431, degree=305
+8004,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8008,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8013,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8016,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8021,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8026,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8030,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8031,Stimulus,rotated,13453, degree=12
+8031,Stimulus,rotated,13462, degree=195
+8032,Stimulus,rotated,13471, degree=305
+8032,Stimulus,rotated,13480, degree=9
+8032,Stimulus,rotated,13489, degree=292
+8033,Stimulus,rotated,13498, degree=345
+8033,Stimulus,rotated,13507, degree=249
+8034,Stimulus,rotated,13516, degree=182
+8034,Stimulus,rotated,13525, degree=84
+8034,Stimulus,rotated,13534, degree=142
+8035,Stimulus,rotated,13543, degree=155
+8035,Stimulus,rotated,13552, degree=177
+8036,Stimulus,rotated,13561, degree=40
+8036,Stimulus,rotated,13570, degree=168
+8037,Stimulus,rotated,13579, degree=307
+8037,Stimulus,rotated,13588, degree=343
+8055,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8059,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8063,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8068,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8072,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8076,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8080,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8081,Stimulus,rotated,13610, degree=313
+8081,Stimulus,rotated,13619, degree=112
+8082,Stimulus,rotated,13628, degree=30
+8082,Stimulus,rotated,13637, degree=124
+8083,Stimulus,rotated,13646, degree=63
+8083,Stimulus,rotated,13655, degree=199
+8084,Stimulus,rotated,13664, degree=183
+8084,Stimulus,rotated,13673, degree=212
+8085,Stimulus,rotated,13682, degree=293
+8085,Stimulus,rotated,13691, degree=21
+8085,Stimulus,rotated,13700, degree=18
+8086,Stimulus,rotated,13709, degree=248
+8086,Stimulus,rotated,13718, degree=326
+8086,Stimulus,rotated,13727, degree=227
+8087,Stimulus,rotated,13736, degree=309
+8087,Stimulus,rotated,13745, degree=295
+8101,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8105,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8110,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8113,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8117,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8122,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8126,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8130,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8130,Stimulus,rotated,13767, degree=328
+8131,Stimulus,rotated,13776, degree=245
+8131,Stimulus,rotated,13785, degree=287
+8132,Stimulus,rotated,13794, degree=202
+8132,Stimulus,rotated,13803, degree=165
+8133,Stimulus,rotated,13812, degree=8
+8134,Stimulus,rotated,13821, degree=268
+8134,Stimulus,rotated,13830, degree=296
+8135,Stimulus,rotated,13839, degree=130
+8135,Stimulus,rotated,13848, degree=290
+8135,Stimulus,rotated,13857, degree=75
+8136,Stimulus,rotated,13866, degree=359
+8136,Stimulus,rotated,13875, degree=29
+8136,Stimulus,rotated,13884, degree=326
+8137,Stimulus,rotated,13893, degree=167
+8137,Stimulus,rotated,13902, degree=279
+8154,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8159,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8163,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8167,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8171,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8176,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8180,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8180,Stimulus,rotated,13924, degree=58
+8181,Stimulus,rotated,13933, degree=0
+8182,Stimulus,rotated,13942, degree=311
+8182,Stimulus,rotated,13951, degree=236
+8183,Stimulus,rotated,13960, degree=258
+8183,Stimulus,rotated,13969, degree=300
+8183,Stimulus,rotated,13978, degree=276
+8184,Stimulus,rotated,13987, degree=167
+8184,Stimulus,rotated,13996, degree=228
+8185,Stimulus,rotated,14005, degree=349
+8185,Stimulus,rotated,14014, degree=87
+8185,Stimulus,rotated,14023, degree=89
+8186,Stimulus,rotated,14032, degree=208
+8186,Stimulus,rotated,14041, degree=246
+8187,Stimulus,rotated,14050, degree=291
+8187,Stimulus,rotated,14059, degree=281
+8205,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8212,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8217,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8222,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8228,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8233,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8238,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8243,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8244,Stimulus,rotated,14081, degree=271
+8244,Stimulus,rotated,14090, degree=265
+8244,Stimulus,rotated,14099, degree=224
+8245,Stimulus,rotated,14108, degree=240
+8245,Stimulus,rotated,14117, degree=352
+8246,Stimulus,rotated,14126, degree=22
+8246,Stimulus,rotated,14135, degree=237
+8246,Stimulus,rotated,14144, degree=319
+8247,Stimulus,rotated,14153, degree=37
+8247,Stimulus,rotated,14162, degree=299
+8248,Stimulus,rotated,14171, degree=339
+8248,Stimulus,rotated,14180, degree=205
+8249,Stimulus,rotated,14189, degree=7
+8249,Stimulus,rotated,14198, degree=150
+8249,Stimulus,rotated,14207, degree=358
+8250,Stimulus,rotated,14216, degree=227
+8268,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8273,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8278,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8282,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8287,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8291,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8295,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8300,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8300,Stimulus,rotated,14238, degree=38
+8301,Stimulus,rotated,14247, degree=22
+8301,Stimulus,rotated,14256, degree=62
+8302,Stimulus,rotated,14265, degree=211
+8302,Stimulus,rotated,14274, degree=280
+8303,Stimulus,rotated,14283, degree=320
+8303,Stimulus,rotated,14292, degree=176
+8304,Stimulus,rotated,14301, degree=69
+8304,Stimulus,rotated,14310, degree=240
+8305,Stimulus,rotated,14319, degree=302
+8305,Stimulus,rotated,14328, degree=341
+8306,Stimulus,rotated,14337, degree=86
+8306,Stimulus,rotated,14346, degree=310
+8306,Stimulus,rotated,14355, degree=64
+8307,Stimulus,rotated,14364, degree=89
+8307,Stimulus,rotated,14373, degree=245
+8325,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8329,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8334,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8340,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8344,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8348,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8353,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8354,Stimulus,rotated,14395, degree=75
+8354,Stimulus,rotated,14404, degree=9
+8354,Stimulus,rotated,14413, degree=290
+8355,Stimulus,rotated,14422, degree=306
+8355,Stimulus,rotated,14431, degree=353
+8356,Stimulus,rotated,14440, degree=319
+8357,Stimulus,rotated,14449, degree=292
+8357,Stimulus,rotated,14458, degree=215
+8358,Stimulus,rotated,14467, degree=194
+8358,Stimulus,rotated,14476, degree=275
+8359,Stimulus,rotated,14485, degree=355
+8359,Stimulus,rotated,14494, degree=128
+8359,Stimulus,rotated,14503, degree=293
+8360,Stimulus,rotated,14512, degree=326
+8360,Stimulus,rotated,14521, degree=89
+8360,Stimulus,rotated,14530, degree=22
+8376,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8381,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8385,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8389,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8394,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8398,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8403,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8407,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8408,Stimulus,rotated,14552, degree=304
+8408,Stimulus,rotated,14561, degree=64
+8409,Stimulus,rotated,14570, degree=40
+8409,Stimulus,rotated,14579, degree=347
+8409,Stimulus,rotated,14588, degree=229
+8410,Stimulus,rotated,14597, degree=143
+8411,Stimulus,rotated,14606, degree=312
+8411,Stimulus,rotated,14615, degree=209
+8411,Stimulus,rotated,14624, degree=96
+8412,Stimulus,rotated,14633, degree=264
+8412,Stimulus,rotated,14642, degree=121
+8413,Stimulus,rotated,14651, degree=282
+8413,Stimulus,rotated,14660, degree=276
+8413,Stimulus,rotated,14669, degree=318
+8414,Stimulus,rotated,14678, degree=218
+8414,Stimulus,rotated,14687, degree=181
+8428,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8433,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8437,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8441,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8445,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8449,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8453,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8454,Stimulus,rotated,14705, degree=357
+8454,Stimulus,rotated,14710, degree=17
+8455,Stimulus,rotated,14715, degree=101
+8455,Stimulus,rotated,14720, degree=34
+8456,Stimulus,rotated,14725, degree=129
+8456,Stimulus,rotated,14730, degree=157
+8457,Stimulus,rotated,14735, degree=132
+8457,Stimulus,rotated,14740, degree=319
+8458,Stimulus,rotated,14745, degree=51
+8458,Stimulus,rotated,14750, degree=288
+8458,Stimulus,rotated,14755, degree=356
+8459,Stimulus,rotated,14760, degree=50
+8459,Stimulus,rotated,14765, degree=354
+8460,Stimulus,rotated,14770, degree=328
+8460,Stimulus,rotated,14775, degree=172
+8460,Stimulus,rotated,14780, degree=295
+8476,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8480,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8485,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8489,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8494,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8498,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8503,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8507,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8512,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8512,Stimulus,rotated,14794, degree=65
+8513,Stimulus,rotated,14799, degree=276
+8513,Stimulus,rotated,14804, degree=28
+8514,Stimulus,rotated,14809, degree=135
+8514,Stimulus,rotated,14814, degree=240
+8515,Stimulus,rotated,14819, degree=88
+8515,Stimulus,rotated,14824, degree=271
+8516,Stimulus,rotated,14829, degree=291
+8516,Stimulus,rotated,14834, degree=342
+8517,Stimulus,rotated,14839, degree=57
+8517,Stimulus,rotated,14844, degree=162
+8517,Stimulus,rotated,14849, degree=264
+8518,Stimulus,rotated,14854, degree=255
+8518,Stimulus,rotated,14859, degree=10
+8518,Stimulus,rotated,14864, degree=169
+8518,Stimulus,rotated,14869, degree=250
+8534,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8540,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8544,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8549,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8554,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8560,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8564,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8565,Stimulus,rotated,14883, degree=290
+8565,Stimulus,rotated,14888, degree=133
+8566,Stimulus,rotated,14893, degree=125
+8566,Stimulus,rotated,14898, degree=196
+8567,Stimulus,rotated,14903, degree=203
+8567,Stimulus,rotated,14908, degree=324
+8567,Stimulus,rotated,14913, degree=45
+8568,Stimulus,rotated,14918, degree=82
+8568,Stimulus,rotated,14923, degree=349
+8569,Stimulus,rotated,14928, degree=22
+8569,Stimulus,rotated,14933, degree=68
+8570,Stimulus,rotated,14938, degree=74
+8570,Stimulus,rotated,14943, degree=319
+8570,Stimulus,rotated,14948, degree=186
+8571,Stimulus,rotated,14953, degree=274
+8571,Stimulus,rotated,14958, degree=226
+8586,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8590,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8594,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8598,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8602,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8606,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8609,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8610,Stimulus,rotated,14972, degree=255
+8610,Stimulus,rotated,14977, degree=40
+8611,Stimulus,rotated,14982, degree=98
+8611,Stimulus,rotated,14987, degree=120
+8612,Stimulus,rotated,14992, degree=357
+8612,Stimulus,rotated,14997, degree=124
+8613,Stimulus,rotated,15002, degree=228
+8613,Stimulus,rotated,15007, degree=91
+8614,Stimulus,rotated,15012, degree=221
+8614,Stimulus,rotated,15017, degree=40
+8615,Stimulus,rotated,15022, degree=219
+8615,Stimulus,rotated,15027, degree=192
+8615,Stimulus,rotated,15032, degree=288
+8616,Stimulus,rotated,15037, degree=147
+8616,Stimulus,rotated,15042, degree=171
+8617,Stimulus,rotated,15047, degree=326
+8632,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8637,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8641,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8646,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8651,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8655,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8660,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8664,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8669,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8669,Stimulus,rotated,15061, degree=288
+8670,Stimulus,rotated,15066, degree=320
+8670,Stimulus,rotated,15071, degree=331
+8671,Stimulus,rotated,15076, degree=306
+8671,Stimulus,rotated,15081, degree=73
+8672,Stimulus,rotated,15086, degree=354
+8673,Stimulus,rotated,15091, degree=257
+8673,Stimulus,rotated,15096, degree=105
+8673,Stimulus,rotated,15101, degree=321
+8674,Stimulus,rotated,15106, degree=151
+8674,Stimulus,rotated,15111, degree=42
+8674,Stimulus,rotated,15116, degree=122
+8675,Stimulus,rotated,15121, degree=249
+8675,Stimulus,rotated,15126, degree=57
+8675,Stimulus,rotated,15131, degree=339
+8676,Stimulus,rotated,15136, degree=28
+8691,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8699,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8702,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8706,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8711,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8715,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8716,Stimulus,rotated,15150, degree=37
+8716,Stimulus,rotated,15155, degree=289
+8717,Stimulus,rotated,15160, degree=243
+8717,Stimulus,rotated,15165, degree=221
+8718,Stimulus,rotated,15170, degree=88
+8718,Stimulus,rotated,15175, degree=190
+8718,Stimulus,rotated,15180, degree=121
+8719,Stimulus,rotated,15185, degree=297
+8719,Stimulus,rotated,15190, degree=235
+8720,Stimulus,rotated,15195, degree=128
+8721,Stimulus,rotated,15200, degree=287
+8721,Stimulus,rotated,15205, degree=55
+8722,Stimulus,rotated,15210, degree=164
+8722,Stimulus,rotated,15215, degree=298
+8722,Stimulus,rotated,15220, degree=309
+8723,Stimulus,rotated,15225, degree=167
+8741,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8745,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8749,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8754,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8758,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8762,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8763,Stimulus,rotated,15239, degree=186
+8764,Stimulus,rotated,15244, degree=51
+8764,Stimulus,rotated,15249, degree=176
+8764,Stimulus,rotated,15254, degree=235
+8765,Stimulus,rotated,15259, degree=343
+8765,Stimulus,rotated,15264, degree=359
+8766,Stimulus,rotated,15269, degree=34
+8766,Stimulus,rotated,15274, degree=278
+8766,Stimulus,rotated,15279, degree=31
+8767,Stimulus,rotated,15284, degree=194
+8767,Stimulus,rotated,15289, degree=220
+8767,Stimulus,rotated,15294, degree=291
+8768,Stimulus,rotated,15299, degree=13
+8768,Stimulus,rotated,15304, degree=217
+8769,Stimulus,rotated,15309, degree=267
+8769,Stimulus,rotated,15314, degree=335
+8784,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8789,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8793,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8797,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8802,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8806,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8810,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8814,stdout,received,'Attention : Impossible de tout faire rentrer dans le carré. Réduisez MIN_DISTANCE ou augmentez SQUARE_SIDE.'
+8815,Stimulus,rotated,15328, degree=76
+8815,Stimulus,rotated,15333, degree=94
+8816,Stimulus,rotated,15338, degree=260
+8817,Stimulus,rotated,15343, degree=180
+8818,Stimulus,rotated,15348, degree=307
+8818,Stimulus,rotated,15353, degree=313
+8819,Stimulus,rotated,15358, degree=282
+8819,Stimulus,rotated,15363, degree=72
+8820,Stimulus,rotated,15368, degree=294
+8820,Stimulus,rotated,15373, degree=307
+8820,Stimulus,rotated,15378, degree=308
+8821,Stimulus,rotated,15383, degree=154
+8821,Stimulus,rotated,15388, degree=214
+8821,Stimulus,rotated,15393, degree=73
+8822,Stimulus,rotated,15398, degree=330
+8822,Stimulus,rotated,15403, degree=219
+13627,design,log,
+#design: #exp: Exp 2: Visual Search (Square)
+#design: block_cnt,block_id,trial_cnt,trial_id,CorrectResp,DistractorRelation,Present,SetID,TargetCategory
+#design: 0,0,0,70,y,diff_topo_rel,True,1,same_topo
+#design: 0,0,1,8,y,same_topo_rel,True,1,default
+#design: 0,0,2,107,n,diff_topo_rel,False,6,default
+#design: 0,0,3,57,n,same_topo_rel,False,0,default
+#design: 0,0,4,34,y,diff_topo_rel,True,4,default
+#design: 0,0,5,23,n,diff_topo_rel,False,2,same_topo
+#design: 0,0,6,76,y,same_topo_rel,True,2,same_topo
+#design: 0,0,7,103,n,diff_topo_rel,False,5,same_topo
+#design: 0,0,8,74,y,diff_topo_rel,True,2,default
+#design: 0,0,9,96,y,same_topo_rel,True,5,default
+#design: 0,0,10,79,n,diff_topo_rel,False,2,same_topo
+#design: 0,0,11,67,n,diff_topo_rel,False,1,default
+#design: 0,0,12,49,n,same_topo_rel,False,6,default
+#design: 0,0,13,7,n,diff_topo_rel,False,0,same_topo
+#design: 0,0,14,32,y,same_topo_rel,True,4,default
+#design: 0,0,15,25,n,same_topo_rel,False,3,default
+#design: 0,0,16,64,y,same_topo_rel,True,1,default
+#design: 0,0,17,58,y,diff_topo_rel,True,0,default
+#design: 0,0,18,39,n,diff_topo_rel,False,4,same_topo
+#design: 0,0,19,109,n,same_topo_rel,False,6,same_topo
+#design: 0,0,20,78,y,diff_topo_rel,True,2,same_topo
+#design: 0,0,21,53,n,same_topo_rel,False,6,same_topo
+#design: 0,0,22,36,y,same_topo_rel,True,4,same_topo
+#design: 0,0,23,72,y,same_topo_rel,True,2,default
+#design: 0,0,24,77,n,same_topo_rel,False,2,same_topo
+#design: 0,0,25,48,y,same_topo_rel,True,6,default
+#design: 0,0,26,11,n,diff_topo_rel,False,1,default
+#design: 0,0,27,13,n,same_topo_rel,False,1,same_topo
+#design: 0,0,28,111,n,diff_topo_rel,False,6,same_topo
+#design: 0,0,29,37,n,same_topo_rel,False,4,same_topo
+#design: 0,0,30,54,y,diff_topo_rel,True,6,same_topo
+#design: 0,0,31,104,y,same_topo_rel,True,6,default
+#design: 0,0,32,18,y,diff_topo_rel,True,2,default
+#design: 0,0,33,65,n,same_topo_rel,False,1,default
+#design: 0,0,34,22,y,diff_topo_rel,True,2,same_topo
+#design: 0,0,35,97,n,same_topo_rel,False,5,default
+#design: 0,0,36,83,n,diff_topo_rel,False,3,default
+#design: 0,0,37,28,y,same_topo_rel,True,3,same_topo
+#design: 0,0,38,44,y,same_topo_rel,True,5,same_topo
+#design: 0,0,39,35,n,diff_topo_rel,False,4,default
+#design: 0,0,40,41,n,same_topo_rel,False,5,default
+#design: 0,0,41,52,y,same_topo_rel,True,6,same_topo
+#design: 0,0,42,90,y,diff_topo_rel,True,4,default
+#design: 0,0,43,102,y,diff_topo_rel,True,5,same_topo
+#design: 0,0,44,10,y,diff_topo_rel,True,1,default
+#design: 0,0,45,47,n,diff_topo_rel,False,5,same_topo
+#design: 0,0,46,61,n,same_topo_rel,False,0,same_topo
+#design: 0,0,47,38,y,diff_topo_rel,True,4,same_topo
+#design: 0,0,48,20,y,same_topo_rel,True,2,same_topo
+#design: 0,0,49,80,y,same_topo_rel,True,3,default
+#design: 0,0,50,106,y,diff_topo_rel,True,6,default
+#design: 0,0,51,110,y,diff_topo_rel,True,6,same_topo
+#design: 0,0,52,16,y,same_topo_rel,True,2,default
+#design: 0,0,53,68,y,same_topo_rel,True,1,same_topo
+#design: 0,0,54,98,y,diff_topo_rel,True,5,default
+#design: 0,0,55,93,n,same_topo_rel,False,4,same_topo
+#design: 0,0,56,85,n,same_topo_rel,False,3,same_topo
+#design: 0,0,57,75,n,diff_topo_rel,False,2,default
+#design: 0,0,58,19,n,diff_topo_rel,False,2,default
+#design: 0,0,59,108,y,same_topo_rel,True,6,same_topo
+#design: 0,0,60,4,y,same_topo_rel,True,0,same_topo
+#design: 0,0,61,45,n,same_topo_rel,False,5,same_topo
+#design: 0,0,62,66,y,diff_topo_rel,True,1,default
+#design: 0,0,63,59,n,diff_topo_rel,False,0,default
+#design: 0,0,64,14,y,diff_topo_rel,True,1,same_topo
+#design: 0,0,65,95,n,diff_topo_rel,False,4,same_topo
+#design: 0,0,66,0,y,same_topo_rel,True,0,default
+#design: 0,0,67,69,n,same_topo_rel,False,1,same_topo
+#design: 0,0,68,92,y,same_topo_rel,True,4,same_topo
+#design: 0,0,69,105,n,same_topo_rel,False,6,default
+#design: 0,0,70,31,n,diff_topo_rel,False,3,same_topo
+#design: 0,0,71,63,n,diff_topo_rel,False,0,same_topo
+#design: 0,0,72,62,y,diff_topo_rel,True,0,same_topo
+#design: 0,0,73,50,y,diff_topo_rel,True,6,default
+#design: 0,0,74,26,y,diff_topo_rel,True,3,default
+#design: 0,0,75,3,n,diff_topo_rel,False,0,default
+#design: 0,0,76,42,y,diff_topo_rel,True,5,default
+#design: 0,0,77,2,y,diff_topo_rel,True,0,default
+#design: 0,0,78,29,n,same_topo_rel,False,3,same_topo
+#design: 0,0,79,33,n,same_topo_rel,False,4,default
+#design: 0,0,80,15,n,diff_topo_rel,False,1,same_topo
+#design: 0,0,81,86,y,diff_topo_rel,True,3,same_topo
+#design: 0,0,82,46,y,diff_topo_rel,True,5,same_topo
+#design: 0,0,83,1,n,same_topo_rel,False,0,default
+#design: 0,0,84,88,y,same_topo_rel,True,4,default
+#design: 0,0,85,81,n,same_topo_rel,False,3,default
+#design: 0,0,86,60,y,same_topo_rel,True,0,same_topo
+#design: 0,0,87,89,n,same_topo_rel,False,4,default
+#design: 0,0,88,24,y,same_topo_rel,True,3,default
+#design: 0,0,89,12,y,same_topo_rel,True,1,same_topo
+#design: 0,0,90,43,n,diff_topo_rel,False,5,default
+#design: 0,0,91,91,n,diff_topo_rel,False,4,default
+#design: 0,0,92,71,n,diff_topo_rel,False,1,same_topo
+#design: 0,0,93,21,n,same_topo_rel,False,2,same_topo
+#design: 0,0,94,5,n,same_topo_rel,False,0,same_topo
+#design: 0,0,95,30,y,diff_topo_rel,True,3,same_topo
+#design: 0,0,96,40,y,same_topo_rel,True,5,default
+#design: 0,0,97,100,y,same_topo_rel,True,5,same_topo
+#design: 0,0,98,94,y,diff_topo_rel,True,4,same_topo
+#design: 0,0,99,6,y,diff_topo_rel,True,0,same_topo
+#design: 0,0,100,56,y,same_topo_rel,True,0,default
+#design: 0,0,101,101,n,same_topo_rel,False,5,same_topo
+#design: 0,0,102,9,n,same_topo_rel,False,1,default
+#design: 0,0,103,51,n,diff_topo_rel,False,6,default
+#design: 0,0,104,73,n,same_topo_rel,False,2,default
+#design: 0,0,105,55,n,diff_topo_rel,False,6,same_topo
+#design: 0,0,106,99,n,diff_topo_rel,False,5,default
+#design: 0,0,107,27,n,diff_topo_rel,False,3,default
+#design: 0,0,108,84,y,same_topo_rel,True,3,same_topo
+#design: 0,0,109,82,y,diff_topo_rel,True,3,default
+#design: 0,0,110,17,n,same_topo_rel,False,2,default
+#design: 0,0,111,87,n,diff_topo_rel,False,3,same_topo
+13628,design,logged,
+13628,Experiment,started
+13635,Stimulus,presented,15408
+14667,Keyboard,received,32,wait
+14670,Stimulus,presented,9161
+17182,Stimulus,presented,9163
+23955,Keyboard,received,y,wait_char
+23957,Stimulus,presented,719
+26469,Stimulus,presented,721
+31421,Experiment,paused
+31425,Stimulus,presented,15409
+32573,Keyboard,received,y,wait_char
+32573,Experiment,ended
+32585,Data,saved
+32588,Stimulus,presented,15409

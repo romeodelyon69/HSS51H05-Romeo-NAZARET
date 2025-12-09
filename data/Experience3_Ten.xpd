@@ -1,0 +1,49 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Tue Dec 09 2025 13:01:59
+#--EXPERIMENT INFO
+#e mainfile: Experience3a&b.py
+#e sha1: 30ba20
+#e modules: gen_stimuli.py (57a8ea)
+#e Experiment: Exp 3: Number Comparison (lines)
+#e no between subject factors
+#e Block 0: Main Block
+#e     block factors: 
+#e     n trials: 28
+#e     trial factors: SetID = [0, 1, 5]
+#e                    N_Left = [10, 16, 22]
+#e                    N_Right = [10, 16, 22]
+#e                    Type_Left = [default, diff_topo]
+#e                    Type_Right = [default, diff_topo]
+#e                    More_T_Side = [left, right]
+#e                    
+#--SUBJECT INFO
+#s id: 21
+subject_id,
+21,lines,0,16,16,default,diff_topo,g,8508,1,-1
+21,lines,0,16,16,diff_topo,default,g,8340,0,-1
+21,lines,5,16,22,diff_topo,default,d,9576,1,1
+21,lines,5,10,16,default,diff_topo,d,2164,0,1
+21,lines,1,16,16,diff_topo,default,g,1497,0,-1
+21,lines,5,16,22,diff_topo,default,d,1434,1,1
+21,lines,5,16,16,diff_topo,default,g,2277,0,-1
+21,lines,5,10,16,diff_topo,default,d,1829,1,1
+21,lines,5,16,22,default,diff_topo,d,4099,0,1
+21,lines,5,16,16,diff_topo,default,d,4106,1,-1
+21,lines,1,16,16,diff_topo,default,g,2503,0,-1
+21,lines,0,16,10,default,diff_topo,g,1720,1,1
+21,lines,0,16,16,default,diff_topo,g,1218,1,-1
+21,lines,5,10,16,default,diff_topo,d,991,0,1
+21,lines,0,16,22,default,diff_topo,d,2622,0,1
+21,lines,1,10,16,default,diff_topo,d,1760,0,1
+21,lines,5,16,16,diff_topo,default,g,5262,0,-1
+21,lines,1,16,16,default,diff_topo,d,2220,0,-1
+21,lines,0,16,16,diff_topo,default,d,4513,1,-1
+21,lines,0,10,16,diff_topo,default,d,889,1,1
+21,lines,1,16,16,default,diff_topo,g,1683,1,-1
+21,lines,5,16,22,diff_topo,default,d,1568,1,1
+21,lines,5,16,16,diff_topo,default,g,2310,0,-1
+21,lines,5,10,16,default,diff_topo,d,808,0,1
+21,lines,5,16,22,default,diff_topo,d,940,0,1
+21,lines,0,16,22,diff_topo,default,d,671,1,1
+21,lines,5,22,16,diff_topo,default,g,880,0,1
+21,lines,1,16,10,default,diff_topo,g,721,1,1
