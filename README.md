@@ -29,8 +29,8 @@ Exemple de topologie :
 ![Exemple de topologie](image/article-topologie.png) 
 
 Pour démontrer cela, les auteurs ont mis en place plusieurs expériences : 
-* La première expérience consiste à déterminer si deux formes sont identiques ou non. L'idée est d'afficher des formes similaires partageant ou non la même topologie, et de mesurer le temps que le participant met pour les différencier. 
-* Dans la deuxième expérience, il s'agit de trouver une forme parmi d'autres similaires à nouveau partageant ou non la même topologie. 
+* La première expérience consiste à déterminer si deux formes sont identiques ou non. L'idée est d'afficher des formes similaires partageant ou non la même topologie, et de mesurer le temps que le participant met pour les différencier. L'objectif est de mettre en avant le fait que nous sommes plus efficaces pour différencier deux formes présentant des topologies différentes. 
+* Dans la deuxième expérience, il s'agit de trouver une forme parmi d'autres similaires à nouveau partageant ou non la même topologie. A nouveau, l'idée est de montrer qu'il est à al fois plus simple et plus rapide de discriminer deux formes qui présentes des différences de topologie plutôt que de simples différences géométriques.
 * Enfin, pour la troisième expérience, le participant doit déterminer parmi deux lots de formes lequel contient le plus de lignes. L'objectif ici est de montrer que la topologie "T" apparaît comme plus complexe et possédant plus de lignes que la topologie "L".  
 
 
