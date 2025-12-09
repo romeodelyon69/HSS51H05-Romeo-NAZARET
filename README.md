@@ -1,6 +1,7 @@
 # Perceiving Topological Relations <!-- omit in toc -->
 
 Lien page : https://romeodelyon69.github.io/HSS51H05-Romeo-NAZARET/
+
 Lien github : https://github.com/romeodelyon69/HSS51H05-Romeo-NAZARET
 
 Ce dépôt contient une réplication des expériences présentées dans l'article **"Perceiving Topological Relations"** de Yousif & Brannon (2025).
